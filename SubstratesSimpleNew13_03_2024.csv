@@ -1,0 +1,2405 @@
+['Alkyne_Terminal']	C#CCC	54.09	4
+['Amine_Secondary']	CCNC	59.11	4
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	O=C1C=CCO1	84.07	6
+['Amide_Secondary']	CNC(C)=O	73.09	5
+['Oxime']	C/C=N\O	59.07	4
+['Ketimine_EWG']	CC(C)(C)C(=O)N=C1COC1	155.2	11
+['Acetal_Alkyl']	COCOC	76.09	5
+['Thiophenol']	Sc1ccccc1	110.18	7
+['Acyl_Halide']	CC(=O)Cl	78.5	4
+['Nitrile']	CC(C)(C)C#N	83.13	6
+['SemiUreas']	COC(N)=S	91.13	5
+['Cyanamide']	CNC#N	56.07	4
+['SulfonylChloride']	CS(=O)(=O)Cl	114.55	5
+['Weinreb_Amide']	O=C1CCON1	87.08	6
+['Sulfoxide_Enolizable']	CS(C)=O	78.14	4
+['Vinyl_Bromide_Iodide']	C=C(C)Br	120.98	4
+['PhosphorylChloride_PX4']	CP(C)(=O)Cl	112.5	5
+['Ketone_Enolizable']	CC(C)=O	58.08	4
+['Isocyanate']	CN=C=O	57.05	4
+['Ester_NonEnolizable']	COC(=O)C(C)(C)C	116.16	8
+['Sulfonamide_NH']	CS(N)(=O)=O	95.12	5
+['Thiol ']	CCCS	76.16	4
+['Isothiocyanate']	CN=C=S	73.12	4
+['Carboxylic acid']	CC(=O)O	60.05	4
+['Amine_Primary']	CCCN	59.11	4
+['Aldehyde_Enolizable']	CCC=O	58.08	4
+['DienoneCyclic']	O=C1C=CCCC=C1	108.14	8
+['Michael_Acceptor_Alkyne_Aldehyde']	C#CC=O	54.05	4
+['nH_Heterocycle r5']	c1cc[nH]c1	67.09	5
+['Aryl_Bromide']	Brc1ccccc1	157.01	7
+['Aldehyde_sp3_NonEnolizable']	CC(C)(C)C=O	86.13	6
+['Alcohol']	CO	32.04	2
+['ThioAmide']	CCC(N)=S	89.16	5
+['Michael_Acceptor_Alkyne_Amide']	C#CC(=O)N(C)C	97.12	7
+['DiEWG_Cmpd_Carbonyl_SP']	COP(=O)(CC(C)=O)OC	166.11	10
+['Amide_Tertiary']	CC(=O)N(C)C	87.12	6
+['Chloramines']	CN(C)Cl	79.53	4
+['DiEWG_Cmpd_DiCarbonyl_Cyclic']	O=C1CCC(=O)C1	98.1	7
+['Phenol']	Oc1ccccc1	94.11	7
+['Internal_Michael_Acceptor_Alkene_Nitro']	C/C=C\[N+](=O)[O-]	87.08	6
+['Enamine']	C1=CNCC1	69.11	5
+['Anhydride']	O=C1CCC(=O)O1	100.07	7
+['Enol_Ether_Alkyl']	C=COC	58.08	4
+['HemiaminalNH']	OC1CCCN1	87.12	6
+['Alkene_Internal']	C/C=C\C	56.11	4
+['Thiourea']	NC(N)=S	76.12	4
+['nH_Heterocycle r6']	O=c1cc[nH]cc1	95.1	7
+['Ester_Enolizable']	COC(C)=O	74.08	5
+['Alcohol_Propargyl']	C#CCO	56.06	4
+['Nitro']	CC(C)(C)[N+](=O)[O-]	103.12	7
+['Ureas']	NC(N)=O	60.06	4
+['Sulfonamide_Sulfone_Enolizable']	COS(C)(=O)=O	110.13	6
+['Alcohol_Allyl']	C=CCO	58.08	4
+['Guanidine']	N=C(N)N	59.07	4
+['HydroxylamineN']	NO	33.03	2
+['Alkene_Terminal']	C=C	28.05	2
+['Hydrazine_NH1']	CNNC	60.1	4
+['Hydrazine_NH2']	CN(C)N	60.1	4
+['DieneAcyclicInternal']	C/C=C\C=C\C	82.15	6
+['Aldimine']	CC1(C)CCC=N1	97.16	7
+['Amide_Primary']	CC(N)=O	59.07	4
+['Amidine']	CC(=N)N	58.08	4
+['Imide_SulfonimideH']	O=CNC=O	73.05	5
+['Internal_Michael_Acceptor_Aldehyde']	C/C=C\C=O	70.09	5
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H']	O=C1C=CCC1	82.1	6
+['Hydrazone']	C1=NNCC1	70.09	5
+['Phosphonate_Enolizable']	CP(C)(C)=O	92.08	5
+['Alkyl_Halide_Prim_Cl']	CCCCl	78.54	4
+['Enol_Ether_EWG']	C=C1CC(=O)O1	84.07	6
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	CC1=CCOC1=O	98.1	7
+['Nitroso']	CN(C)N=O	74.08	5
+['Aryl_Iodide']	Ic1ccccc1	204.01	7
+['Internal_Michael_Acceptor_Alkene_C#N']	C/C=C/C#N	67.09	5
+['Alkyl_Halide_Secondary_Cl']	CC(C)Cl	78.54	4
+['Nitrile _Enolizable']	CC#N	41.05	3
+['Dicarbonyl_Cmpd_NoCarbonyl']	O=[N+]([O-])C[N+](=O)[O-]	106.04	7
+['Borate']	C[B-](F)(F)F	82.84	5
+['Aldehyde_Aryl']	O=Cc1ccccc1	106.12	8
+['Vinyl_Chloride']	C/C=C\Cl	76.53	4
+['SilylStannylChloride']	C[Si](C)(C)Cl	108.64	5
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_H']	CN1CC=CC1=O	97.12	7
+['DiEWG_Cmpd_DiCarbonyl_Acyclic']	CC(=O)CC(C)=O	100.12	7
+['Enamine_EWG']	C=CNC(C)=O	85.11	6
+['DieneCyclic']	C1=CCC=C1	66.1	5
+['Ketimine']	CC1=NCCC1	83.13	6
+['Diazo']	CC(C)=[N+]=[N-]	70.09	5
+['Michael_Acceptor_Alkyne_P']	C#CP(=O)(OCC)OCC	162.12	10
+['DiEWG_Cmpd_Carbonyl_NO2']	CC(=O)C[N+](=O)[O-]	103.08	7
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_Sub']	C/C=C(/C)C(C)=O	98.14	7
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H']	C/C=C\C(C)=O	84.12	6
+['ThioEster']	CSC(C)=O	90.15	5
+['Allene']	C=C=CC	54.09	4
+['Internal_Michael_Acceptor_Alkene_S']	O=C1C=CS(=O)N1	117.13	7
+['Thioacetal_CH']	C1CSCS1	106.22	5
+['Alkyl_Halide_Prim_ACT_I']	COCI	171.97	4
+['Terminal_Michael_Acceptor_Alkene_Nitro']	C=C[N+](=O)[O-]	73.05	5
+['Alkyne_Internal']	CC#CC	54.09	4
+['Ketone_NonEnolizable']	CC1(C)CCC(C)(C)C1=O	140.23	10
+['Nitro_Enolizable']	C[N+](=O)[O-]	61.04	4
+['Alkyl_Halide_Prim_ACT_Cl']	COCCl	80.51	4
+['Alkyl_Halide_Prim_Br']	CCCBr	122.99	4
+['Hemiacetal']	OC1CCCO1	88.11	6
+['Thiocyanate']	CSC#N	73.12	4
+['Silane_sp2_sp_allyl']	C[Si](C)(C)c1ccccc1	150.3	10
+['DieneAcyclicTerminal']	C=CC=C	54.09	4
+['Disulfide']	CSSC	94.2	4
+['ImidoylChloride']	CCOC(=O)/C(Cl)=N/C	149.58	9
+['ThioAcid']	CCC(=O)S	90.15	5
+['Terminal_Michael_Acceptor_Alkene_Ester']	C=CC(=O)OC	86.09	6
+['Sulfinamide_NH']	CS(N)=O	79.12	4
+['Carbonate']	O=C1OCCO1	88.06	6
+['Alkyl_Halide_Secondary_Br']	CC(C)Br	122.99	4
+['Isonitrile']	[C-]#[N+]CC	55.08	4
+['Thiirane']	CC1CS1	74.15	4
+['Alkyl_Halide_Prim_ACT_Br']	COCBr	124.97	4
+['Nitrate Ester']	CON=O	61.04	4
+['DienoneAcyclic']	C=CC(=O)C=C	82.1	6
+['Oxirane_Internal']	CC1OC1C	72.11	5
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub']	CC1=CCCC1=O	96.13	7
+['Terminal_Michael_Acceptor_Ketone']	C=CC(C)=O	70.09	5
+['Terminal_Michael_Acceptor_Alkene_Amide']	C=CC(=O)N(C)C	99.13	7
+['HemiaminalNH0']	CN1C(=O)CCC1O	115.13	8
+['Boronic Acid_sp2']	OB(O)c1ccccc1	121.93	9
+['Terminal_Michael_Acceptor_Aldehyde']	C=CC=O	56.06	4
+['Michael_Acceptor_Alkyne_C#N']	C#CC#N	51.05	4
+['Oxirane_Terminal']	CC1CO1	58.08	4
+['ThionoEster']	COC(C)=S	90.15	5
+['Alkyl_Halide_Tertiary_Br']	CC(C)(C)Br	137.02	5
+['PhosphorylChloride_PX3']	CP(C)Cl	96.5	4
+['Acetal_Acyl']	O=C1CC2CCOC2O1	128.13	9
+['Aminal_Alkyl']	COC1CCC(=O)N1C	129.16	9
+['ThioAldehyde']	CCC=S	74.15	4
+['Michael_Acceptor_Alkyne_Ester']	C#CC(=O)OC	84.07	6
+['Alkyl_Halide_Secondary_I']	CC(C)I	169.99	4
+['ThioKetone']	S=C1CCCC1	100.19	6
+['Alkyl_Halide_Prim_I']	CCCI	169.99	4
+['Boronic Ester_sp2']	c1ccc(B2OCCCO2)cc1	162	12
+['Terminal_Michael_Acceptor_Alkene_P']	C=CP(=O)(OC)OC	136.09	8
+['Alkyl_Halide_Tertiary_Cl']	CC(C)(C)Cl	92.57	5
+['Terminal_Michael_Acceptor_Alkene_S']	C=CS(=O)C(C)(C)C	132.23	8
+['DiazoCH']	CCOC(=O)C=[N+]=[N-]	114.1	8
+['Internal_Michael_Acceptor_Alkene_P']	C/C=C/P(=O)(OCC)OCC	178.17	11
+['Terminal_Michael_Acceptor_Alkene_C#N']	C=CC#N	53.06	4
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub']	C/C=C1\CN(Cc2ccccc2)C1=O	187.24	14
+['Stannane_sp2_sp_allyl']	C[Sn](C)(C)c1ccccc1	240.92	10
+['Alkyl_Halide_Tertiary_I']	CC(C)(C)I	184.02	5
+['Diazonium']	N#[N+]c1ccccc1	105.12	8
+['Cyanate']	N#COc1ccccc1	119.12	9
+['OrganoLithiumMagnesium']	[Li]CCCC	64.06	5
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'Boronic Ester_sp2']	CC(=O)/C=C/B1OC(C)(C)C(C)(C)O1	196.05	14
+['Amine_Secondary', 'Amide_Secondary']	CNCC(=O)NC	102.14	7
+['Alcohol', 'Aryl_Bromide']	OCc1ccccc1Br	187.04	9
+['Amide_Primary', 'Amidine']	N=C(N)CC(N)=O	101.11	7
+['Carboxylic acid', 'Ester_Enolizable']	CC(=O)OCC(=O)O	118.09	8
+['Nitrile _Enolizable', 'Amide_Secondary']	CC(=O)NCC#N	98.11	7
+['Amide_Secondary', 'Aryl_Bromide']	O=C1NCc2c(Br)cccc21	212.05	11
+['Ketone_Enolizable', 'nH_Heterocycle r6']	CC(=O)c1cccc(=O)[nH]1	137.14	10
+['Alkyl_Halide_Prim_ACT_I', 'Carbonate']	CCOC(=O)OCI	230	8
+['Amine_Primary', 'DieneAcyclicTerminal']	C=C/C=C/CCN	97.16	7
+['Alcohol_Allyl', 'Terminal_Michael_Acceptor_Alkene_C#N']	C=C(C#N)CO	83.09	6
+['nH_Heterocycle r5', 'Ester_NonEnolizable']	COC(=O)c1ccc[nH]1	125.13	9
+['Sulfonamide_NH', 'Nitrile']	CC(C)(C#N)NS(C)(=O)=O	162.21	10
+['Alcohol', 'Phenol']	OCc1ccccc1O	124.14	9
+['Amide_Tertiary', 'Alkene_Internal']	CC(=O)N1CC=CCC1	125.17	9
+['DiEWG_Cmpd_Carbonyl_SP', 'Amide_Tertiary']	CCOP(=O)(CC(=O)N(C)C)OCC	223.21	14
+['Alcohol_Propargyl', 'Michael_Acceptor_Alkyne_Ester']	COC(=O)C#CCO	114.1	8
+['Alkyl_Halide_Prim_ACT_Cl', 'Imide_SulfonimideH']	CC(=O)NC(=O)CCl	135.55	8
+['Alkene_Terminal', 'Cyanamide']	C=CCNC#N	82.11	6
+['Aldehyde_Aryl', 'Acyl_Halide']	O=Cc1ccccc1C(=O)Cl	168.58	11
+['Amine_Secondary', 'Ketone_Enolizable']	O=C1CNC1	71.08	5
+['Oxirane_Internal', 'Acetal_Alkyl']	C1OCC2OC2CO1	116.12	8
+['Alcohol', 'Acyl_Halide']	CCC(C)(O)C(=O)Cl	136.58	8
+['Alkyl_Halide_Tertiary_Cl', 'Nitro']	CC(C)(Cl)[N+](=O)[O-]	123.54	7
+['Oxirane_Terminal', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	CC(C)(C)OC(=O)/C=C/C1CO1	170.21	12
+['Thiophenol', 'Aryl_Bromide']	Sc1cccc(Br)c1	189.08	8
+['Isothiocyanate', 'Aryl_Bromide']	S=C=Nc1cccc(Br)c1	214.09	10
+['Isothiocyanate', 'Ester_NonEnolizable']	COC(=O)C(C)(C)N=C=S	159.21	10
+['Aryl_F-Cl_Activated', 'Nitrile']	N#Cc1ccccc1Cl	137.57	9
+['Aryl_Iodide', 'Aryl_Bromide']	Brc1cccc(I)c1	282.91	8
+['Amide_Secondary', 'Alkene_Internal']	O=C1C=CCN1	83.09	6
+['Aldehyde_Enolizable', 'Alkyl_Halide_Prim_I']	O=CCCI	183.98	5
+['Acyl_Halide', 'DieneAcyclicTerminal']	C=C/C=C/C(=O)Cl	116.55	7
+['Ester_Enolizable', 'Aryl_Bromide']	CC(=O)Oc1ccccc1Br	215.05	11
+['Alkyl_Halide_Prim_ACT_Br', 'Alkene_Internal']	C/C=C\CBr	135	5
+['SulfonylChloride', 'Alkene_Terminal']	C=CS(=O)(=O)Cl	126.56	6
+['Aryl_Bromide', 'SulfonylChloride']	O=S(=O)(Cl)c1cccc(Br)c1	255.52	11
+['Alkyl_Halide_Secondary_Br', 'Anhydride']	O=C1CC(Br)C(=O)O1	178.97	8
+['Carboxylic acid', 'Nitrile']	CC(C)(C#N)C(=O)O	113.12	8
+['Acyl_Halide', 'Alkene_Internal']	C/C=C/C(=O)Cl	104.54	6
+['Aryl_Bromide', 'Thiourea']	NC(=S)Nc1ccccc1Br	231.12	11
+['Aryl_Bromide', 'Acyl_Halide']	O=C(Cl)c1ccccc1Br	219.46	10
+['Aldehyde_Enolizable', 'Alkyl_Halide_Prim_ACT_I']	O=CCI	169.95	4
+['Amine_Primary', 'Amine_Secondary']	CNCCN	74.13	5
+['Aldehyde_Enolizable', 'Alkyl_Halide_Secondary_Cl']	CCC(Cl)C=O	106.55	6
+['Alcohol', 'Alkyl_Halide_Secondary_Br']	CC(Br)CO	138.99	5
+['Alkyl_Halide_Tertiary_Br', 'Acyl_Halide']	CC(C)(Br)C(=O)Cl	185.45	7
+['Aldehyde_Enolizable', 'Alkyl_Halide_Secondary_Br']	CC(Br)C=O	136.98	5
+['Amine_Secondary', 'Alkyl_Halide_Prim_Br']	CNCCBr	138.01	5
+['Aldehyde_sp3_NonEnolizable', 'Ester_NonEnolizable']	COC(=O)C(C)(C)C=O	130.14	9
+['Enamine', 'Amide_Primary']	NC(=O)C1=CNCCC1	126.16	9
+['Aryl_Bromide', 'Ester_NonEnolizable']	COC(=O)c1ccccc1Br	215.05	11
+['nH_Heterocycle r5', 'Aryl_Bromide']	Brc1cc[nH]c1	145.99	6
+['Amine_Primary', 'Alkyl_Halide_Prim_ACT_Br']	Nc1ccccc1CBr	186.05	9
+['Azide', 'Aryl_Iodide']	[N-]=[N+]=Nc1ccccc1I	245.02	10
+['Amine_Secondary', 'Ester_NonEnolizable']	CNC(C)(C)C(=O)OC	131.17	9
+['Alkyne_Terminal', 'Nitro']	C#Cc1ccccc1[N+](=O)[O-]	147.13	11
+['Amine_Secondary', 'Aryl_Bromide']	CNc1cccc(Br)c1	186.05	9
+['Sulfonamide_NH', 'Aryl_Bromide']	NS(=O)(=O)c1cccc(Br)c1	236.09	11
+['Ketone_Enolizable', 'Acetal_Alkyl']	COC(OC)C(C)=O	118.13	8
+['Aldehyde_Enolizable', 'Alkyne_Internal']	CC#CCC=O	82.1	6
+['Alcohol', 'Ester_Enolizable']	COC(=O)CO	90.08	6
+['Amine_Secondary', 'Nitrile']	CNC(C)(C)C#N	98.15	7
+['Ester_Enolizable', 'Alkyne_Internal']	CC#CCC(=O)OC	112.13	8
+['Amide_Secondary', 'Acyl_Halide']	CC(=O)NCC(=O)Cl	135.55	8
+['Aldehyde_Enolizable', 'Amine_Secondary']	O=CC1CCCN1	99.13	7
+['Aryl_Bromide', 'Nitro']	O=[N+]([O-])c1ccccc1Br	202.01	10
+['Amine_Secondary', 'Aryl_Iodide']	CNc1ccccc1I	233.05	9
+['Amine_Primary', 'Alkyl_Halide_Prim_ACT_Cl']	Nc1ccccc1CCl	141.6	9
+['Acetal_Alkyl', 'Aryl_Bromide']	Brc1ccc2c(c1)OCOC2	215.05	11
+['Aldehyde_Aryl', 'Borate']	O=Cc1ccccc1[B-](F)(F)F	172.92	12
+['Amine_Primary', 'Alkene_Internal']	C/C=C\CN	71.12	5
+['Alcohol', 'HydroxylamineN']	NOCCO	77.08	5
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Aryl_Bromide']	CC(=O)CC(=O)c1ccccc1Br	241.08	13
+['Amine_Primary', 'Aryl_Bromide']	Nc1ccccc1Br	172.02	8
+['Aminal_Alkyl', 'Alkyne_Terminal']	C#CCCN1C(=O)CCC1OCC	181.23	13
+['Azide', 'Alkene_Internal']	[N-]=[N+]=NC/C=C/c1ccccc1	159.19	12
+['Aldimine', 'Amide_Secondary']	O=C1C=NC2CCCCC2N1	152.2	11
+['Amine_Primary', 'Amide_Tertiary']	CN(C)C(=O)CN	102.14	7
+['Amine_Primary', 'Sulfonamide_NH']	NCCS(N)(=O)=O	124.16	7
+['Aryl_Bromide', 'Ureas']	NC(=O)Nc1ccccc1Br	215.05	11
+['Amide_Tertiary', 'Aryl_Bromide']	CN1C(=O)Cc2cccc(Br)c21	226.07	12
+['Alkyl_Halide_Prim_Br', 'Ester_Enolizable']	COC(=O)CCBr	167	7
+['Amine_Primary', 'Nitrile']	CC(C)(N)C#N	84.12	6
+['Amine_Primary', 'Phosphonate_Enolizable']	CCOP(C)(=O)CCCN	165.17	10
+['Phenol', 'Ester_Enolizable']	CC(=O)Oc1ccccc1O	152.15	11
+['Ester_Enolizable', 'Alkyne_Terminal']	C#CCC(=O)OC	98.1	7
+['Alcohol', 'Amine_Secondary']	CNCCO	75.11	5
+['Aldehyde_Aryl', 'Aryl_F-Cl_Activated']	O=Cc1ccccc1Cl	140.57	9
+['Alkyne_Terminal', 'Guanidine']	C#CCNC(=N)N	97.12	7
+['Amine_Primary', 'Acetal_Alkyl']	COC(CN)OC	105.14	7
+['Amine_Primary', 'nH_Heterocycle r6']	Nc1cccc(=O)[nH]1	110.12	8
+['Internal_Michael_Acceptor_Aldehyde', 'Boronic Ester_sp2']	CC1(C)OB(/C=C\C=O)OC1(C)C	182.03	13
+['nH_Heterocycle r5', 'Nitro']	O=[N+]([O-])c1cc[nH]c1	112.09	8
+['Amine_Primary', 'Amide_Secondary']	CNC(=O)CN	88.11	6
+['Sulfonamide_NH', 'Ester_Enolizable']	COC(=O)C1CS(=O)(=O)N1	165.17	10
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Ester_NonEnolizable']	COC(=O)C(=O)C1CCCC1=O	170.16	12
+['Alkyl_Halide_Secondary_Br', 'Amide_Secondary']	O=C1NCCC1Br	164	7
+['Carboxylic acid', 'Vinyl_Chloride']	O=C(O)/C=C/Cl	106.51	6
+['Alcohol', 'Sulfonamide_NH']	NS(=O)(=O)CCO	125.15	7
+['Amide_Tertiary', 'Amide_Primary']	CN1C(=O)CCC1C(N)=O	142.16	10
+['Amine_Secondary', 'Ester_Enolizable']	CNCC(=O)OC	103.12	7
+['nH_Heterocycle r5', 'Sulfoxide_Enolizable']	CS(=O)c1ccc[nH]1	129.18	8
+['Amine_Secondary', 'HemiaminalNH0']	CC(O)N1CCNCC1	130.19	9
+['Phenol', 'Amine_Secondary']	CNc1cccc(O)c1	123.15	9
+['Boronic Ester_sp2', 'Vinyl_Bromide_Iodide']	CC1(C)OB(/C=C/Br)OC1(C)C	232.91	12
+['Amine_Secondary', 'Amide_Tertiary']	CN1CCNCC1=O	114.15	8
+['Phenol', 'Amine_Primary']	Nc1ccccc1O	109.13	8
+['nH_Heterocycle r5', 'Ester_Enolizable']	COC(=O)Cc1ccc[nH]1	139.15	10
+['Carboxylic acid', 'Sulfonamide_NH']	NS(=O)(=O)CC(=O)O	139.13	8
+['Ketone_NonEnolizable', 'Ester_NonEnolizable']	COC(=O)C(=O)C(C)(C)C	144.17	10
+['Amide_Tertiary', 'Amide_Secondary']	CN1CC(=O)NCC1=O	128.13	9
+['Ester_Enolizable', 'Nitro']	COC(=O)CCC(C)(C)[N+](=O)[O-]	175.18	12
+['Carboxylic acid', 'Nitro']	O=C(O)c1ccccc1[N+](=O)[O-]	167.12	12
+['nH_Heterocycle r5', 'Nitrile']	N#Cc1cc[nH]c1	92.1	7
+['Carboxylic acid', 'Amide_Tertiary']	CN(C)C(=O)C(=O)O	117.1	8
+['Amine_Secondary', 'nH_Heterocycle r6']	CNc1cccc(=O)[nH]1	124.14	9
+['Amide_Primary', 'nH_Heterocycle r5']	NC(=O)c1cc[nH]c1	110.12	8
+['Aldehyde_Enolizable', 'Nitrile _Enolizable']	N#CCC=O	69.06	5
+['Amide_Tertiary', 'Ester_Enolizable']	COC(=O)C1CC(=O)N(C)C1	157.17	11
+['Amine_Secondary', 'Amide_Primary']	CNCC(N)=O	88.11	6
+['Amine_Primary', 'Alkyne_Internal']	CC#CCN	69.11	5
+['nH_Heterocycle r6', 'Aryl_Iodide']	O=c1cccc(I)[nH]1	221	8
+['Alkyl_Halide_Secondary_Cl', 'Amide_Tertiary']	CC(Cl)C(=O)N(C)C	135.59	8
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub', 'Thiourea']	C/C=C1\NC(=S)N(c2ccccc2)C1=O	218.28	15
+['Enamine', 'ThioKetone']	CNC1=CC(=S)CC(C)(C)C1	169.29	11
+['SulfonylChloride', 'Alkene_Internal']	C/C=C/S(=O)(=O)Cl	140.59	7
+['HemiaminalNH', 'Aryl_Bromide']	O=C1NC(O)c2cc(Br)ccc21	228.04	12
+['Enamine', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_Sub']	CCC(=O)/C(C)=C\N	113.16	8
+['Enamine', 'Nitrile']	C/C(N)=C/C#N	82.11	6
+['Enamine_EWG', 'Alkyl_Halide_Prim_Br']	CCOC(=O)/C=C1/SCC(=O)N1CCBr	294.17	15
+['Amine_Secondary', 'DiEWG_Cmpd_DiCarbonyl_Cyclic']	O=C1CNCC(=O)C1	113.12	8
+['Phosphonate_Enolizable', 'Aryl_Bromide']	CP(C)(=O)c1ccccc1Br	233.04	11
+['Alkene_Internal', 'Nitrile']	CC(C)=CC#N	81.12	6
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Nitrile _Enolizable']	N#CCCC1C(=O)CCCC1=O	165.19	12
+['Amide_Tertiary', 'Anhydride']	CC(=O)N1CC(=O)OC(=O)C1	157.12	11
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Acyl_Halide']	COC(=O)/C=C\C(=O)Cl	148.54	9
+['Oxirane_Internal', 'Ketone_Enolizable']	O=C1CCC2OC12	98.1	7
+['Ketone_Enolizable', 'Alkene_Terminal']	C=CCCC(C)=O	98.14	7
+['DiEWG_Cmpd_Carbonyl_CF3_CN', 'Nitrile']	CC(=O)CC#N	83.09	6
+['Alcohol', 'nH_Heterocycle r6']	O=c1cc[nH]c(CO)c1	125.13	9
+['Alkyl_Halide_Prim_Br', 'Nitrile']	CC(C)(C#N)CBr	162.03	7
+['Alkene_Internal', 'Amidine']	CC/C=C/C(=N)N	98.15	7
+['Phenol', 'Nitro']	O=[N+]([O-])c1ccccc1O	139.11	10
+['Amine_Primary', 'Alkene_Terminal']	C=CCN	57.1	4
+['Weinreb_Amide', 'Alkyl_Halide_Prim_ACT_Br']	CON(C)C(=O)CBr	182.02	8
+['Amine_Primary', 'Nitrile _Enolizable']	N#CCN	56.07	4
+['Carboxylic acid', 'Acetal_Alkyl']	COC(OC)C(=O)O	120.1	8
+['Amide_Secondary', 'Ureas']	CNC(=O)CNC(N)=O	131.14	9
+['Amine_Primary', 'nH_Heterocycle r5']	Nc1ccc[nH]1	82.11	6
+['Nitrile _Enolizable', 'Amide_Tertiary']	CN1C(=O)CCC1C#N	124.14	9
+['Alkyl_Halide_Prim_ACT_Cl', 'Ketone_Enolizable']	CC(=O)CCl	92.53	5
+['Carboxylic acid', 'Amine_Primary']	NCC(=O)O	75.07	5
+['Alcohol', 'Amide_Tertiary']	CN(C)C(=O)CO	103.12	7
+['Carboxylic acid', 'Alkene_Internal']	C/C=C/C(=O)O	86.09	6
+['Ketone_Enolizable', 'Alkene_Internal']	O=C1CC=CC1	82.1	6
+['Carboxylic acid', 'nH_Heterocycle r5']	O=C(O)c1ccc[nH]1	111.1	8
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Ester_NonEnolizable']	COC(=O)C(=O)CC(C)=O	144.13	10
+['Alkene_Terminal', 'Ureas']	C=CCNC(N)=O	100.12	7
+['Carboxylic acid', 'Amide_Secondary']	CNC(=O)C(=O)O	103.08	7
+['Nitrile _Enolizable', 'Amidine']	N#CCC(=N)N	83.09	6
+['Ketone_Enolizable', 'Nitrile']	CC(=O)C#N	69.06	5
+['Amide_Secondary', 'Thiourea']	CNC(=O)CNC(=S)NN	162.22	10
+['Acetal_Alkyl', 'Nitro_Enolizable']	CC1(C)OCC([N+](=O)[O-])CO1	161.16	11
+['Amine_Secondary', 'Nitro']	CNc1cccc([N+](=O)[O-])c1	152.15	11
+['Phenol', 'Amide_Secondary']	O=C1Cc2cccc(O)c2N1	149.15	11
+['Amine_Primary', 'Amide_Primary']	CC(N)C(N)=O	88.11	6
+['Alcohol', 'Amide_Secondary']	CNC(=O)CO	89.09	6
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_H', 'DieneAcyclicInternal']	C/C=C/C=C/C(=O)N(C)C	139.2	10
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'Ketone_NonEnolizable']	C/C=C\C(=O)c1ccccc1	146.19	11
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Vinyl_Bromide_Iodide']	O=C1OCCC=C1Br	177	8
+['Alkene_Terminal', 'Thiourea']	C=CCNC(N)=S	116.19	7
+['Oxime', 'Alkene_Internal']	C/C=C(C)/C=N/O	99.13	7
+['Sulfonamide_NH', 'Nitro']	NS(=O)(=O)c1cccc([N+](=O)[O-])c1	202.19	13
+['Alcohol', 'Ureas']	NC(=O)NCCO	104.11	7
+['Amide_Primary', 'Ester_NonEnolizable']	COC(=O)C(N)=O	103.08	7
+['Ketone_Enolizable', 'Sulfonamide_NH']	NS(=O)(=O)C1CCC(=O)CC1	177.22	11
+['Alkene_Internal', 'Thiourea']	NC(=S)N1CC=CCC1	142.23	9
+['Phenol', 'Amidine']	N=C(N)c1ccccc1O	136.15	10
+['Amine_Secondary', 'nH_Heterocycle r5']	CNc1cc[nH]n1	97.12	7
+['Ester_Enolizable', 'Alkene_Internal']	C/C=C\CC(=O)OC	114.14	8
+['Phenol', 'Sulfonamide_NH']	NS(=O)(=O)c1cccc(O)c1	173.19	11
+['Azide', 'Amide_Primary']	[N-]=[N+]=NCC(N)=O	100.08	7
+['Ketone_Enolizable', 'SemiUreas']	CC(C)(C)OC(=O)N1CC(=O)CO1	187.19	13
+['Hydrazine_NH1', 'Ureas']	CNNC(=O)NC	103.12	7
+['Carboxylic acid', 'Amine_Secondary']	CNCC(=O)O	89.09	6
+['Thiol ', 'Amide_Secondary']	CNC(=O)CS	105.16	6
+['Amide_Tertiary', 'Ureas']	CC(=O)N1CCN(C(N)=O)CC1	171.2	12
+['Sulfonamide_NH', 'nH_Heterocycle r5']	NS(=O)(=O)c1c[nH]cn1	147.16	9
+['Carboxylic acid', 'Phosphonate_Enolizable']	CP(C)(=O)CC(=O)O	136.09	8
+['Nitrile _Enolizable', 'SemiUreas']	CN(C)C(=S)SCC#N	160.27	9
+['Enamine_EWG', 'Ureas']	C=CNC(N)=O	86.09	6
+['Amide_Secondary', 'nH_Heterocycle r5']	CNC(=O)c1ccc[nH]1	124.14	9
+['Amide_Secondary', 'Nitro']	O=C1NCc2c1cccc2[N+](=O)[O-]	178.15	13
+['Amide_Secondary', 'Aryl_Iodide']	O=C1NCc2ccc(I)cc21	259.05	11
+['Alkyl_Halide_Prim_ACT_Br', 'Ester_Enolizable']	COC(=O)CBr	152.98	6
+['Phosphonate_Enolizable', 'Alkene_Internal']	CC1C=CCP1(C)=O	130.13	8
+['Nitrile _Enolizable', 'Nitroso']	CN(CCC#N)N=O	113.12	8
+['Aryl_Bromide', 'Alkene_Internal']	CC1=Cc2c(Br)cccc2C1	209.09	11
+['Amine_Primary', 'Azide']	[N-]=[N+]=NCCN	86.1	6
+['Alcohol_Allyl', 'Carboxylic acid']	O=C(O)/C=C\CO	102.09	7
+['Hydrazine_NH1', 'Alkene_Internal']	C1=CCNNC1	84.12	6
+['Hydrazine_NH1', 'Thiourea']	CNNC(N)=S	105.17	6
+['Carboxylic acid', 'Oxime']	O=C(O)/C=N/O	89.05	6
+['Carboxylic acid', 'Hydrazine_NH2']	NNC(=O)C(=O)O	104.06	7
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Ester_Enolizable']	CCOC(=O)C1CC(=O)CC(=O)C1	184.19	13
+['Hydrazone', 'Amide_Secondary']	CNC(=O)C(=O)N/N=C/c1ccccc1	205.22	15
+['Ketone_Enolizable', 'Amidine']	N=C(N)CC(=O)C1CCCCC1	168.24	12
+['Thiourea', 'Ureas']	NC(=O)NC(N)=S	119.15	7
+['Alcohol', 'Ketone_Enolizable']	CC(=O)CO	74.08	5
+['Internal_Michael_Acceptor_Aldehyde', 'Alkene_Internal']	CC1=C(C/C=C(/C)C=O)C(C)(C)CCC1	206.33	15
+['Oxirane_Internal', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C/C1OC1C	142.15	10
+['Amide_Secondary', 'Nitrile']	CC1(C#N)CCC(=O)N1	124.14	9
+['Alcohol', 'Carboxylic acid']	O=C(O)CO	76.05	5
+['Amide_Secondary', 'Ester_Enolizable']	COC(=O)CNC(C)=O	131.13	9
+['Hydrazine_NH1', 'SemiUreas']	CNNC(=O)OC	104.11	7
+['Imide_SulfonimideH', 'Ureas']	NC(=O)NC=O	88.07	6
+['Alkyl_Halide_Prim_ACT_Cl', 'Amide_Secondary']	CNC(=O)CCl	107.54	6
+['Carboxylic acid', 'Thiourea']	NC(=S)NCC(=O)O	134.16	8
+['Internal_Michael_Acceptor_Alkene_P', 'Phosphonate_Enolizable']	CP1(=O)C=CCO1	118.07	7
+['Alcohol', 'Thiourea']	OC1CNC(=S)NC1	132.19	8
+['Hydrazine_NH1', 'Alkyl_Halide_Prim_ACT_Cl']	CC(=O)NNC(=O)CCl	150.56	9
+['Phenol', 'Amide_Primary']	NC(=O)c1ccccc1O	137.14	10
+['Nitrile _Enolizable', 'Sulfonamide_NH']	N#CCCS(N)(=O)=O	134.16	8
+['Amide_Tertiary', 'Ketone_NonEnolizable']	CN1C(=O)C(=O)c2ccccc21	161.16	12
+['Amine_Primary', 'Thiourea']	NCCNC(N)=S	119.19	7
+['Enamine', 'Michael_Acceptor_Alkene_diEWG']	CC(=O)C(=CN)C(C)=O	127.14	9
+['Phenol', 'Alkene_Internal']	C/C=C\c1ccccc1O	134.18	10
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Ester_Enolizable']	COC(=O)CCC(=O)CC(C)=O	172.18	12
+['Amine_Secondary', 'Nitrile _Enolizable']	CNCC#N	70.09	5
+['Hydrazine_NH2', 'Ureas']	NNC(N)=O	75.07	5
+['Ester_Enolizable', 'SemiUreas']	CCOC(=O)C1CSC(=O)N1	175.21	11
+['Alkyne_Terminal', 'Ureas']	C#CCNC(N)=O	98.11	7
+['Phenol', 'Carboxylic acid']	O=C(O)c1ccccc1O	138.12	10
+['Nitrile _Enolizable', 'Thiourea']	N#CC1CCNC(=S)N1	141.2	9
+['ThioAcid', 'Amide_Secondary']	O=C(S)CNC(=O)c1ccccc1	195.24	13
+['Alkyl_Halide_Prim_ACT_Cl', 'Ester_Enolizable']	COC(=O)CCl	108.52	6
+['Nitrile _Enolizable', 'Ketone_Enolizable']	CC(=O)CCC#N	97.12	7
+['Ketone_Enolizable', 'Amide_Primary']	CC(=O)C(N)=O	87.08	6
+['nH_Heterocycle r6', 'Nitro']	O=c1[nH]cccc1[N+](=O)[O-]	140.1	10
+['Ureas', 'SemiUreas']	CNC(=O)ON(C(C)=O)C(=O)NC	189.17	13
+['Aldehyde_Aryl', 'Phenol']	O=Cc1ccccc1O	122.12	9
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Enol_Ether_Alkyl']	COC(=O)C1CC(OC)=CC1=O	170.16	12
+['Carboxylic acid', 'Amidine']	N=CNCC(=O)O	102.09	7
+['Carboxylic acid', 'nH_Heterocycle r6']	O=C(O)c1cccc(=O)[nH]1	139.11	10
+['Alkyl_Halide_Tertiary_Cl', 'Sulfonamide_NH']	CC(C)(Cl)CNS(=O)(=O)c1ccccc1	247.75	15
+['Amide_Primary', 'Aryl_Bromide']	NC(=O)c1ccccc1Br	200.03	10
+['HydroxylamineN', 'Amide_Primary']	CC1(C)CC(C(N)=O)C(C)(C)N1O	186.25	13
+['Amide_Secondary', 'SemiUreas']	NC(=O)SCC(=O)Nc1ccccc1	210.26	14
+['Phosphonate_Enolizable', 'Aryl_Iodide']	CP(C)(=O)c1ccccc1I	280.04	11
+['Ester_Enolizable', 'Borate']	COC(=O)CC[B-](F)(F)F	154.9	10
+['Enamine', 'Enol_Ether_Alkyl']	C=C(N)OC	73.09	5
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Sulfonamide_NH']	COC(=O)C1=CCCCC1S(N)(=O)=O	219.26	14
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'SulfonylChloride']	COC(=O)C1=CCCCC1S(=O)(=O)Cl	238.69	14
+['Ketone_Enolizable', 'Ureas']	NC(=O)N1CCC(=O)CC1	142.16	10
+['Amide_Tertiary', 'Alkene_Terminal']	C=CCN(C)C(C)=O	113.16	8
+['Alcohol', 'Dicarbonyl_Cmpd_NoCarbonyl']	COP(=O)(OC)C(CO)P(=O)(OC)OC	262.13	15
+['Thiophenol', 'Hydrazine_NH2']	NNc1cc2ccccc2cc1S	190.27	13
+['nH_Heterocycle r5', 'Aryl_Iodide']	Ic1cc[nH]c1	192.99	6
+['Ketone_Enolizable', 'Amide_Tertiary']	CC(=O)N1CC(=O)C1	113.12	8
+['nH_Heterocycle r5', 'Boronic Acid_sp2']	OB(O)c1ccc[nH]1	110.91	8
+['Alkene_Terminal', 'SemiUreas']	C=CCOC(N)=S	117.17	7
+['Amine_Secondary', 'Sulfoxide_Enolizable']	O=S1CCNCC1	119.19	7
+['Amine_Primary', 'Imide_SulfonimideH']	NC1CC(=O)NC1=O	114.1	8
+['Amide_Primary', 'Ureas']	NC(=O)C1CCCN(C(N)=O)C1	171.2	12
+['Amide_Primary', 'Sulfonamide_NH']	NC(=O)c1ccccc1S(N)(=O)=O	200.22	13
+['Sulfoxide_Enolizable', 'Alkene_Internal']	CS(=O)(=O)N1CC=CCS1=O	195.27	11
+['Alkyne_Internal', 'Silane_sp2_sp_allyl']	CC#C[Si](C)(C)C	112.25	7
+['Nitro', 'Ester_NonEnolizable']	CCOC(=O)C(C)(C)[N+](=O)[O-]	161.16	11
+['Aryl_Bromide', 'Alkyne_Internal']	Brc1ccccc1C#Cc1ccccc1	257.13	15
+['Aldehyde_Enolizable', 'Ketone_Enolizable']	CC(=O)CC=O	86.09	6
+['Amide_Tertiary', 'Guanidine']	N=C(N)NCC(=O)N1CCCC1	170.22	12
+['Alkene_Terminal', 'Guanidine']	C=CCNC(=N)N	99.14	7
+['Nitrile _Enolizable', 'Oxime']	N#CC1CCC/C1=N\O	124.14	9
+['Alkene_Internal', 'Guanidine']	CC(C)=CCNC(=N)N	127.19	9
+['Phenol', 'Sulfoxide_Enolizable']	CS(=O)c1ccccc1O	156.21	10
+['Ketone_Enolizable', 'Nitro']	CC(=O)CCC(C)(C)[N+](=O)[O-]	159.19	11
+['Oxime', 'Ketone_NonEnolizable']	C/C(=N/O)C(=O)C(C)(C)C	143.19	10
+['Aldehyde_Aryl', 'Aryl_Bromide']	O=Cc1ccccc1Br	185.02	9
+['Enamine', 'Internal_Michael_Acceptor_Aldehyde']	N/C=C\C=O	71.08	5
+['Enol_Ether_Alkyl', 'Guanidine']	CCN(CC)/C(N)=N/CC1CCC=CO1	211.31	15
+['Isothiocyanate', 'nH_Heterocycle r5']	S=C=Nc1cccc2cn[nH]c12	175.22	12
+['Hydrazine_NH2', 'nH_Heterocycle r6']	NNc1cccc(=O)[nH]1	125.13	9
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub']	CC1=COCC(C)C1=O	126.15	9
+['Amine_Secondary', 'Ketone_NonEnolizable']	CC1(C)Nc2ccccc2C1=O	161.2	12
+['Aldehyde_Enolizable', 'Ester_Enolizable']	CC(=O)OCC=O	102.09	7
+['Amine_Primary', 'Nitro']	CC(C)(CCN)[N+](=O)[O-]	132.16	9
+['Boronic Acid_sp2', 'Nitrile']	N#Cc1cccc(B(O)O)c1	146.94	11
+['Nitrile', 'Ester_NonEnolizable']	COC(=O)C(C)(C)C#N	127.14	9
+['Ketone_Enolizable', 'Borate']	O=C1CCC([B-](F)(F)F)C1	150.92	10
+['Ketone_Enolizable', 'Aryl_Iodide']	CC(=O)c1cccc(I)c1	246.05	10
+['Alkyl_Halide_Prim_Cl', 'Sulfinamide_NH']	CC(C)(C)S(=O)NCCCl	183.7	10
+['Thiophenol', 'Amine_Primary']	Nc1cccc(S)c1	125.2	8
+['Amide_Secondary', 'Imide_SulfonimideH']	O=C1CC2(CCC(=O)NC2=O)CN1	182.18	13
+['Boronic Acid_sp2', 'Alkene_Internal']	C/C=C\B(O)O	85.9	6
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Boronic Acid_sp2']	COC(=O)/C=C/B(O)O	129.91	9
+['Acetal_Alkyl', 'Boronic Acid_sp2']	COCOc1ccccc1B(O)O	181.98	13
+['Internal_Michael_Acceptor_Alkene_C#N', 'Boronic Acid_sp2']	N#C/C=C\c1ccccc1B(O)O	172.98	13
+['Ester_Enolizable', 'Ureas']	COC(=O)C1CNC(=O)N1	144.13	10
+['Alkyl_Halide_Secondary_I', 'Amide_Tertiary']	CC(=O)N1CCC(I)C1	239.06	9
+['Amine_Primary', 'HydroxylamineN']	NCCON	76.1	5
+['Amine_Primary', 'Alkyne_Terminal']	C#CCN	55.08	4
+['Sulfonamide_NH', 'Alkyne_Terminal']	C#CCCS(N)(=O)=O	133.17	8
+['Alkyl_Halide_Prim_ACT_Cl', 'Alkene_Internal']	C/C=C\CCl	90.55	5
+['HydroxylamineN', 'HemiaminalNH0']	CCON1CCN(C(C)O)CC1	174.24	12
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Nitrile']	CCOC(=O)/C(C)=C/C#N	139.15	10
+['Alkene_Internal', 'SemiUreas']	CC1=C(C)C(C)NC(=O)S1	157.24	10
+['Amide_Primary', 'Aryl_Iodide']	NC(=O)c1cccc(I)c1	247.03	10
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Amide_Tertiary']	CN1CC(=O)CC1=O	113.12	8
+['Carboxylic acid', 'Enol_Ether_Alkyl']	C=C(OC)C(=O)O	102.09	7
+['Amide_Secondary', 'Aryl_F-Cl_Activated']	O=C1NCc2cccc(Cl)c21	167.59	11
+['Weinreb_Amide', 'Alkene_Internal']	O=C(CC1=CCCCC1)N1CCCCO1	209.29	15
+['Amide_Secondary', 'Alkyne_Terminal']	C#CC(=O)NC	83.09	6
+['Ester_Enolizable', 'Ester_NonEnolizable']	CCOC(=O)C(C)(C)OC(C)=O	174.2	12
+['Amide_Secondary', 'Sulfonamide_NH']	CC(=O)NCCS(N)(=O)=O	166.2	10
+['Ketone_Enolizable', 'Amide_Secondary']	O=C1CCC(=O)NC1	113.12	8
+['Phenol', 'Boronic Acid_sp2']	OB(O)c1ccccc1O	137.93	10
+['Amide_Secondary', 'Ester_NonEnolizable']	CNC(=O)C(=O)OC	117.1	8
+['Alcohol', 'Alkyl_Halide_Tertiary_I']	CC(C)(I)CCO	214.05	7
+['Enamine', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H']	CC(=O)/C=C/N	85.11	6
+['Enol_Ether_Alkyl', 'Amide_Secondary']	COC1=CC(=O)NC1	113.12	8
+['Aldehyde_Aryl', 'Amine_Primary']	Nc1ccccc1C=O	121.14	9
+['Alcohol', 'Guanidine']	N=C(N)NCCO	103.12	7
+['Vinyl_Bromide_Iodide', 'Ureas']	C=C(Br)CNC(=O)NCCCC	235.12	12
+['Ketone_Enolizable', 'Ester_NonEnolizable']	COC(=O)C(C)=O	102.09	7
+['Hydrazine_NH2', 'Amide_Tertiary']	CN1CCN(N)CC1=O	129.16	9
+['Alcohol', 'Amine_Primary']	NCCO	61.08	4
+['Acetal_Alkyl', 'Ester_Enolizable']	COC(=O)C(OC)OC	134.13	9
+['Amine_Secondary', 'Alkyne_Internal']	CC#CCNC	83.13	6
+['Alcohol', 'nH_Heterocycle r5']	OCc1ccc[nH]1	97.12	7
+['Azide', 'Acyl_Halide']	[N-]=[N+]=NCC(=O)Cl	119.51	7
+['DiEWG_Cmpd_Carbonyl_SP', 'Sulfonamide_NH']	CNS(=O)(=O)CC(C)=O	151.19	9
+['Amine_Primary', 'Sulfoxide_Enolizable']	CS(=O)CCN	107.18	6
+['Aryl_Iodide', 'Ureas']	CNC(=O)Nc1ccccc1I	276.08	12
+['Alkyl_Halide_Prim_I', 'Azide']	[N-]=[N+]=NCCI	196.98	6
+['Alcohol_Allyl', 'Enol_Ether_Alkyl']	OCC1=CCCCO1	114.14	8
+['Alcohol', 'Thiol ']	OCCS	78.14	4
+['Enol_Ether_Alkyl', 'Alkene_Internal']	COC1=CCC=CC1	110.16	8
+['Ester_Enolizable', 'Phosphonate_Enolizable']	CC(=O)OC1CCP(C)(=O)C1	176.15	11
+['Alcohol_Allyl', 'Amine_Primary']	NC/C=C/CO	87.12	6
+['Alcohol_Allyl', 'Silane_sp2_sp_allyl']	C=C(CO)[Si](C)(C)C	130.26	8
+['Enol_Ether_Alkyl', 'Silane_sp2_sp_allyl']	C=C(OC)[Si](C)(C)C	130.26	8
+['Enol_Ether_Alkyl', 'Vinyl_Chloride']	CCO/C=C/Cl	106.55	6
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Amide_Secondary']	O=C1CNC(=O)C1	99.09	7
+['SulfonylChloride', 'Nitrile']	CC(C)(C#N)S(=O)(=O)Cl	167.62	9
+['Enamine', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C\N	101.11	7
+['Carboxylic acid', 'Azide']	[N-]=[N+]=NCC(=O)O	101.06	7
+['Amine_Primary', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	COC(=O)C1=CCC(N)C1	141.17	10
+['Alcohol', 'HemiaminalNH0']	O=C1c2ccccc2C(O)N1CCO	193.2	14
+['Alkyl_Halide_Prim_Br', 'Amide_Secondary']	CNC(=O)CCBr	166.02	7
+['Alcohol', 'Hydrazine_NH2']	NNCCO	76.1	5
+['Enol_Ether_Alkyl', 'Vinyl_Bromide_Iodide']	BrC1=COCC1	148.99	6
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	CO/C=C\C(=O)OC	116.12	8
+['Phenol', 'nH_Heterocycle r5']	Oc1cc[nH]n1	84.08	6
+['Hydrazone', 'SemiUreas']	C/C=N\NC(=O)OC	116.12	8
+['Internal_Michael_Acceptor_Aldehyde', 'DieneAcyclicInternal']	C/C=C/C=C\C=O	96.13	7
+['Oxime', 'DienoneCyclic']	O=C1C=CC(=NO)C=C1	123.11	9
+['Enamine', 'Vinyl_Chloride']	CC1=C(Cl)N(C)CC1	131.61	8
+['HydroxylamineN', 'Oxime']	CC(C)(/C=N\O)NO	118.14	8
+['Oxime', 'Amide_Secondary']	CNC(=O)/C(C)=N\O	116.12	8
+['nH_Heterocycle r6', 'Nitrile']	N#Cc1ccc(=O)[nH]c1	120.11	9
+['Carboxylic acid', 'DieneAcyclicTerminal']	C=C/C=C\C(=O)O	98.1	7
+['Internal_Michael_Acceptor_Aldehyde', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C\C=O	114.1	8
+['Phenol', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H']	CC(=O)/C=C\c1ccccc1O	162.19	12
+['Amine_Secondary', 'Alkyl_Halide_Secondary_Cl']	ClC1CCNC1	105.57	6
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Internal_Michael_Acceptor_Alkene_S']	COC(=O)/C=C\S(=O)c1ccccc1	210.25	14
+['Thiol ', 'Hydrazine_NH2']	NNC(=O)CS	106.15	6
+['Enamine', 'Internal_Michael_Acceptor_Alkene_C#N']	CN(C)/C=C\C#N	96.13	7
+['Acetal_Alkyl', 'Alkene_Terminal']	C=CCOCOC	102.13	7
+['Carboxylic acid', 'Ketone_Enolizable']	CC(=O)C(=O)O	88.06	6
+['Alkyl_Halide_Prim_Cl', 'Acetal_Alkyl']	COCOCCCl	124.57	7
+['Alcohol', 'Acetal_Alkyl']	OC1COCOC1	104.11	7
+['Alkyl_Halide_Prim_Cl', 'Nitroso']	CN(CCCl)N=O	122.56	7
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Vinyl_Chloride']	O=C1OCC=C1Cl	118.52	7
+['Enamine_EWG', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub']	CC(=O)C1=CNC(=O)CC1	139.15	10
+['SemiUreas', 'Azo']	O=C1NC(=S)C(/N=N/c2ccccc2)S1	237.31	15
+['Enamine_EWG', 'Ester_Enolizable']	COC(=O)CC1=CCC(=O)N1C	169.18	12
+['Amine_Primary', 'Hydrazine_NH1']	CN1CC(N)C(=O)N1	115.14	8
+['Amine_Primary', 'Ester_NonEnolizable']	COC(=O)C(C)(C)N	117.15	8
+['Amine_Secondary', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	COC(=O)C1=CCCNC1	141.17	10
+['Acetal_Alkyl', 'Amide_Secondary']	COC(CNC(C)=O)OC	147.17	10
+['Phenol', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C\c1ccccc1O	178.19	13
+['Alcohol_Allyl', 'Alcohol']	C=CC(O)CO	88.11	6
+['Phenol', 'Ketone_Enolizable']	CC(=O)c1cccc(O)c1	136.15	10
+['Alkyl_Halide_Tertiary_Cl', 'Nitrile']	N#CC1(Cl)CCCCC1	143.62	9
+['Enamine_EWG', 'DieneCyclic']	CC1=CC=CC(C)C(=O)N1	137.18	10
+['Imide_SulfonimideH', 'Vinyl_Chloride']	CCSC1=C(Cl)C(=O)NC1=O	191.64	11
+['Alkene_Internal', 'Nitro']	CC(C)=C[N+](=O)[O-]	101.1	7
+['Alcohol', 'Ketimine']	CC1=NC(C)(C)CC2CCC(O)C12	181.28	13
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Azo']	CC(=O)CC(=O)C/N=N/c1ccccc1	204.23	15
+['Enamine', 'Isonitrile']	[C-]#[N+]/C(=C\N(C)C)C(=O)OC	154.17	11
+['Carboxylic acid', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	O=C1C=CC(C(=O)O)O1	128.08	9
+['Alcohol_Allyl', 'Ester_Enolizable']	CC(=O)OC1C=CC(O)C1	142.15	10
+['Amide_Secondary', 'Amide_Primary']	CNC(=O)C(N)=O	102.09	7
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Amide_Primary']	COC(=O)/C=C\C(N)=O	129.12	9
+['Internal_Michael_Acceptor_Alkene_C#N', 'Vinyl_Bromide_Iodide']	C/C(C#N)=C/Br	145.99	6
+['Alcohol', 'Alkene_Internal']	OC1CC=CC1	84.12	6
+['Michael_Acceptor_Alkene_diEWG', 'Nitrile']	CC=C(C#N)C#N	92.1	7
+['Carboxylic acid', 'Nitro_Enolizable']	O=C(O)CC[N+](=O)[O-]	119.08	8
+['Amine_Secondary', 'Oxirane_Terminal']	CC(C)(C)NCC1CO1	129.2	9
+['Phosphonate_Enolizable', 'Alkene_Terminal']	C=CCP(=O)(OC)OC	150.11	9
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Aryl_Iodide']	COC(=O)CC(=O)c1ccccc1I	304.08	14
+['Nitro_Enolizable', 'Alkene_Terminal']	C=CC[N+](=O)[O-]	87.08	6
+['Ester_Enolizable', 'Carbonate']	COC(=O)OC(C)C(=O)OC	162.14	11
+['Alkyl_Halide_Secondary_Br', 'Ester_Enolizable']	COC(=O)C(C)Br	167	7
+['Oxirane_Internal', 'Amide_Primary']	CC1(C)OC1C(N)=O	115.13	8
+['Alcohol', 'Aminal_Alkyl']	CCCC1OCCN1CCO	159.23	11
+['Carboxylic acid', 'SemiUreas']	O=C1NCC(C(=O)O)S1	147.15	9
+['Nitrile _Enolizable', 'Oxirane_Terminal']	N#CC1CO1	69.06	5
+['Alkyl_Halide_Secondary_I', 'Ester_Enolizable']	CCOC(=O)C(C)I	228.03	8
+['Amide_Secondary', 'Alkene_Terminal']	C=CC(=O)NC	85.11	6
+['HemiaminalNH', 'SemiUreas']	O=C1NC(O)c2ccccc2O1	165.15	12
+['Carboxylic acid', 'Ureas']	NC(=O)NCC(=O)O	118.09	8
+['Alkyl_Halide_Secondary_Br', 'Imide_SulfonimideH']	O=C1CC(Br)C(=O)N1	177.99	8
+['Alcohol', 'Nitro']	CC(C)(CO)[N+](=O)[O-]	119.12	8
+['Alcohol', 'Nitro_Enolizable']	CC(O)C[N+](=O)[O-]	105.09	7
+['Alkyl_Halide_Prim_Cl', 'Nitro_Enolizable']	O=[N+]([O-])CCCl	109.51	6
+['Amide_Primary', 'Ester_Enolizable']	CC(=O)OC(C)C(N)=O	131.13	9
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Amide_Secondary']	CNC(=O)CC(C)=O	115.13	8
+['Alkyl_Halide_Prim_Br', 'Phosphonate_Enolizable']	COP(=O)(CCBr)OC	217	9
+['Ketone_Enolizable', 'Nitro_Enolizable']	CC(=O)CC[N+](=O)[O-]	117.1	8
+['Carboxylic acid', 'Amide_Primary']	NC(=O)C(=O)O	89.05	6
+['Alcohol', 'Alkene_Terminal']	C=CCCO	72.11	5
+['ThioEster', 'nH_Heterocycle r5']	O=C(Sc1ncc[nH]1)c1ccccc1	204.25	14
+['DieneAcyclicInternal', 'Nitrile']	CCOC(=O)/C(C#N)=C1/C=CCCC1	191.23	14
+['Carboxylic acid', 'Vinyl_Bromide_Iodide']	C=C(Br)C(=O)O	150.96	6
+['ThioEster', 'Amide_Primary']	CC(=O)SCC(C)C(N)=O	161.23	10
+['Nitrile', 'Amidine']	CCN(CC)C(=N)C#N	125.17	9
+['Ketone_Enolizable', 'DieneAcyclicInternal']	CC12CCC=CC1=CC(=O)CC2	162.23	12
+['Carboxylic acid', 'Terminal_Michael_Acceptor_Alkene_Ester']	C=C1C(=O)OCC1C(=O)O	142.11	10
+['Carboxylic acid', 'Oxirane_Internal']	CC1(C)OC1C(=O)O	116.12	8
+['Amine_Primary', 'Alkyl_Halide_Secondary_I']	NC1CCCCC1I	225.07	8
+['Aryl_F-Cl_Activated', 'Nitro']	O=[N+]([O-])c1ccccc1Cl	157.56	10
+['nH_Heterocycle r5', 'Guanidine']	N=C(N)Nc1nnn[nH]1	127.11	9
+['Enamine', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	NC1=CCOC1=O	99.09	7
+['Alkyl_Halide_Prim_ACT_Cl', 'Internal_Michael_Acceptor_Alkene_Nitro']	C/C(=C/CCl)[N+](=O)[O-]	135.55	8
+['Amide_Secondary', 'Amidine']	CNC(=O)CC(=N)N	115.14	8
+['Alkyl_Halide_Prim_ACT_Cl', 'Amidine']	N=C(N)CCl	92.53	5
+['Alcohol', 'ThioEster']	O=C1SCCC1CO	132.18	8
+['Amine_Secondary', 'Hydrazine_NH2']	NNC1CCNC1	101.15	7
+['Alkyl_Halide_Secondary_Cl', 'Amidine']	CC(Cl)C(=N)N	106.56	6
+['HydroxylamineN', 'Ketone_Enolizable']	CON1CCC(=O)CC1	129.16	9
+['Imide_SulfonimideH', 'SemiUreas']	O=C1COC(=O)N1	101.06	7
+['Amide_Primary', 'Alkene_Internal']	C/C=C\C(N)=O	85.11	6
+['Internal_Michael_Acceptor_Aldehyde', 'Ester_Enolizable']	CC(=O)Oc1ccccc1/C=C/C=O	190.2	14
+['Michael_Acceptor_Alkene_diEWG', 'Ketone_NonEnolizable']	CC(=O)C1=CC(=O)c2ccccc2C1=O	200.19	15
+['Ketone_Enolizable', 'Ester_Enolizable']	CC(=O)COC(C)=O	116.12	8
+['nH_Heterocycle r6', 'Aryl_Bromide']	O=c1ccc(Br)c[nH]1	174	8
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Amide_Primary']	NC(=O)C1CCCC1=O	127.14	9
+['Alkyl_Halide_Prim_Cl', 'Ureas']	NC(=O)NCCCl	122.56	7
+['Michael_Acceptor_Alkyne_Ester', 'Amide_Primary']	COC(=O)C#CC(N)=O	127.1	9
+['HemiaminalNH', 'Alkene_Internal']	CC1=CC(=O)NC1O	113.12	8
+['Nitrile _Enolizable', 'Ester_NonEnolizable']	CC(C)(C)C(=O)OCC#N	141.17	10
+['Acetal_Alkyl', 'Nitro']	CC1([N+](=O)[O-])COCOC1	147.13	10
+['Alkyl_Halide_Prim_Cl', 'Sulfonamide_Sulfone_Enolizable']	CS(=O)(=O)OCCCl	158.61	8
+['Alkyl_Halide_Secondary_Br', 'Ketone_Enolizable']	CC(=O)C(C)Br	151	6
+['Sulfonamide_NH', 'Acyl_Halide']	NS(=O)(=O)c1cccc(C(=O)Cl)c1	219.65	13
+['Enamine_EWG', 'SemiUreas']	C=CNC(=O)OC	101.1	7
+['Enol_Ether_EWG', 'SemiUreas']	C=COC(N)=O	87.08	6
+['Carboxylic acid', 'Guanidine']	N=C(N)NCC(=O)O	117.11	8
+['Thiocyanate', 'Vinyl_Chloride']	N#CSC/C=C/Cl	133.6	7
+['Enamine_EWG', 'Amide_Primary']	NC(=O)/C=C1/NC(=O)CS1	158.18	10
+['Phenol', 'Amide_Tertiary']	CN1C(=O)Cc2ccc(O)cc21	163.18	12
+['Alcohol', 'SemiUreas']	O=C1NC(CO)CS1	133.17	8
+['Alcohol', 'Amidine']	N=C(N)CO	74.08	5
+['Ester_Enolizable', 'Nitro_Enolizable']	CCOC(=O)CC[N+](=O)[O-]	147.13	10
+['Ureas', 'Chloramines']	CC1(C)NC(=O)N(Cl)C1=O	162.58	10
+['Alkyl_Halide_Prim_Br', 'Sulfonamide_Sulfone_Enolizable']	CS(=O)(=O)OCCBr	203.06	8
+['Amine_Secondary', 'Alkyne_Terminal']	C#CCNC	69.11	5
+['Ketone_Enolizable', 'Thioacetal_CH']	CCSC(SCC)C(C)=O	178.32	10
+['Alkyl_Halide_Prim_Br', 'Ureas']	O=C1NCCN1CCBr	193.04	9
+['Alcohol', 'Oxirane_Internal']	CC1OC1CO	88.11	6
+['Phenol', 'Alkene_Terminal']	C=Cc1ccccc1O	120.15	9
+['Carboxylic acid', 'Thiocyanate']	N#CSCC(=O)O	117.13	7
+['Ester_Enolizable', 'Guanidine']	COC(=O)CCNC(=N)N	145.16	10
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Alkene_Internal']	C/C=C/C1C=CC(=O)O1	124.14	9
+['Terminal_Michael_Acceptor_Ketone', 'Ester_Enolizable']	C=CC(=O)COC(C)=O	128.13	9
+['Alcohol', 'Thiocyanate']	N#CSC1CCCC1O	143.21	9
+['Ureas', 'Guanidine']	N=C1NCNC(=O)N1	114.11	8
+['Nitrile _Enolizable', 'Ureas']	N#CCNC(N)=O	99.09	7
+['Hydrazone', 'Alkene_Terminal']	C=C(C)/C=N/NC(C)=O	126.16	9
+['Nitrile _Enolizable', 'Nitro']	CC(C)(CCC#N)[N+](=O)[O-]	142.16	10
+['Thiocyanate', 'Amide_Secondary']	N#CSC1CCCCNC1=O	170.24	11
+['Alcohol', 'Hydrazine_NH1']	CC(C)NNC(=O)C(C)O	146.19	10
+['Aldehyde_sp3_NonEnolizable', 'Amine_Secondary']	CC(C)(C=O)CNC(C)(C)C	157.26	11
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub', 'Alkene_Internal']	CC(=O)C1=CCC(=C(C)C)C1	150.22	11
+['Alkyl_Halide_Tertiary_Br', 'Ketone_Enolizable']	CC(=O)C(C)(C)Br	165.03	7
+['Carboxylic acid', 'ThioEster']	CC(=O)SCC(=O)O	134.16	8
+['Aldehyde_Enolizable', 'Alcohol']	O=CCO	60.05	4
+['Amide_Tertiary', 'Vinyl_Bromide_Iodide']	C=C(Br)CN(C)C(C)=O	192.06	9
+['Terminal_Michael_Acceptor_Ketone', 'Ketone_NonEnolizable']	C=CC(=O)C(C)(C)C	112.17	8
+['Amine_Primary', 'Aryl_F-Cl_Activated']	Cc1cc(S(=O)(=O)NO)c(N)cc1Cl	236.68	14
+['Oxirane_Internal', 'Nitrile']	CCC1(C#N)OC1C	111.14	8
+['Aldehyde_sp3_NonEnolizable', 'Alkene_Internal']	CC(C)=CC(C)(C)C=O	126.2	9
+['Phenol', 'Nitrile']	N#Cc1ccccc1O	119.12	9
+['Alkyl_Halide_Tertiary_Cl', 'Ketone_NonEnolizable']	O=C(c1ccccc1)C1(Cl)CCCCC1	222.71	15
+['Alkyl_Halide_Tertiary_Br', 'Amide_Primary']	CC(C)(Br)C(N)=O	166.02	7
+['Alkyl_Halide_Prim_ACT_I', 'Amide_Secondary']	CNC(=O)CI	198.99	6
+['Alkyl_Halide_Prim_Cl', 'Ester_Enolizable']	CC(=O)OCCCl	122.55	7
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H', 'Hemiacetal']	O=C1C=CC(O)OC1	114.1	8
+['Phenol', 'Aryl_Bromide']	Oc1cccc(Br)c1	173.01	8
+['Amide_Primary', 'SemiUreas']	NC(=O)CCSC(N)=O	148.19	9
+['Amine_Primary', 'Disulfide']	NC1CSSC1	121.23	6
+['Imide_SulfonimideH', 'Alkene_Internal']	O=C1C=CC(=O)N1	97.07	7
+['Carboxylic acid', 'Allene']	C=C=C(CCCC)C(=O)O	140.18	10
+['Hydrazone', 'nH_Heterocycle r5']	O=C1NN=Cc2c[nH]c3cccc1c23	185.19	14
+['Hydrazone', 'Ureas']	C/C=N\NC(N)=O	101.11	7
+['Carboxylic acid', 'Ester_NonEnolizable']	COC(=O)C(=O)O	104.06	7
+['Hydrazine_NH1', 'Amide_Primary']	NC(=O)C(=O)NNc1ccccc1	179.18	13
+['Alkyl_Halide_Secondary_Cl', 'Amide_Primary']	CC(Cl)C(N)=O	107.54	6
+['Alcohol', 'Aryl_Iodide']	OCc1ccccc1I	234.04	9
+['Amine_Primary', 'Allene']	C=C=CCN	69.11	5
+['Amine_Secondary', 'Guanidine']	N=C(N)N1CCNCC1	128.18	9
+['Carboxylic acid', 'Disulfide']	CSSCC(=O)O	138.21	7
+['Ketone_Enolizable', 'ThioEster']	CC(=O)CCSC(C)=O	146.21	9
+['Alkyl_Halide_Prim_ACT_Br', 'Vinyl_Bromide_Iodide']	Br/C=C\CBr	199.87	5
+['Nitro_Enolizable', 'Nitro']	O=[N+]([O-])Cc1ccccc1[N+](=O)[O-]	182.13	13
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Alkene_Internal']	CC(=O)C1CCC(C)=CC1=O	152.19	11
+['Carboxylic acid', 'Alkyl_Halide_Secondary_Cl']	CC(Cl)C(=O)O	108.52	6
+['ThioEster', 'Alkene_Terminal']	C=CCSC(C)=O	116.18	7
+['Ketone_Enolizable', 'nH_Heterocycle r5']	CC(=O)c1cc[nH]c1	109.13	8
+['Cyanamide', 'Guanidine']	N#C/N=C(\N)NC#N	109.09	8
+['Nitrile _Enolizable', 'Nitro_Enolizable']	CC(CCCC#N)[N+](=O)[O-]	142.16	10
+['Aryl_F-Cl_Activated', 'Ester_NonEnolizable']	COC(=O)c1ccccc1Cl	170.59	11
+['Internal_Michael_Acceptor_Aldehyde', 'Alkene_Terminal']	C=CC(C)(C)/C=C/C=O	124.18	9
+['Aldehyde_Aryl', 'nH_Heterocycle r5']	O=Cc1ccc[nH]1	95.1	7
+['Alkyl_Halide_Secondary_Br', 'Acetal_Alkyl']	COC(OC)C(C)Br	183.04	8
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkene_Internal']	CC(=O)C(C(C)=O)C1C=CCC1	166.22	12
+['Enamine', 'Terminal_Michael_Acceptor_Alkene_C#N']	C=C(C#N)N(C)C	96.13	7
+['Phenol', 'Imide_SulfonimideH']	O=C1NC(=O)c2c(O)cccc21	163.13	12
+['Alkyl_Halide_Prim_ACT_I', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	CCOC(=O)/C=C/CI	240.04	9
+['HydroxylamineN', 'Amide_Tertiary']	NOCC(=O)N1CCCCC1	158.2	11
+['Alkyl_Halide_Prim_Cl', 'Amide_Tertiary']	CN(C)C(=O)CCCl	135.59	8
+['Amine_Secondary', 'Ureas']	NC(=O)NC1CCNC1	129.16	9
+['Amide_Tertiary', 'Aryl_Iodide']	CN(C)C(=O)c1ccccc1I	275.09	12
+['Carboxylic acid', 'ThioKetone']	O=C(O)C(=S)Cc1ccccc1	180.23	12
+['Hydrazine_NH1', 'nH_Heterocycle r5']	CC(=O)NNc1nc2ccccc2[nH]1	190.21	14
+['Carboxylic acid', 'HydroxylamineN']	O=C(O)CNO	91.07	6
+['Carboxylic acid', 'ThioAmide']	CC(=S)NCC(=O)O	133.17	8
+['Nitrile', 'Ureas']	N#Cc1ccccc1NC(N)=O	161.16	12
+['Alkyl_Halide_Secondary_Cl', 'Alkene_Terminal']	C=CC(C)Cl	90.55	5
+['Enamine', 'Ketone_NonEnolizable']	CC1(C)CCC(N)=CC1=O	139.2	10
+['Alcohol_Allyl', 'Boronic Ester_sp2']	CC1(C)OB(/C=C/CO)OC1(C)C	184.04	13
+['Boronic Ester_sp2', 'Alkene_Internal']	C/C=C\B1OC(C)(C)C(C)(C)O1	168.04	12
+['Alkyl_Halide_Prim_Br', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	O=C1C=CC(CBr)O1	177	8
+['Alkene_Terminal', 'Silane_sp2_sp_allyl']	C=C[Si](C)(C)C	100.24	6
+['Alkene_Internal', 'Silane_sp2_sp_allyl']	C/C=C/[Si](C)(C)C	114.26	7
+['Nitrile _Enolizable', 'Boronic Acid_sp2']	N#CCc1ccccc1B(O)O	160.97	12
+['Nitrile _Enolizable', 'SilylStannylChloride']	C[Si](C)(Cl)CCCC#N	161.71	9
+['Michael_Acceptor_Alkyne_Ester', 'Amide_Secondary']	COC(=O)C#CCNC(C)=O	155.15	11
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Boronic Ester_sp2']	COC(=O)/C=C/B1OC(C)(C)C(C)(C)O1	212.05	15
+['Phenol', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	O=C1OCC/C1=C/c1ccccc1O	190.2	14
+['Oxime', 'Aryl_Iodide']	ON=Cc1ccccc1I	247.03	10
+['Amine_Primary', 'DiEWG_Cmpd_DiCarbonyl_Cyclic']	NC1C(=O)NC(c2ccccc2)NC1=O	205.22	15
+['Oxime', 'nH_Heterocycle r5']	ON=Cc1ccc[nH]1	110.12	8
+['DieneAcyclicTerminal', 'DieneAcyclicInternal']	C=C/C=C/C=C/CCC	122.21	9
+['Anhydride', 'Alkene_Internal']	O=C1C=CC(=O)O1	98.06	7
+['Ketone_Enolizable', 'Aryl_Bromide']	O=C1Cc2cccc(Br)c21	197.03	10
+['Enol_Ether_Alkyl', 'ThioAmide']	CCO/C=C/C(=S)Nc1ccccc1	207.3	14
+['Amide_Tertiary', 'Sulfonamide_NH']	CN(C)C(=O)CNS(C)(=O)=O	180.23	11
+['Alcohol', 'Allene']	C=C=CCO	70.09	5
+['Alkene_Internal', 'Alkene_Terminal']	C=CC/C=C\C	82.15	6
+['DieneAcyclicInternal', 'Nitro']	CC(C)=C/C=C\c1ccccc1[N+](=O)[O-]	203.24	15
+['Aryl_Bromide', 'DieneAcyclicInternal']	CC(C)=C/C=C\c1ccccc1Br	237.14	13
+['Alcohol', 'Weinreb_Amide']	CON(C)C(=O)C(C)(C)CO	161.2	11
+['Alcohol', 'DiEWG_Cmpd_DiCarbonyl_Acyclic']	CCOC(=O)CC(=O)CC(C)O	174.2	12
+['Carboxylic acid', 'Enamine_EWG']	CC(=O)N/C=C\C(=O)O	129.11	9
+['Isonitrile', 'Ester_Enolizable']	[C-]#[N+]CC(=O)OC	99.09	7
+['Isonitrile', 'Ester_NonEnolizable']	[C-]#[N+]C(C)(C)C(=O)OCC	141.17	10
+['Alcohol', 'Alkyl_Halide_Prim_I']	OCCI	171.97	4
+['PhosphorylChloride_PX4', 'Alkene_Internal']	O=P1(Cl)CC=CC1	136.52	7
+['Nitro', 'Guanidine']	NC(N)=Nc1ccccc1[N+](=O)[O-]	180.17	13
+['Phenol', 'Thiourea']	NC(=S)Nc1ccccc1O	168.22	11
+['Azide', 'nH_Heterocycle r5']	[N-]=[N+]=Nc1ncn[nH]1	110.08	8
+['Alcohol_Allyl', 'Nitrile']	C=CC(O)C#N	83.09	6
+['Nitro', 'Nitrile']	CCC(C)(C#N)[N+](=O)[O-]	128.13	9
+['Alkyl_Halide_Prim_ACT_I', 'Vinyl_Bromide_Iodide']	C/C(I)=C\CI	307.9	6
+['Amine_Primary', 'Ureas']	NCCNC(N)=O	103.12	7
+['Enol_Ether_Alkyl', 'Acyl_Halide']	CCO/C=C\C(=O)Cl	134.56	8
+['Acetal_Alkyl', 'nH_Heterocycle r5']	COC(OC)c1ncc[nH]1	142.16	10
+['Alkyl_Halide_Prim_Br', 'Acetal_Alkyl']	COCOCCBr	169.02	7
+['Alcohol', 'Nitrile']	CC(C)(O)C#N	85.11	6
+['DieneAcyclicTerminal', 'Alkene_Terminal']	C=C/C=C\CC=C	94.16	7
+['Nitrile _Enolizable', 'nH_Heterocycle r5']	N#CCc1ccc[nH]1	106.13	8
+['Alkyl_Halide_Prim_I', 'Ester_NonEnolizable']	COC(=O)C(C)(C)CI	242.06	9
+['ThioAmide', 'Ester_Enolizable']	CC(=O)OCC(N)=S	133.17	8
+['Alcohol', 'Enol_Ether_Alkyl']	C=COCCO	88.11	6
+['Amine_Secondary', 'Azide']	[N-]=[N+]=NCC1CCCN1	126.16	9
+['Enol_Ether_EWG', 'Alkyl_Halide_Prim_ACT_Br']	C=COC(=O)CBr	164.99	7
+['Alkyne_Internal', 'Alkyne_Terminal']	C#CCC#CC	78.11	6
+['Isothiocyanate', 'Nitro']	O=[N+]([O-])c1cccc(N=C=S)c1	180.19	12
+['Alcohol_Allyl', 'Nitrile _Enolizable']	N#CC/C=C\CO	97.12	7
+['Amine_Secondary', 'Silane_sp2_sp_allyl']	CCc1cccc([Si](C)(C)C)c1CNC	221.42	15
+['HemiaminalNH0', 'Alkene_Terminal']	C=CCN1C(=O)c2ccccc2C1O	189.21	14
+['Aldehyde_Aryl', 'Azide']	[N-]=[N+]=Nc1ccccc1C=O	147.14	11
+['Phenol', 'Aminal_Alkyl']	CN1CCOC1c1ccccc1O	179.22	13
+['Phenol', 'Hydrazone']	CN(C)/N=C\c1ccccc1O	164.21	12
+['Hydrazone', 'Aryl_Bromide']	CC(=O)N/N=C/c1cccc(Br)c1	241.09	13
+['Internal_Michael_Acceptor_Alkene_Nitro', 'nH_Heterocycle r5']	O=[N+]([O-])/C=C/c1ccc[nH]1	138.13	10
+['Aryl_Iodide', 'Nitro']	O=[N+]([O-])c1ccccc1I	249.01	10
+['Internal_Michael_Acceptor_Alkene_Nitro', 'Aryl_Iodide']	O=[N+]([O-])/C=C\c1ccccc1I	275.04	12
+['Aryl_Bromide', 'Nitrile']	N#Cc1ccccc1Br	182.02	9
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	CO/C=C(\C)C(=O)OC	130.14	9
+['Alcohol_Allyl', 'Vinyl_Bromide_Iodide']	C=C(Br)CO	136.98	5
+['Alcohol', 'Michael_Acceptor_Alkyne_Ester']	CCOC(=O)C#CCC(C)O	156.18	11
+['Alcohol', 'Terminal_Michael_Acceptor_Ketone']	C=CC(=O)CO	86.09	6
+['Internal_Michael_Acceptor_Alkene_C#N', 'nH_Heterocycle r5']	N#C/C(=C/c1ccc[nH]1)c1ccccc1	194.24	15
+['Carboxylic acid', 'Alkyl_Halide_Prim_Br']	O=C(O)CCBr	152.98	6
+['Hydrazine_NH2', 'Alkene_Terminal']	C=CCNN	72.11	5
+['Acetal_Alkyl', 'Acyl_Halide']	CC(C)C1OCC(C(=O)Cl)CO1	192.64	12
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub', 'DieneCyclic']	O=C1CCC2C=CC=C12	120.15	9
+['Thiol ', 'ThionoEster']	COC(=S)CCS	136.24	7
+['Alkyl_Halide_Prim_I', 'Acetal_Alkyl']	COCOCCI	216.02	7
+['Hydrazone', 'Aryl_F-Cl_Activated']	CN(C)/N=C/c1ccccc1Cl	182.65	12
+['Alcohol_Allyl', 'Internal_Michael_Acceptor_Alkene_C#N']	N#C/C=C\CO	83.09	6
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub']	CC1=CC(=O)CC1=O	110.11	8
+['Aldehyde_Enolizable', 'ThioEster']	CC(=O)SCCC=O	132.18	8
+['Oxirane_Terminal', 'DieneAcyclicInternal']	CC1=C(/C=C/C2(C)CO2)C(C)(C)CCC1	206.33	15
+['Phenol', 'Alkyl_Halide_Prim_ACT_Br']	Oc1ccccc1CBr	187.04	9
+['Alkyl_Halide_Prim_Br', 'Ketone_Enolizable']	CC(=O)CCBr	151	6
+['Alkyl_Halide_Secondary_Cl', 'Ketone_Enolizable']	CC(=O)C(C)Cl	106.55	6
+['Aldehyde_Enolizable', 'Thiol ']	O=CCS	76.12	4
+['Nitrile _Enolizable', 'Guanidine']	N#CCC(=O)N=C(N)N	126.12	9
+['Phenol', 'Nitroso']	Cc1ccc(O)c(N=O)c1	137.14	10
+['Alkyl_Halide_Prim_Cl', 'Guanidine']	N/C(=N\[N+](=O)[O-])NCCCl	166.57	10
+['Carboxylic acid', 'Nitroso']	CN(CC(=O)O)N=O	118.09	8
+['Amide_Secondary', 'nH_Heterocycle r6']	CNC(=O)c1ccc[nH]c1=O	152.15	11
+['Enamine', 'Amide_Secondary']	CC1(C)CC(N)=CC(=O)N1	140.19	10
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Ketone_Enolizable']	CC(=O)C1CCCC(=O)C1=O	154.16	11
+['Amine_Primary', 'Enamine']	CC1(C)CC(=O)C(N)=C(CN)C1	168.24	12
+['Alkyl_Halide_Secondary_I', 'Amide_Secondary']	O=C1CC2CCC(I)C2N1	251.07	10
+['Alkyl_Halide_Tertiary_Cl', 'Ester_NonEnolizable']	COC(=O)C(C)(C)Cl	136.58	8
+['Aryl_Iodide', 'Thiourea']	NC(=S)Nc1ccccc1I	278.12	11
+['Carboxylic acid', 'Enamine']	C=CNCC(=O)O	101.1	7
+['Sulfonamide_NH', 'Guanidine']	NC(N)=Nc1ccccc1S(N)(=O)=O	214.25	14
+['Hydrazine_NH1', 'Nitrile']	CN(C)NC(C)(C)C#N	127.19	9
+['Hydrazine_NH2', 'Ester_Enolizable']	COC(=O)CNN	104.11	7
+['Hydrazine_NH1', 'Amide_Secondary']	CNNCCC(=O)NC(C)C	159.23	11
+['Carboxylic acid', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	COC(=O)C1=CCCCC1(C)C(=O)O	198.22	14
+['Internal_Michael_Acceptor_Alkene_C#N', 'Amide_Primary']	N#C/C=C\C(N)=O	96.09	7
+['Alkene_Terminal', 'Amidine']	C=CC(=N)N	70.09	5
+['DieneAcyclicTerminal', 'SemiUreas']	C=C/C=C/NC(=O)Sc1ccccc1	205.28	14
+['Sulfonamide_NH', 'Vinyl_Chloride']	C=C(Cl)CS(N)(=O)=O	155.61	8
+['Alkyl_Halide_Prim_ACT_Br', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	C/C=C(/CBr)C(=O)OC	193.04	9
+['Amide_Secondary', 'Vinyl_Chloride']	O=C1NCCC=C1Cl	131.56	8
+['Thiol ', 'Ureas']	NC(=O)NCCS	120.18	7
+['Amide_Primary', 'nH_Heterocycle r6']	NC(=O)c1cccc(=O)[nH]1	138.13	10
+['Oxime', 'Ketone_Enolizable']	CC(=O)C=NO	87.08	6
+['nH_Heterocycle r5', 'Thiourea']	Cc1cc(NC(N)=S)[nH]n1	156.21	10
+['Amine_Primary', 'Oxime']	Nc1ccccc1/C=N/O	136.15	10
+['Phenol', 'Aldimine']	C/N=C\c1ccccc1O	135.17	10
+['Phenol', 'nH_Heterocycle r6']	O=c1cccc(O)[nH]1	111.1	8
+['Carboxylic acid', 'Enol_Ether_EWG']	O=C(O)/C=C1\CCC(=O)O1	142.11	10
+['Enamine', 'ThioAmide']	C/C(N)=C\C(N)=S	116.19	7
+['Enamine', 'Ester_Enolizable']	COC(=O)/C=C(\N)CC(=O)OC	173.17	12
+['Vinyl_Chloride', 'Acyl_Halide']	O=C(Cl)/C=C\Cl	124.95	6
+['Alkyl_Halide_Prim_ACT_I', 'nH_Heterocycle r5']	ICc1nc2ccccc2[nH]1	258.06	11
+['Ketimine', 'Enamine']	CC1=CC(C)=NCCN1	124.19	9
+['Thiol ', 'Hydrazine_NH1']	O=C(CS)NNc1ccccc1	182.25	12
+['Amine_Primary', 'ThioAmide']	CC(N)C(N)=S	104.18	6
+['Aldimine', 'Ester_Enolizable']	CCOC(=O)C1CCC=N1	141.17	10
+['Alcohol_Allyl', 'Phenol']	CC(O)/C=C/c1ccccc1O	164.2	12
+['ThioAmide', 'Aryl_Bromide']	NC(=S)c1ccccc1Br	216.1	10
+['Phenol', 'ThioAmide']	NC(=S)c1cccc(O)c1	153.21	10
+['Oxime', 'Amide_Tertiary']	CC(=O)N1CCC(=NO)CC1	156.18	11
+['Amine_Primary', 'Isonitrile']	[C-]#[N+]c1cccc(N)c1	118.14	9
+['Ester_Enolizable', 'SulfonylChloride']	COC(=O)CS(=O)(=O)Cl	172.59	9
+['Nitrile', 'Thiourea']	N#Cc1ccccc1NC(N)=S	177.23	12
+['Carboxylic acid', 'Thiol ']	O=C(O)CS	92.12	5
+['Amine_Secondary', 'Alkene_Internal']	C1=CCNC1	69.11	5
+['Michael_Acceptor_Alkene_diEWG', 'Thiourea']	CCC=C1C(=O)NC(=S)NC1=O	184.22	12
+['Alkyl_Halide_Prim_Cl', 'Sulfoxide_Enolizable']	CS(=O)CCCl	126.61	6
+['Oxime', 'Amide_Primary']	CC/C(=N\O)C(N)=O	116.12	8
+['Enamine', 'Alkene_Internal']	C1=CC/C(=C/N2CCCCC2)CC1	177.29	13
+['Enol_Ether_EWG', 'Nitrile']	CC(=O)OC(C#N)=C(C)C	139.15	10
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Enamine_EWG']	C=CN1CCC(C(C)=O)C1=O	153.18	11
+['Enamine', 'SemiUreas']	N/C=C1\SC(=S)NC1=O	160.22	9
+['Enol_Ether_Alkyl', 'SemiUreas']	CCO/C=C1\SC(=O)NC1=S	189.26	11
+['Hydrazine_NH2', 'SemiUreas']	COC(=O)NN	90.08	6
+['Oxirane_Terminal', 'Amide_Primary']	NC(=O)C1CO1	87.08	6
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Azide']	CC1C/C(=C/N=[N+]=[N-])C(=O)O1	153.14	11
+['Enamine_EWG', 'Nitrile']	CC1=C(C#N)CCC(=O)N1	136.15	10
+['Alcohol', 'Nitroso']	CC(O)CN(C)N=O	118.14	8
+['Oxirane_Terminal', 'Sulfonamide_Sulfone_Enolizable']	CS(=O)(=O)OCC1CO1	152.17	9
+['Amide_Secondary', 'Nitroso']	O=NN1CCC(=O)Nc2ccccc21	191.19	14
+['Thiol ', 'Amine_Primary']	NCCS	77.15	4
+['Amide_Primary', 'Thiourea']	NC(=O)CNC(N)=S	133.18	8
+['Hydrazine_NH2', 'Alkene_Internal']	C/C=C\C(=O)NN	100.12	7
+['Alkyl_Halide_Prim_Br', 'Thiourea']	S=C(NCCBr)Nc1ccccc1	259.17	13
+['Enamine_EWG', 'Amide_Secondary']	C=C1NC(=O)C(C(C)C)NC1=O	168.2	12
+['Ureas', 'Nitroso']	CN(N=O)C(N)=O	103.08	7
+['Hydrazine_NH2', 'Amide_Secondary']	CNC(=O)C(=O)NN	117.11	8
+['Hydrazone', 'Alkene_Internal']	C/C=C(\C)C=NNC	112.18	8
+['Alcohol', 'Sulfoxide_Enolizable']	CS(=O)CCO	108.16	6
+['Alcohol_Propargyl', 'Alkene_Internal']	CCS/C=C\C#CC(C)(C)O	170.28	11
+['Carboxylic acid', 'Hydrazine_NH1']	CNNCC(=O)O	104.11	7
+['ThioKetone', 'Amide_Secondary']	O=C1Nc2ccccc2C1=S	163.2	11
+['Amine_Secondary', 'Ketimine']	CC1=NCCNC(C)C1	126.2	9
+['Vinyl_Bromide_Iodide', 'Thiourea']	C=C(Br)CNC(N)=S	195.09	8
+['Nitrile _Enolizable', 'Alkene_Internal']	C/C=C/CC#N	81.12	6
+['Alkyl_Halide_Prim_Cl', 'SemiUreas']	O=C1NC(CCl)C(=O)O1	149.53	9
+['Alkyl_Halide_Prim_Br', 'SemiUreas']	O=C1NCC(CBr)S1	196.07	8
+['Michael_Acceptor_Alkyne_Ester', 'Alkene_Internal']	COC(=O)C#CC1=CCCCC1	164.2	12
+['Enamine', 'Enol_Ether_EWG']	CC1=COC(=O)c2ccccc2N1	175.19	13
+['Alkene_Internal', 'Ester_NonEnolizable']	COC(=O)C1(C)C=C(C)CC1	154.21	11
+['Thiol ', 'Thiourea']	S=C(NCCS)Nc1ccccc1	212.34	13
+['Alcohol_Allyl', 'Internal_Michael_Acceptor_Alkene_Nitro']	O=[N+]([O-])C1=CCCCC1O	143.14	10
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Thioacetal_CH']	CC(=O)C(C(C)=O)C1SCCCS1	218.34	13
+['Phenol', 'Oxime']	O/N=C\c1ccccc1O	137.14	10
+['Guanidine', 'Nitroso']	N=C(N)NN=O	88.07	6
+['Ketimine', 'Nitro']	O=[N+]([O-])c1ccccc1C1=NCCC1	190.2	14
+['Amine_Primary', 'Ketimine']	Nc1ccccc1C1=NCCC1	160.22	12
+['Amide_Secondary', 'Allene']	CC(C)=C=CC(=O)Nc1ccccc1	187.24	14
+['Hydrazone', 'Amide_Primary']	NC(=O)C(=O)N/N=C/c1ccccc1	191.19	14
+['Michael_Acceptor_Alkyne_C#N', 'Alkene_Internal']	N#CC#CC1=CCCCC1	131.18	10
+['Alcohol', 'Terminal_Michael_Acceptor_Alkene_Ester']	C=C(C(=O)OC)C(C)CO	144.17	10
+['Thiirane', 'Amide_Secondary']	CC1(C(=O)Nc2ccccc2)CS1	193.27	13
+['Thiirane', 'Amide_Primary']	CC1(C(N)=O)CS1	117.17	7
+['Amine_Secondary', 'Nitroso']	O=NN1CCNCC1	115.14	8
+['ThioAmide', 'Nitrile']	CNC(=S)C#N	100.15	6
+['Weinreb_Amide', 'Acetal_Alkyl']	CCOC(OCC)C(=O)N(C)OC	191.23	13
+['Amine_Secondary', 'Enamine_EWG']	O=C1CCC2=C(CCNC2)N1	152.2	11
+['Terminal_Michael_Acceptor_Alkene_S', 'Sulfoxide_Enolizable']	C=CS(=O)Cc1ccccc1	166.25	11
+['Enamine', 'Alkyne_Terminal']	C#CCNC1=CC(=O)CCC1	149.19	11
+['Ketimine', 'Amide_Secondary']	CC1=NCCNC1=O	112.13	8
+['Alcohol', 'Thioacetal_CH']	OC1CSCSC1	136.24	7
+['Thiol ', 'Amidine']	SCCNC1=NCCC1	144.24	9
+['Alkyl_Halide_Secondary_Cl', 'Nitroso']	O=NC1CCCC(Cl)C1	147.6	9
+['Ketone_Enolizable', 'Hemiacetal']	CC(=O)C1COC(O)C1C	144.17	10
+['Ketimine', 'nH_Heterocycle r5']	c1c[nH]c(C2=NCCC2)c1	134.18	10
+['Acetal_Alkyl', 'Alkene_Internal']	C1=CCOCOC1	100.12	7
+['Carboxylic acid', 'DiEWG_Cmpd_DiCarbonyl_Cyclic']	O=C(O)CC1C(=O)CCCC1=O	170.16	12
+['Vinyl_Chloride', 'Anhydride']	O=C1C=C(Cl)C(=O)O1	132.5	8
+['Amidine', 'Nitroso']	N=C(N)C1(N=O)CCCCC1	155.2	11
+['Oxime', 'Aryl_F-Cl_Activated']	O/N=C\c1ccccc1Cl	155.58	10
+['Terminal_Michael_Acceptor_Alkene_Ester', 'Acetal_Acyl']	C=CC(=O)OC1CCCO1	142.15	10
+['Imide_SulfonimideH', 'Azirine']	O=C1N=CC2(N=N2)C(=O)N1	138.09	10
+['Alkyl_Halide_Prim_Br', 'Guanidine']	N=C(NCCBr)N[N+](=O)[O-]	211.02	10
+['Amine_Secondary', 'Enamine']	CC1=CC(C)(C)Nc2ccccc2N1	188.27	14
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Nitroso']	COC(=O)C(N=O)C(=O)OC	161.11	11
+['Oxirane_Internal', 'Alkyl_Halide_Secondary_Br']	BrC1CC2OC2C1	163.01	7
+['Internal_Michael_Acceptor_Aldehyde', 'DieneAcyclicTerminal']	C=C/C=C\C=O	82.1	6
+['Thiol ', 'Guanidine']	N=C(N)NCCS	119.19	7
+['Enol_Ether_Alkyl', 'Acetal_Alkyl']	CO/C=C/C(OC)OC	132.16	9
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'DieneAcyclicInternal']	C/C=C\C=C\C(=O)OC	126.15	9
+['Thiol ', 'Amine_Secondary']	SC1CCCNC1	117.22	7
+['Thiourea', 'Guanidine']	N=C(N)NC(N)=S	118.17	7
+['Alkyl_Halide_Prim_ACT_Br', 'Aryl_Bromide']	BrCc1ccccc1Br	249.93	9
+['Vinyl_Bromide_Iodide', 'DieneCyclic']	BrC1=CC=CC1	145	6
+['Alcohol', 'Enamine']	CC(=O)/C=C(/C)NCCO	143.19	10
+['Vinyl_Bromide_Iodide', 'Alkene_Internal']	CC(C)=C1CC=C(Br)CC1	201.11	10
+['Ester_Enolizable', 'Vinyl_Bromide_Iodide']	CC(=O)OC/C=C\Br	179.01	8
+['Nitrile _Enolizable', 'Oxirane_Internal']	CC1OC1CC#N	97.12	7
+['Alkene_Internal', 'Alkyne_Internal']	CC(C)C#C/C=C\C(C)C	136.24	10
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Alkyl_Halide_Secondary_I']	CC1(C)CC(=O)C(I)C(=O)C1	266.08	11
+['Thiocyanate', 'Alkene_Internal']	CC(C)=CCSC#N	127.21	8
+['Internal_Michael_Acceptor_Aldehyde', 'Boronic Acid_sp2']	O=C/C=C/B(O)O	99.88	7
+['Enol_Ether_Alkyl', 'Stannane_sp2_sp_allyl']	CCO/C=C/[Sn](C)(C)C	234.91	9
+['Alcohol', 'Silane_sp2_sp_allyl']	C[Si](C)(CCCO)c1ccccc1	194.35	13
+['Carboxylic acid', 'Silane_sp2_sp_allyl']	C[Si](C)(CCC(=O)O)c1ccccc1	208.33	14
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub', 'Silane_sp2_sp_allyl']	C[Si](C)(C)C1=CCCC1=O	154.28	10
+['Alcohol_Propargyl', 'Silane_sp2_sp_allyl']	C[Si](C)(C)C#CCO	128.25	8
+['Ester_Enolizable', 'SilylStannylChloride']	CC(=O)OCC[Si](C)(C)Cl	180.71	10
+['Borate', 'Alkene_Internal']	C/C=C\[B-](F)(F)F	108.88	7
+['nH_Heterocycle r5', 'Boronic Ester_sp2']	CC1(C)COB(c2ccn[nH]2)OC1	180.02	13
+['Boronic Acid_sp2', 'Aryl_Bromide']	OB(O)c1ccccc1Br	200.83	10
+['Nitrile _Enolizable', 'Isocyanate']	N#CCN=C=O	82.06	6
+['Amine_Secondary', 'Sulfonamide_NH']	CNCCS(N)(=O)=O	138.19	8
+['Alkyl_Halide_Prim_ACT_Br', 'nH_Heterocycle r6']	Cc1c(CBr)[nH]c2ccccc2c1=O	252.11	14
+['Alcohol_Allyl', 'Acetal_Alkyl']	COCOC/C(C)=C\CO	146.19	10
+['Aldehyde_Aryl', 'Ester_Enolizable']	CC(=O)Oc1ccccc1C=O	164.16	12
+['Alkyl_Halide_Prim_Cl', 'Azide']	[N-]=[N+]=NCCCl	105.53	6
+['Acetal_Alkyl', 'Vinyl_Bromide_Iodide']	COC1OCCC=C1Br	193.04	9
+['nH_Heterocycle r5', 'nH_Heterocycle r6']	O=c1ccc2cc[nH]c2[nH]1	134.14	10
+['Thiophenol', 'Amide_Secondary']	O=C1NCc2ccc(S)cc21	165.22	11
+['DienoneAcyclic', 'DieneAcyclicTerminal']	C=C/C(C)=C/C(=O)C=C(C)C	150.22	11
+['nH_Heterocycle r5', 'Silane_sp2_sp_allyl']	CC(C)[Si](C)(C)c1ncc[nH]1	168.32	11
+['Enol_Ether_EWG', 'DieneCyclic']	O=C1CC2=C(CC=C2)O1	122.12	9
+['Ketone_Enolizable', 'Boronic Acid_sp2']	CC(=O)c1cccc(B(O)O)c1	163.97	12
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Vinyl_Bromide_Iodide']	COC(=O)/C=C\Br	164.99	7
+['Alcohol', 'Ester_NonEnolizable']	COC(=O)C(C)(C)O	118.13	8
+['Hydrazine_NH2', 'Azide']	[N-]=[N+]=NCC(=O)NN	115.1	8
+['Enamine', 'Alkyne_Internal']	CC(C)(C)C#CC/C=C/N	137.23	10
+['Acetal_Alkyl', 'Isonitrile']	[C-]#[N+]CC(OC)OC	115.13	8
+['Oxime', 'Ester_Enolizable']	COC(=O)CC/C(C)=N/O	145.16	10
+['Phenol', 'Aryl_F-Cl_Activated']	C/C(=N/N)c1ccc(Cl)cc1O	184.63	12
+['Amine_Secondary', 'Imide_SulfonimideH']	O=C1CNCC(=O)N1	114.1	8
+['Alcohol_Allyl', 'Imide_SulfonimideH']	O=C1NC(=O)C2C=CC(O)CC12	167.16	12
+['Alkene_Internal', 'Ketone_NonEnolizable']	CC(C)=CC(=O)c1ccccc1	160.22	12
+['Oxirane_Terminal', 'Ester_Enolizable']	COC(=O)C1CO1	102.09	7
+['ThioEster', 'Amide_Secondary']	CC(=O)SC1CNC(=O)C1	159.21	10
+['Amide_Primary', 'Alkyne_Terminal']	C#CC(N)=O	69.06	5
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Aldehyde']	CO/C=C\C=O	86.09	6
+['Amide_Tertiary', 'Amidine']	CN1CC(C(=N)N)CC1=O	141.17	10
+['Acetal_Alkyl', 'Amide_Tertiary']	COC(OC)C(=O)N(C)C	147.17	10
+['Amine_Primary', 'Ester_Enolizable']	COC(=O)CN	89.09	6
+['Phenol', 'Oxirane_Terminal']	Oc1ccccc1C1CO1	136.15	10
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H']	CO/C=C\C(C)=O	100.12	7
+['Alkyl_Halide_Prim_ACT_Cl', 'Carbonate']	COC(=O)OCCl	124.52	7
+['Ester_Enolizable', 'Anhydride']	CC(=O)OC1CC(=O)OC1=O	158.11	11
+['DieneCyclic', 'Alkene_Terminal']	C=CC1(C)C(C)=C(C)C(C)=C1C	162.28	12
+['Aldimine', 'Ketimine']	CCC1(C)CN=C(C)C=N1	138.21	10
+['Alkene_Internal', 'Alkyne_Terminal']	C#C/C=C\C	66.1	5
+['ThioAmide', 'Ketone_NonEnolizable']	NC(=S)C(=O)c1ccccc1	165.22	11
+['Ketone_Enolizable', 'ThioAmide']	CC(=O)C(N)=S	103.15	6
+['Nitrile _Enolizable', 'Acyl_Halide']	N#CCC(=O)Cl	103.51	6
+['Carboxylic acid', 'Aryl_Iodide']	O=C(O)c1ccccc1I	248.02	10
+['Amine_Secondary', 'Alkene_Terminal']	C=C1CNC1	69.11	5
+['DieneAcyclicInternal', 'Alkyne_Terminal']	C#C/C=C/C1=C(C)CCCC1(C)C	174.29	13
+['Azide', 'Nitrile']	N#Cc1cccc(N=[N+]=[N-])c1	144.14	11
+['Amine_Primary', 'DiEWG_Cmpd_DiCarbonyl_Acyclic']	CC(=O)C(N)C(C)=O	115.13	8
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Alkene_Internal']	COC(=O)C1=CCC=CC1	138.17	10
+['Ester_Enolizable', 'Alkene_Terminal']	C=CCOC(C)=O	100.12	7
+['Carboxylic acid', 'DienoneCyclic']	N=C1C=CC(=O)C(C(=O)O)=C1	151.12	11
+['Aldehyde_Aryl', 'Nitrile']	N#Cc1ccccc1C=O	131.13	10
+['Ester_Enolizable', 'Nitroso']	COC(=O)CN(C)N=O	132.12	9
+['Alcohol', 'Phosphonate_Enolizable']	COP(=O)(CCO)OC	154.1	9
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H', 'Acetal_Alkyl']	CC(C)OC1C=CC(=O)CO1	156.18	11
+['Carboxylic acid', 'Ketone_NonEnolizable']	CC(C)(C)C(=O)C(=O)O	130.14	9
+['Alcohol_Allyl', 'Terminal_Michael_Acceptor_Alkene_Ester']	C=C(CO)C(=O)OC	116.12	8
+['Alcohol_Propargyl', 'Alkyne_Internal']	CCC#CCC#CCO	122.17	9
+['Acetal_Alkyl', 'Alkyne_Terminal']	C#CCOCOC	100.12	7
+['Alkyl_Halide_Prim_Br', 'ThioEster']	CC(=O)SCCBr	183.07	7
+['Alcohol', 'DieneAcyclicInternal']	CC1=CCCC(C)(C)/C1=C\CC(C)O	194.32	14
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_Sub']	CCC(=O)/C(C)=C/OC	128.17	9
+['Phosphonate_Enolizable', 'DieneAcyclicInternal']	C/C=C(C)/C=C/CP(=O)(OCC)OCC	232.26	15
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H']	CC(=O)CC(=O)/C=C/c1ccccc1	188.23	14
+['Alcohol', 'Sulfonamide_Sulfone_Enolizable']	CS(=O)(=O)OCCO	140.16	8
+['Weinreb_Amide', 'Ester_NonEnolizable']	CONC(=O)C(=O)OC	133.1	9
+['Carboxylic acid', 'Oxirane_Terminal']	O=C(O)C1CO1	88.06	6
+['HydroxylamineN', 'Alkyne_Terminal']	C#CCNO	71.08	5
+['Oxirane_Internal', 'Ester_Enolizable']	COC(=O)C1OC1C	116.12	8
+['Ketimine', 'Ketone_Enolizable']	CC(=O)C1=NCCC1	111.14	8
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Amide_Primary']	CC(=O)CC(N)=O	101.11	7
+['Enol_Ether_Alkyl', 'Terminal_Michael_Acceptor_Aldehyde']	C=C(C=O)OCc1ccccc1	162.19	12
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H', 'Ester_Enolizable']	COC(=O)C1C=CC(=O)C1	140.14	10
+['Amine_Primary', 'Aryl_Iodide']	Nc1ccccc1I	219.02	8
+['ThioAmide', 'Amide_Primary']	NC(=O)CC(N)=S	118.16	7
+['nH_Heterocycle r5', 'Azo']	c1ccc(/N=N\c2ccc[nH]2)cc1	171.2	13
+['Carboxylic acid', 'Sulfoxide_Enolizable']	CS(=O)CCC(=O)O	136.17	8
+['Enamine', 'nH_Heterocycle r5']	CC(=O)/C=C(\C)Nc1nnc[nH]1	166.18	12
+['ThioEster', 'Alkene_Internal']	CC(=O)SCC=C(C)C	144.24	9
+['Carboxylic acid', 'DieneAcyclicInternal']	C/C=C\C=C\C(=O)O	112.13	8
+['Acetal_Alkyl', 'Ureas']	COC(CNC(N)=O)OC	148.16	10
+['Enol_Ether_EWG', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	COC(=O)/C(C)=C/OC(C)=O	158.15	11
+['Amine_Primary', 'Vinyl_Chloride']	NC/C=C\Cl	91.54	5
+['Alcohol_Allyl', 'Alkyne_Internal']	CCC#C/C=C/CO	110.16	8
+['Alcohol', 'Alkyl_Halide_Prim_Cl']	OCCCl	80.51	4
+['Oxime', 'Guanidine']	N=C1NC(=O)C(=NO)C(=O)N1	156.1	11
+['Alcohol', 'Alkyne_Terminal']	C#CCCO	70.09	5
+['Thiophenol', 'nH_Heterocycle r5']	Sc1cn[nH]n1	101.13	6
+['Ketimine', 'Ester_Enolizable']	CCC1=NC(C(=O)OC)CC1	155.2	11
+['nH_Heterocycle r5', 'Ureas']	CNC(=O)Nc1nnn[nH]1	142.12	10
+['Nitrile _Enolizable', 'Nitrile']	CCC(C)(C#N)CC#N	122.17	9
+['Alcohol_Allyl', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	CC1C=C(CO)C(=O)O1	128.13	9
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Nitroso']	COC(=O)C1=CCCN(N=O)C1	170.17	12
+['Alcohol', 'Oxirane_Terminal']	OCC1CO1	74.08	5
+['Alcohol_Allyl', 'Alkene_Terminal']	C=CCC(O)C=C	98.14	7
+['Alcohol_Allyl', 'DieneAcyclicTerminal']	C=C/C=C(\C)CO	98.14	7
+['Carboxylic acid', 'Alkyne_Internal']	CC#CC(=O)O	84.07	6
+['Alcohol', 'Nitrile _Enolizable']	N#CCO	57.05	4
+['Carboxylic acid', 'DieneCyclic']	O=C(O)C1C=CC=C1	110.11	8
+['Enol_Ether_Alkyl', 'Carbonate']	C/C=C/OCC1COC(=O)O1	158.15	11
+['Thiol ', 'Ester_Enolizable']	COC(=O)CS	106.15	6
+['Phenol', 'Diazonium']	N#[N+]c1c(O)ccc2ccccc12	171.18	13
+['Enol_Ether_EWG', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_Sub']	CCC(=O)/C(C)=C/OC(C)=O	156.18	11
+['Amine_Secondary', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub']	CC(=O)C1=CCCC2CCC1N2	165.24	12
+['Nitro_Enolizable', 'Alkene_Internal']	O=[N+]([O-])CC1=CCCCC1	141.17	10
+['Alcohol', 'Alkyl_Halide_Tertiary_Cl']	CC1(Cl)CCCCC1O	148.63	9
+['Aldehyde_sp3_NonEnolizable', 'Ketone_Enolizable']	CCC(=O)C(C)(C)C=O	128.17	9
+['Aldehyde_Aryl', 'Amine_Secondary']	CNc1ccccc1C=O	135.17	10
+['Enol_Ether_Alkyl', 'DieneCyclic']	COC1=CC=CCC1	110.16	8
+['Ketimine', 'Nitrile']	C/N=C(\C#N)c1ccccc1	144.18	11
+['Ketimine', 'Ester_NonEnolizable']	COC(=O)C1(C)C(C)=Nc2ccccc21	203.24	15
+['Enol_Ether_EWG', 'Ester_Enolizable']	COC(=O)C/C=C/OC(C)=O	158.15	11
+['Nitrile _Enolizable', 'Amide_Primary']	N#CCCC(N)=O	98.11	7
+['Enamine_EWG', 'Nitro']	CC(=O)N/C=C/c1ccccc1[N+](=O)[O-]	206.2	15
+['nH_Heterocycle r5', 'Alkene_Internal']	C/C=C\c1nc2ccccc2[nH]1	158.2	12
+['Thiocyanate', 'Nitrile']	N#CSCc1ccccc1C#N	174.23	12
+['Thiophenol', 'nH_Heterocycle r6']	S=c1cccc(S)[nH]1	143.24	8
+['Phosphonate_Enolizable', 'Vinyl_Chloride']	C=C(Cl)CP(=O)(OCC)OCC	212.61	12
+['Nitrile _Enolizable', 'ThioEster']	CC(=O)SCC#N	115.16	7
+['Aldehyde_Enolizable', 'Thioacetal_CH']	CCSC(C=O)SCC	164.29	9
+['Aryl_Bromide', 'Vinyl_Bromide_Iodide']	Br/C=C/c1ccccc1Br	261.94	10
+['Carboxylic acid', 'Hydrazone']	Cc1ccc(N/N=C\C(=O)O)cc1	178.19	13
+['Alcohol', 'Alkyl_Halide_Secondary_Cl']	CC(Cl)CO	94.54	5
+['Internal_Michael_Acceptor_Alkene_C#N', 'DieneAcyclicInternal']	C/C=C/C=C\C#N	93.13	7
+['Alkyl_Halide_Prim_ACT_I', 'Ester_Enolizable']	COC(=O)CI	199.98	6
+['Ester_Enolizable', 'Vinyl_Chloride']	C=C(Cl)COC(C)=O	134.56	8
+['Alkyl_Halide_Prim_ACT_Cl', 'Alkene_Terminal']	C=CCCl	76.53	4
+['Thiocyanate', 'Ester_Enolizable']	CC(=O)OCCSC#N	145.18	9
+['Alkyl_Halide_Prim_Cl', 'Amide_Secondary']	CNC(=O)CCCl	121.57	7
+['Enol_Ether_EWG', 'DieneAcyclicTerminal']	C=C1C=CC(=O)O1	96.08	7
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Thiocyanate']	CC(=O)C(SC#N)C(C)=O	157.19	10
+['Enamine_EWG', 'Enol_Ether_EWG']	CC(=O)N/C(C)=C(/C)OC(C)=O	171.2	12
+['Amine_Secondary', 'Alkyl_Halide_Prim_Cl']	CNCCCl	93.56	5
+['Alkyl_Halide_Prim_ACT_Br', 'Imide_SulfonimideH']	CC(=O)NC(=O)CBr	180	8
+['Amide_Secondary', 'Vinyl_Bromide_Iodide']	O=C1C=C(Br)CN1	161.99	7
+['Alkyl_Halide_Prim_ACT_Cl', 'ThioEster']	Cc1ccccc1SC(=O)CCl	200.69	12
+['HydroxylamineN', 'Nitrile _Enolizable']	N#CCNO	72.07	5
+['Internal_Michael_Acceptor_Alkene_C#N', 'Nitrile']	CC(C)(C)/C(C#N)=C\C#N	134.18	10
+['nH_Heterocycle r5', 'SulfonylChloride']	O=S(=O)(Cl)c1cn[nH]c1	166.59	9
+['SulfonylChloride', 'SemiUreas']	CC(C)(C)NC(=O)OS(=O)(=O)Cl	215.66	12
+['Ester_Enolizable', 'Nitrile']	CC(=O)OC(C)(C)C#N	127.14	9
+['Phenol', 'Internal_Michael_Acceptor_Aldehyde']	O=C/C=C\c1ccccc1O	148.16	11
+['Ester_Enolizable', 'Sulfoxide_Enolizable']	COC(=O)CCCS(C)=O	164.23	10
+['Amine_Primary', 'Enamine_EWG']	NC1CCCC2=C1CCC(=O)N2	166.22	12
+['Amine_Primary', 'Ketone_Enolizable']	CC(=O)CN	73.09	5
+['Alcohol', 'Azide']	[N-]=[N+]=NCCO	87.08	6
+['Enol_Ether_Alkyl', 'Alkyl_Halide_Prim_ACT_Cl']	ClCC1=CCCCO1	132.59	8
+['Aminal_Alkyl', 'SemiUreas']	COC(=O)N1CCCC1OC	159.19	11
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Terminal_Michael_Acceptor_Ketone']	C=CC(=O)C(C)C(=O)OC	142.15	10
+['Ketone_Enolizable', 'Anhydride']	CCC(=O)C(=O)OC(C)=O	144.13	10
+['Oxirane_Terminal', 'Ketone_Enolizable']	CC(=O)C1CO1	86.09	6
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Nitro']	COC(=O)/C=C\c1ccccc1[N+](=O)[O-]	207.18	15
+['Oxirane_Terminal', 'Vinyl_Chloride']	C=C(Cl)C1CO1	104.54	6
+['Alkyl_Halide_Prim_Br', 'Azide']	[N-]=[N+]=NCCBr	149.98	6
+['Nitrile _Enolizable', 'Alkyl_Halide_Prim_Br']	N#CCCBr	133.98	5
+['Amide_Tertiary', 'SulfonylChloride']	CN(C)C(=O)CS(=O)(=O)Cl	185.63	10
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Aryl_Bromide']	COC(=O)/C=C/c1ccccc1Br	241.08	13
+['Alkyl_Halide_Prim_Br', 'Amide_Tertiary']	CN(C)C(=O)CCBr	180.04	8
+['Amide_Primary', 'Aryl_F-Cl_Activated']	NC(=O)c1ccccc1Cl	155.58	10
+['Carboxylic acid', 'Aryl_Bromide']	O=C(O)c1ccccc1Br	201.02	10
+['Phenol', 'Thiophenol']	Oc1cccc(S)c1	126.18	8
+['Hydrazine_NH2', 'Nitro']	NNc1ccccc1[N+](=O)[O-]	153.14	11
+['Weinreb_Amide', 'Amide_Secondary']	CC(=O)NC1CONC1=O	144.13	10
+['Ketone_Enolizable', 'Acyl_Halide']	CC(=O)C(=O)Cl	106.51	6
+['Carboxylic acid', 'Internal_Michael_Acceptor_Alkene_C#N']	N#C/C=C/C(=O)O	97.07	7
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Acetal_Alkyl']	COC(=O)CC(=O)C(OC)OC	176.17	12
+['Alcohol_Allyl', 'Alkyl_Halide_Prim_ACT_Br']	OC/C=C/CBr	151	6
+['Thiophenol', 'Nitrile']	N#Cc1cccc(S)c1	135.19	9
+['Thiol ', 'Nitro_Enolizable']	O=[N+]([O-])CCS	107.13	6
+['Azide', 'Alkene_Terminal']	C=CCN=[N+]=[N-]	83.09	6
+['Alcohol_Allyl', 'DieneAcyclicInternal']	C/C=C/C=C\CO	98.14	7
+['Oxirane_Terminal', 'Oxirane_Internal']	C1CCC2(C3CO3)OC2C1	140.18	10
+['Aldehyde_Enolizable', 'Alkyl_Halide_Prim_ACT_Br']	O=CCBr	122.95	4
+['Sulfonamide_NH', 'nH_Heterocycle r6']	NS(=O)(=O)c1ccc(=O)[nH]c1	174.18	11
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub', 'Vinyl_Bromide_Iodide']	O=C1CCC=C1Br	161	7
+['Aldehyde_Carbonyl', 'Ester_NonEnolizable']	COC(=O)C=O	88.06	6
+['Aldehyde_Enolizable', 'Amide_Tertiary']	CN1CC(C=O)CC1=O	127.14	9
+['Alkyl_Halide_Prim_Br', 'Alkyl_Halide_Secondary_Br']	CC(Br)CBr	201.89	5
+['Terminal_Michael_Acceptor_Alkene_S', 'Sulfonamide_NH']	C=CS(N)(=O)=O	107.13	6
+['Thiol ', 'Ester_NonEnolizable']	COC(=O)C(C)(C)S	134.2	8
+['Oxirane_Internal', 'Internal_Michael_Acceptor_Aldehyde']	CCCCCC1OC1/C=C/C=O	168.24	12
+['nH_Heterocycle r5', 'Alkene_Terminal']	C=Cc1cnc[nH]1	94.12	7
+['Alcohol', 'Alkyl_Halide_Prim_Br']	OCCBr	124.97	4
+['Alcohol', 'Alkyne_Internal']	CC#CCCO	84.12	6
+['Isocyanate', 'Acyl_Halide']	O=C=Nc1ccccc1C(=O)Cl	181.58	12
+['Diazonium', 'Nitro']	N#[N+]c1ccccc1[N+](=O)[O-]	150.12	11
+['Nitrile _Enolizable', 'Azide']	N#CCN=[N+]=[N-]	82.07	6
+['Amine_Primary', 'Enol_Ether_Alkyl']	C=COCCN	87.12	6
+['Thiol ', 'Alkene_Internal']	CC(C)=CCS	102.2	6
+['Alcohol', 'Alkyl_Halide_Secondary_I']	OC1CCCCC1I	226.06	8
+['Oxirane_Internal', 'Alkene_Internal']	C1=CC2OC2C1	82.1	6
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Ketone_Enolizable']	CC(=O)CC(=O)C(C)=O	128.13	9
+['Hydrazine_NH2', 'Alkyne_Internal']	CC#CC(=O)NN	98.11	7
+['Oxirane_Internal', 'Phosphonate_Enolizable']	CP1(=O)CC2OC2C1	132.1	8
+['DiazoCH', 'Ketone_NonEnolizable']	[N-]=[N+]=CC(=O)c1ccccc1	146.15	11
+['Anhydride', 'DieneCyclic']	O=C1OC(=O)C2C=CC=CC12	150.13	11
+['Oxirane_Internal', 'Amide_Tertiary']	CC(=O)N1CC2OC2C1	127.14	9
+['Enol_Ether_Alkyl', 'Alkene_Terminal']	C=CCOC=C	84.12	6
+['Amine_Primary', 'Alkyl_Halide_Prim_Br']	NCCBr	123.98	4
+['Alkyl_Halide_Prim_Br', 'Alkyl_Halide_Tertiary_Br']	CC(C)(Br)CBr	215.92	6
+['Alcohol', 'Ketone_NonEnolizable']	CC1(O)Cc2ccccc2C1=O	162.19	12
+['Amine_Secondary', 'Thiourea']	NC(=S)N1CCNCC1	145.23	9
+['Azide', 'SulfonylChloride']	[N-]=[N+]=Nc1ccccc1S(=O)(=O)Cl	217.64	13
+['Alkyl_Halide_Secondary_Cl', 'Imide_SulfonimideH']	O=C1NC(=O)C(Cl)C1c1ccccc1	209.63	14
+['Hemiacetal', 'Ester_Enolizable']	COC(=O)C(O)OC	120.1	8
+['Carboxylic acid', 'Nitrile _Enolizable']	N#CCC(=O)O	85.06	6
+['Nitrile _Enolizable', 'Terminal_Michael_Acceptor_Alkene_C#N']	C=C(C#N)CCC#N	106.13	8
+['Internal_Michael_Acceptor_Aldehyde', 'Vinyl_Chloride']	C/C=C(\Cl)C=O	104.54	6
+['Aryl_Bromide', 'Ketone_NonEnolizable']	O=C1c2ccccc2-c2cccc(Br)c21	259.1	15
+['Alkyl_Halide_Secondary_Cl', 'Amide_Secondary']	CNC(=O)C(C)Cl	121.57	7
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Ester_Enolizable']	COC(=O)/C=C/COC(C)=O	158.15	11
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Ureas']	CCOC(=O)C(NC(N)=O)C(=O)OCC	218.21	15
+['ThioKetone', 'Ketone_NonEnolizable']	CC1(C)C(=O)C(C)(C)C1=S	156.25	10
+['Thiophenol', 'Nitro']	O=[N+]([O-])c1cccc(S)c1	155.18	10
+['HydroxylamineN', 'Ester_Enolizable']	CCOC(=O)CON	119.12	8
+['ThioAmide', 'Ester_NonEnolizable']	COC(=O)C(C)(C)C(N)=S	161.23	10
+['Oxirane_Terminal', 'Amide_Secondary']	CC(=O)NCC1CO1	115.13	8
+['Oxirane_Terminal', 'Ureas']	CCCCNC(=O)NCC1CO1	172.23	12
+['Carboxylic acid', 'Alkyl_Halide_Tertiary_Br']	CC(C)(Br)C(=O)O	167	7
+['Oxirane_Terminal', 'Acetal_Alkyl']	CC1(C)OCC2(CO2)CO1	144.17	10
+['SilylStannylChloride', 'Alkene_Internal']	Cl[Si](Cl)(Cl)C1CC=CCC1	215.58	10
+['Alkyl_Halide_Prim_ACT_Br', 'Internal_Michael_Acceptor_Alkene_P']	CCOP(=O)(/C=C\CBr)OCC	257.06	12
+['Internal_Michael_Acceptor_Alkene_Nitro', 'Ester_Enolizable']	CC(=O)Oc1ccccc1/C=C/[N+](=O)[O-]	207.18	15
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_H', 'Amide_Secondary']	C/C=C\C(=O)N(C)CC(=O)NC	170.21	12
+['Internal_Michael_Acceptor_Alkene_Nitro', 'Ketone_Enolizable']	CC(=O)C1CCCCC1/C=C/[N+](=O)[O-]	197.23	14
+['Oxirane_Internal', 'Sulfoxide_Enolizable']	CC1(C)OC1CS(=O)c1ccccc1	210.3	14
+['Enol_Ether_Alkyl', 'Oxirane_Terminal']	C=COCC1CO1	100.12	7
+['Vinyl_Bromide_Iodide', 'Silane_sp2_sp_allyl']	C[Si](C)(C)/C=C\Br	179.13	7
+['SilylStannylChloride', 'Alkene_Terminal']	C=C[Si](C)(C)Cl	120.65	6
+['Acetal_Alkyl', 'Nitrile']	CCOC(C)(C#N)OCC	143.19	10
+['Alcohol', 'Oxime']	C/C(=N/O)C(C)(C)O	117.15	8
+['Alcohol_Allyl', 'Alkene_Internal']	C=CC(O)C/C=C\C	112.17	8
+['Enol_Ether_Alkyl', 'Isocyanate']	CCO/C=C\C(=O)N=C=O	141.13	10
+['Ester_Enolizable', 'Amidine']	COC(=O)CC(=N)N	116.12	8
+['DieneCyclic', 'Alkyne_Terminal']	C#CC1=CC=CC1	90.12	7
+['Nitrile _Enolizable', 'ThionoEster']	CC(=S)OCC#N	115.16	7
+['Alkyl_Halide_Secondary_Cl', 'Alkene_Internal']	ClC1C=CCC1	102.56	6
+['Acyl_Halide', 'Anhydride']	O=C(Cl)CC1CC(=O)OC1=O	176.55	11
+['Ester_NonEnolizable', 'Amidine']	COC(=O)C(C)(C)C(=N)N	144.17	10
+['Phenol', 'Azo']	Oc1cccc(/N=N/c2ccccc2)c1	198.23	15
+['Amine_Secondary', 'DiEWG_Cmpd_DiCarbonyl_Acyclic']	CCOC(=O)C(NC)C(=O)OCC	189.21	13
+['Amine_Primary', 'Hydrazine_NH2']	NCC(=O)NN	89.1	6
+['Alkyl_Halide_Prim_ACT_Cl', 'Internal_Michael_Acceptor_Aldehyde']	C/C(C=O)=C\CCl	118.56	7
+['ThionoEster', 'Alkene_Terminal']	C=CCOC(C)=S	116.19	7
+['Allene', 'SemiUreas']	C=C=CN1CCOC1=O	125.13	9
+['Alkyl_Halide_Secondary_I', 'Ketone_Enolizable']	O=C1CCC(I)C1	210.01	7
+['Acyl_Halide', 'Alkene_Terminal']	C=CC(=O)Cl	90.51	5
+['Phenol', 'ThioEster']	CCSC(=O)c1ccccc1O	182.24	12
+['Alcohol_Allyl', 'Alkyne_Terminal']	C#C/C=C\CO	82.1	6
+['Alcohol_Allyl', 'Alkyl_Halide_Prim_ACT_Cl']	OC/C=C\CCl	106.55	6
+['Alkyl_Halide_Prim_ACT_Cl', 'Amide_Tertiary']	CN(C)C(=O)CCl	121.57	7
+['Phenol', 'Ester_NonEnolizable']	COC(=O)c1ccccc1O	152.15	11
+['Enol_Ether_Alkyl', 'Michael_Acceptor_Alkene_diEWG']	CCOC=C(C(C)=O)C(C)=O	156.18	11
+['Isothiocyanate', 'Alkene_Internal']	C/C=C\C(=O)N=C=S	127.17	8
+['Alkyl_Halide_Secondary_Cl', 'Ester_Enolizable']	COC(=O)C(C)Cl	122.55	7
+['Enamine_EWG', 'Vinyl_Bromide_Iodide']	COC(=O)/C(NC(C)=O)=C(\C)Br	236.06	12
+['Hydrazone', 'Nitro']	CN(C)/N=C/c1cccc([N+](=O)[O-])c1	193.21	14
+['Amine_Secondary', 'Acyl_Halide']	CC(C)NCC(=O)Cl	135.59	8
+['Internal_Michael_Acceptor_Alkene_S', 'Sulfonamide_NH']	NS(=O)(=O)/C=C\c1ccccc1	183.23	12
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Acetal_Alkyl']	CCOC(=O)/C=C/C(OC)OC	174.2	12
+['Alcohol', 'DiEWG_Cmpd_DiCarbonyl_Cyclic']	CC(=O)C1CCC(C)(O)CC1=O	170.21	12
+['Amine_Secondary', 'Amidine']	N=C(N)C1CCCN1	113.16	8
+['Carboxylic acid', 'Aminal_Alkyl']	O=C(O)C1OCCN1Cc1ccccc1	207.23	15
+['Aldimine', 'Alkene_Terminal']	C=C(C)/C=N/C(C)CC(C)C	153.27	11
+['Oxime', 'Nitro']	O=[N+]([O-])c1ccccc1/C=N\O	166.14	12
+['Vinyl_Chloride', 'DieneCyclic']	ClC1=CCC=C1	100.55	6
+['Ketimine', 'Alkene_Internal']	CC/C(C)=C1\CC(C)(C)N=C1C	165.28	12
+['Aldimine', 'Alkene_Internal']	CC(C)=C/C=N/C(C)(C)C	139.24	10
+['Amide_Secondary', 'DieneAcyclicInternal']	C/C=C\C=C\C(=O)NCCCC	167.25	12
+['Aldimine', 'Enol_Ether_Alkyl']	C=C(/C=N/CCCC)OC	141.21	10
+['Alcohol_Allyl', 'Amide_Secondary']	O=C(NC/C=C\CO)c1ccccc1	191.23	14
+['Oxime', 'DieneAcyclicInternal']	C/C=C\C=C\C=N/O	111.14	8
+['nH_Heterocycle r6', 'Ester_Enolizable']	CC(=O)Oc1ccc[nH]c1=O	153.14	11
+['Aldimine', 'Aryl_F-Cl_Activated']	Clc1ccccc1/C=N\c1ccccc1	215.68	15
+['Ester_Enolizable', 'DieneAcyclicInternal']	C/C=C/C=C\COC(C)=O	140.18	10
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Ester_Enolizable']	CC/C=C(\CC(=O)OCC)C(=O)OCC	214.26	15
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'DieneAcyclicInternal']	C/C=C/C=C(\CC)C(=O)OCC	168.24	12
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_Sub', 'Ketone_NonEnolizable']	C/C(=C\C(C)(C)C)C(=O)C(C)(C)C	182.31	13
+['Hydrazine_NH1', 'Oxime']	O=C1NN(c2ccccc2)C(=O)/C1=N\O	205.17	15
+['nH_Heterocycle r5', 'Amidine']	N=C(N)c1ccc[nH]1	109.13	8
+['Oxirane_Terminal', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	O=C1OCC/C1=C\C1CO1	140.14	10
+['Ester_Enolizable', 'DieneAcyclicTerminal']	C=C/C=C/CC(=O)OC	126.15	9
+['nH_Heterocycle r5', 'Nitroso']	Cc1n[nH]c(C)c1N=O	125.13	9
+['Aldimine', 'nH_Heterocycle r5']	C(=N\c1ccccc1)\c1ccc[nH]1	170.22	13
+['Internal_Michael_Acceptor_Alkene_S', 'DieneAcyclicTerminal']	C=C(C)/C=C/S(=O)c1ccccc1	192.28	13
+['Sulfoxide_Enolizable', 'Carbonate']	O=C1OC2CS(=O)CC2O1	162.17	10
+['Alcohol_Propargyl', 'Alkene_Terminal']	C=CCC#CCO	96.13	7
+['DieneCyclic', 'Ketone_NonEnolizable']	CC1(C)C=CC=CC(C)(C)C1=O	164.25	12
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub', 'Vinyl_Bromide_Iodide']	C/C=C(/Br)C(=O)N1CCCCC1	232.12	12
+['Alkene_Internal', 'Carbonate']	CCOC(=O)OC/C=C\c1ccccc1	206.24	15
+['DiEWG_Cmpd_Carbonyl_SP', 'Amide_Secondary']	O=C1CS(=O)c2ccccc2N1	181.22	12
+['Aldehyde_Enolizable', 'SemiUreas']	O=CCSC(=S)NNc1ccccc1	226.33	14
+['SemiUreas', 'Nitroso']	CCOC(=O)N(C)N=O	132.12	9
+['Alkyl_Halide_Prim_Cl', 'Amide_Primary']	NC(=O)CCCl	107.54	6
+['HydroxylamineN', 'Alkyl_Halide_Secondary_Cl']	CON(C)CC(Cl)c1ccccc1	199.68	13
+['ThioEster', 'Sulfonamide_Sulfone_Enolizable']	CS(=O)(=O)OCC1CCSC1=O	210.28	12
+['Terminal_Michael_Acceptor_Alkene_Ester', 'Alkene_Internal']	C=C(C(=O)OC)C1C=CCCCC1	180.25	13
+['Sulfonamide_NH', 'Alkene_Terminal']	C=C(C)CS(N)(=O)=O	135.19	8
+['Amine_Secondary', 'Hydrazine_NH1']	CC(=O)NNC(=O)C1CCCCN1	185.23	13
+['Nitrile _Enolizable', 'Ester_Enolizable']	CC(=O)OCC#N	99.09	7
+['Enamine', 'Acetal_Acyl']	CCN(CC)C1=CC(=O)OC1OC	185.22	13
+['Phosphonate_Enolizable', 'SemiUreas']	CCOP(=O)(CC)OC(=O)N(CC)CC	237.24	15
+['Amide_Secondary', 'Sulfoxide_Enolizable']	CC(=O)NCCS(C)=O	149.22	9
+['Alkyl_Halide_Secondary_Br', 'Amide_Primary']	CC(Br)C(N)=O	151.99	6
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkene_Terminal']	C=CCC(C(C)=O)C(=O)OCC	170.21	12
+['Vinyl_Bromide_Iodide', 'Amidine']	CCC1NC=NC=C1Br	189.06	9
+['Enol_Ether_EWG', 'Vinyl_Chloride']	CC(=O)OC1=C(Cl)CCc2ccccc21	222.67	15
+['Enol_Ether_EWG', 'Vinyl_Bromide_Iodide']	CC1(C)OC(=O)O/C1=C\Br	207.02	10
+['Acetal_Alkyl', 'Phosphonate_Enolizable']	CCOP(=O)(CC(OC)OC)OCC	226.21	14
+['Hydrazone', 'DieneCyclic']	CS(=O)(=O)N/N=C/C1C=CC=CC1	200.26	13
+['Enol_Ether_Alkyl', 'Ester_Enolizable']	CCOC(=O)CC1=COCC1	156.18	11
+['Internal_Michael_Acceptor_Alkene_C#N', 'Ester_Enolizable']	CC(=O)OC(C)/C=C\C#N	139.15	10
+['Alkyne_Terminal', 'SemiUreas']	C#CNC(=O)OC(C)(C)C	141.17	10
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'SemiUreas']	CCOC(=O)C1SC(=S)NC1=O	205.26	12
+['Alcohol', 'Amide_Primary']	NC(=O)CO	75.07	5
+['Terminal_Michael_Acceptor_Alkene_Ester', 'Ketone_Enolizable']	C=C1CC2(C)C(=O)CCCC2OC1=O	194.23	14
+['Oxirane_Internal', 'Terminal_Michael_Acceptor_Alkene_Ester']	C=C1C(=O)OC2CCCCC3OC3C12	194.23	14
+['ThioEster', 'Nitro_Enolizable']	CC(=O)SC(C[N+](=O)[O-])c1ccccc1	225.27	15
+['Diazonium', 'Aryl_Bromide']	N#[N+]c1ccccc1Br	184.02	9
+['Oxime', 'Disulfide']	ON=C1CSSC1	135.21	7
+['Nitro', 'SemiUreas']	CN(C)C(=S)Oc1ccccc1[N+](=O)[O-]	226.26	15
+['Alkyl_Halide_Tertiary_Br', 'Ketone_NonEnolizable']	CC(C)(C)C(=O)C(C)(C)Br	207.11	10
+['Alkyl_Halide_Prim_ACT_Cl', 'Nitroso']	Cc1ccc(N(N=O)C(=O)CCl)cc1	212.64	14
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Amide_Tertiary']	CC(=O)CC(=O)N(C)C	129.16	9
+['Nitro', 'Nitroso']	CC(=O)N(N=O)c1ccccc1[N+](=O)[O-]	209.16	15
+['ThioKetone', 'Ester_Enolizable']	COC(=O)CC(C)=S	132.18	8
+['Oxirane_Terminal', 'Alkyl_Halide_Secondary_Cl']	CC(Cl)C1CO1	106.55	6
+['Enamine', 'Sulfonamide_NH']	CC1(C)NS(=O)(=O)C=C1N	162.21	10
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyl_Halide_Secondary_I']	CC(=O)C(I)C(C)=O	226.01	8
+['Oxime', 'Chloramines']	O=C1/C(=N/O)CC(c2ccccc2)N1Br	269.1	15
+['Acyl_Halide', 'Nitro']	O=C(Cl)c1ccccc1[N+](=O)[O-]	185.57	12
+['DienoneCyclic', 'DieneAcyclicInternal']	C/C=C\C=C1\OC(C)=C(C(C)=O)C1=O	192.21	14
+['Alkene_Terminal', 'Alkyne_Internal']	C=CC#CCC	80.13	6
+['Enol_Ether_EWG', 'Alkyl_Halide_Prim_ACT_I']	C=COC(=O)CI	211.99	7
+['Alkyl_Halide_Tertiary_Cl', 'Alkene_Terminal']	C=CC(C)(C)Cl	104.58	6
+['Alkyl_Halide_Prim_ACT_Br', 'Amide_Secondary']	CNC(=O)CBr	151.99	6
+['Anhydride', 'DieneAcyclicTerminal']	C=CC1=CC(=O)OC1=O	124.09	9
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyl_Halide_Prim_Cl']	CC(=O)C(CCl)C(C)=O	148.59	9
+['Dicarbonyl_Cmpd_NoCarbonyl', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C/C([N+](=O)[O-])[N+](=O)[O-]	190.11	13
+['Dicarbonyl_Cmpd_NoCarbonyl', 'Internal_Michael_Acceptor_Alkene_C#N']	N#C/C=C/C([N+](=O)[O-])[N+](=O)[O-]	157.09	11
+['Alkyl_Halide_Prim_Br', 'Alkyl_Halide_Secondary_Cl']	CC(Cl)CBr	157.44	5
+['Phenol', 'Aldimine_EWG']	CC(=O)/N=C\c1ccccc1O	163.18	12
+['Carboxylic acid', 'Alkyl_Halide_Prim_Cl']	O=C(O)CCCl	108.52	6
+['Alkyl_Halide_Secondary_I', 'Guanidine']	CC(I)C/N=C1\NCC(=O)N1	267.07	11
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'DieneAcyclicTerminal']	C=C/C=C1/CCOC1=O	124.14	9
+['Terminal_Michael_Acceptor_Alkene_Ester', 'Ester_Enolizable']	C=C(C)C(=O)OCC(=O)OC	158.15	11
+['Oxirane_Internal', 'Alkyne_Internal']	CCCCCC#CC1OC1(C)C	166.26	12
+['Carboxylic acid', 'Alkene_Terminal']	C=CC(=O)O	72.06	5
+['Alkyl_Halide_Prim_Cl', 'Ester_NonEnolizable']	COC(=O)C(C)(C)CCl	150.61	9
+['Alkyne_Internal', 'Carbonate']	COC(=O)OCC#Cc1ccccc1	190.2	14
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Imide_SulfonimideH']	CC(=O)CC(=O)NC=O	129.11	9
+['SemiUreas', 'Guanidine']	CCCCCCNC(=N)NC(=O)OC	201.27	14
+['Acyl_Halide', 'Ester_NonEnolizable']	COC(=O)C(=O)Cl	122.51	7
+['Imide_SulfonimideH', 'Alkene_Terminal']	C=CC(=O)NC(C)=O	113.12	8
+['Amide_Tertiary', 'SemiUreas']	O=C1NC(C(=O)N2CCCCC2)CS1	214.29	14
+['Amine_Secondary', 'Sulfonamide_Sulfone_Enolizable']	CNCCOS(C)(=O)=O	153.2	9
+['Amide_Tertiary', 'Nitrile']	CN1C(=O)CCC1(C)C#N	138.17	10
+['Isothiocyanate', 'Aryl_Iodide']	S=C=Nc1cccc(I)c1	261.09	10
+['Enol_Ether_EWG', 'Alkene_Internal']	C=COC(=O)/C=C\C	112.13	8
+['Alkyl_Halide_Prim_Br', 'Alkene_Internal']	C/C=C/CCBr	149.03	6
+['Amide_Tertiary', 'Nitro']	CN1Cc2c(cccc2[N+](=O)[O-])C1=O	192.17	14
+['Enamine', 'Enamine_EWG']	NC1=CNC(=O)C1	98.11	7
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'nH_Heterocycle r5']	O=C1OCC/C1=C/c1ccc[nH]1	163.18	12
+['Aldehyde_sp3_NonEnolizable', 'Allene']	CC(C)=C=CC(C)(C)C=O	138.21	10
+['Enamine', 'Nitro_Enolizable']	O=[N+]([O-])C1CC=CNC1c1ccccc1	204.23	15
+['Oxirane_Internal', 'Thiocyanate']	CC(C)(C)CC1OC1CSC#N	185.29	12
+['Ketone_Enolizable', 'Sulfonamide_Sulfone_Enolizable']	CC(=O)COS(C)(=O)=O	152.17	9
+['Disulfide', 'Ester_Enolizable']	COC(=O)CSSC(C)C	180.29	10
+['Hydrazine_NH1', 'Acetal_Alkyl']	CCOC(OCC)C(=O)NNC(C)C	204.27	14
+['Thiocyanate', 'Vinyl_Bromide_Iodide']	C=C(Br)CSC#N	178.05	7
+['Nitro', 'Cyanamide']	N#CNc1ccccc1[N+](=O)[O-]	163.14	12
+['Amide_Tertiary', 'Allene']	C=C=C(C)C(=O)N(C(C)C)C(C)C	181.28	13
+['Nitrile _Enolizable', 'Sulfonamide_Sulfone_Enolizable']	CS(=O)(=O)OCCC#N	149.17	9
+['Thiophenol', 'Amine_Secondary']	CNc1ccc(C)cc1S	153.25	10
+['Disulfide', 'Carbonate']	CCCCSSCCOC(=O)OCC	238.37	14
+['Hydrazine_NH1', 'DiEWG_Cmpd_DiCarbonyl_Acyclic']	CC(=O)CC(=O)NN(C)C	144.17	10
+['Sulfonamide_Sulfone_Enolizable', 'Ester_Enolizable']	COC(=O)COS(C)(=O)=O	168.17	10
+['Phenol', 'Alkyl_Halide_Prim_ACT_Cl']	Oc1ccccc1CCl	142.58	9
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub', 'Ketone_Enolizable']	O=C1CCN(C(=O)C2=CC(=O)OC2)C1	195.17	14
+['Ketimine_EWG', 'Aryl_F-Cl_Activated']	CC1(C)OC(=O)N=C1c1ccccc1Cl	223.66	15
+['Michael_Acceptor_Alkyne_Amide', 'Acetal_Alkyl']	CCOC(CC#CC(=O)N(C)C)OCC	213.28	15
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub', 'Ketone_NonEnolizable']	CC1=CC(=O)CC(C)(C)C1=O	152.19	11
+['Hydrazine_NH2', 'Nitrile _Enolizable']	N#CCCNN	85.11	6
+['Enamine', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub']	CNC1=CCCCC1=O	125.17	9
+['Imide_SulfonimideH', 'Ester_NonEnolizable']	COC(=O)C1(C)C(=O)NC(=O)CC1C	199.21	14
+['Amine_Primary', 'Amidine']	N=C(N)CN	73.1	5
+['HydroxylamineN', 'Nitrile']	N#CC1(NO)CCCC1	126.16	9
+['Ketone_Enolizable', 'DieneCyclic']	CC(=O)C1C=CC=C1	108.14	8
+['DiEWG_Cmpd_Carbonyl_NO2', 'Amide_Secondary']	CNC(=O)C[N+](=O)[O-]	118.09	8
+['DiEWG_Cmpd_Carbonyl_NO2', 'Amide_Primary']	NC(=O)C[N+](=O)[O-]	104.06	7
+['Alkyl_Halide_Tertiary_Br', 'Ester_NonEnolizable']	COC(=O)C(C)(C)Br	181.03	8
+['Thiol ', 'Ketone_Enolizable']	CC(=O)CCS	104.17	6
+['Hydrazine_NH2', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	CCOC(=O)/C=C\C(=O)NN	158.16	11
+['Amide_Secondary', 'Ketone_NonEnolizable']	CC1(C)CNC(=O)C1=O	127.14	9
+['Phenol', 'SulfonylChloride']	O=S(=O)(Cl)c1cccc(O)c1	192.62	11
+['Enol_Ether_Alkyl', 'Alkyl_Halide_Prim_ACT_Br']	CCOC(=O)/C=C(/CBr)OC	223.07	11
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'Alkene_Internal']	C/C=C\C(=O)C1C(C)=CCCC1(C)C	192.3	14
+['Phenol', 'Aryl_Iodide']	Oc1cccc(I)c1	220.01	8
+['Aldehyde_Enolizable', 'Amide_Secondary']	CC(=O)NCC=O	101.1	7
+['Carboxylic acid', 'Diazo']	CC(C)(C)C(=[N+]=[N-])C(=O)O	142.16	10
+['Ketone_Enolizable', 'Sulfoxide_Enolizable']	O=C1CCS(=O)CC1	132.18	8
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Thioacetal_CH']	CCOC(=O)C1SCSCC1=O	206.29	12
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Acetal_Alkyl']	COC(=O)C1CC(OC)(OC)CCC1=O	216.23	15
+['Ketone_Enolizable', 'Aminal_Alkyl']	COC1C(=O)c2ccccc2N1C(C)=O	205.21	15
+['Amine_Secondary', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_Sub']	C/C=C(\C)C(=O)CCNC(C)C	169.27	12
+['Acetal_Alkyl', 'SemiUreas']	COC(CN1C(=O)CSC1=S)OC	221.3	13
+['Alkyl_Halide_Prim_Cl', 'Sulfonamide_NH']	NS(=O)(=O)CCCl	143.59	7
+['ThioAmide', 'Amide_Secondary']	CC(=O)NCC(N)=S	132.19	8
+['Ketone_NonEnolizable', 'Nitrile']	CC(C)(C)C(=O)C#N	111.14	8
+['Alcohol', 'ThioAcid']	Cc1ccc(C(O)C(=O)S)cc1	182.24	12
+['Nitro_Enolizable', 'Aryl_Bromide']	O=[N+]([O-])Cc1ccccc1Br	216.03	11
+['Isonitrile', 'Aryl_Bromide']	[C-]#[N+]c1ccccc1Br	182.02	9
+['Imide_SulfonimideH', 'Nitro_Enolizable']	O=C1CC(C[N+](=O)[O-])C(=O)N1	158.11	11
+['Nitro', 'Amidine']	N=C(N)c1ccccc1[N+](=O)[O-]	165.15	12
+['DieneCyclic', 'Silane_sp2_sp_allyl']	C[Si](C)(C)C1=CC=CC1	138.29	9
+['Alkyl_Halide_Secondary_Br', 'Alkyne_Internal']	CC(Br)C#Cc1ccccc1	209.09	11
+['SemiUreas', 'Silane_sp2_sp_allyl']	C[Si](C)(COC(N)=O)c1ccccc1	209.32	14
+['Carboxylic acid', 'Ketimine']	CCCCC1CCC(C(=O)O)=NC1	183.25	13
+['Amine_Primary', 'DieneCyclic']	CN1C=CC(CN)=CN1	125.18	9
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Acetal_Acyl']	COC(=O)C1C(=O)OC2OCCC21	186.16	13
+['Alcohol_Allyl', 'Nitro']	O=[N+]([O-])c1ccccc1/C=C/CO	179.17	13
+['Nitro_Enolizable', 'Nitroso']	O=NC(C[N+](=O)[O-])c1ccccc1	180.16	13
+['Aldehyde_Aryl', 'Nitro']	O=Cc1ccccc1[N+](=O)[O-]	151.12	11
+['Aryl_Iodide', 'Nitrile']	N#Cc1ccccc1I	229.02	9
+['Alcohol_Propargyl', 'Phenol']	C#CC(O)c1ccccc1O	148.16	11
+['Enamine_EWG', 'Ketone_Enolizable']	CN1C=CCC(=O)C1=O	125.13	9
+['Amine_Secondary', 'HemiaminalNH']	OC1CNCCN1	102.14	7
+['Acyl_Halide', 'Nitrile']	CC(C)(C#N)C(=O)Cl	131.56	8
+['Alcohol', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	O=C1C=CC(CO)O1	114.1	8
+['Thiocyanate', 'Nitro']	N#CSc1ccccc1[N+](=O)[O-]	180.19	12
+['Ketone_Enolizable', 'SulfonylChloride']	CC(C)C(=O)CS(=O)(=O)Cl	184.64	10
+['Weinreb_Amide', 'Alkyl_Halide_Secondary_Br']	CCN1OCC(Br)C1=O	194.03	9
+['Enol_Ether_EWG', 'Ketone_NonEnolizable']	O=C1C=C(c2ccccc2)OC1=O	174.15	13
+['Acetal_Alkyl', 'Alkyne_Internal']	CC#CC(OCC)OCC	142.2	10
+['nH_Heterocycle r5', 'Nitro_Enolizable']	O=[N+]([O-])Cc1ncc[nH]1	127.1	9
+['Alkyl_Halide_Prim_Cl', 'Alkyl_Halide_Secondary_Cl']	CC(Cl)CCl	112.99	5
+['Nitro_Enolizable', 'Ester_NonEnolizable']	CCOC(=O)C(C)(C)C[N+](=O)[O-]	175.18	12
+['Diazonium', 'Ester_NonEnolizable']	COC(=O)c1ccccc1[N+]#N	163.16	12
+['Enol_Ether_Alkyl', 'Amide_Tertiary']	COC1=CC(=O)N(C)C1	127.14	9
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Guanidine']	N=C1NC(=O)CC(=O)N1	127.1	9
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Enol_Ether_EWG']	CC1=CC(=O)CC(=O)O1	126.11	9
+['Alcohol_Propargyl', 'Nitro']	C#CC(O)c1ccccc1[N+](=O)[O-]	177.16	13
+['Enamine_EWG', 'Alkyl_Halide_Prim_ACT_I']	COC(=O)/C=C1\CCCCN1C(=O)CI	323.13	15
+['Enamine_EWG', 'Alkyl_Halide_Prim_ACT_Br']	COC(=O)/C=C1\CCCCN1C(=O)CBr	276.13	15
+['Enamine_EWG', 'Alkyl_Halide_Prim_ACT_Cl']	CN(C(=O)CCl)C1=CCCC1	173.64	11
+['Alkyl_Halide_Prim_ACT_Br', 'Amide_Tertiary']	CN(C)C(=O)CBr	166.02	7
+['Isonitrile', 'Alkene_Internal']	[C-]#[N+]C1=CCCCC1	107.16	8
+['Isonitrile', 'Nitrile']	[C-]#[N+]c1cccc(C#N)c1	128.13	10
+['Isonitrile', 'Nitro']	[C-]#[N+]c1cccc([N+](=O)[O-])c1	148.12	11
+['Oxirane_Terminal', 'Sulfonamide_NH']	CCS(=O)(=O)NCC1CO1	165.21	10
+['Amine_Secondary', 'Vinyl_Bromide_Iodide']	BrC1=CCCNC1	162.03	7
+['Amine_Primary', 'Vinyl_Bromide_Iodide']	C=C(Br)CN	135.99	5
+['DieneCyclic', 'Alkene_Internal']	C1=CC2C=CC(C=C1)C2	118.18	9
+['ThioEster', 'Nitrile']	CC(=O)SCC1(C#N)CCCC1	183.28	12
+['Hydrazine_NH2', 'Oxime']	C/C(=N/O)C(=O)NN	117.11	8
+['Alcohol_Allyl', 'Vinyl_Chloride']	C=C(Cl)CO	92.52	5
+['DiEWG_Cmpd_Carbonyl_SP', 'Sulfoxide_Enolizable']	COC(=O)CS(C)=O	136.17	8
+['Alkyl_Halide_Prim_ACT_I', 'Amide_Tertiary']	CN(C)C(=O)CI	213.02	7
+['Alkyl_Halide_Prim_I', 'Amide_Secondary']	O=C1CC(CI)CN1	225.03	8
+['HydroxylamineN', 'Nitro']	CCN(O)c1ccc(C)cc1[N+](=O)[O-]	196.21	14
+['Isocyanate', 'Alkene_Internal']	CC(C)=CN=C=O	97.12	7
+['Alkyl_Halide_Tertiary_Br', 'Amide_Tertiary']	CN(C)C(=O)C(C)(C)Br	194.07	9
+['Alkyl_Halide_Prim_ACT_Cl', 'nH_Heterocycle r5']	ClCc1ccc[nH]1	115.56	7
+['Sulfonamide_NH', 'Ester_NonEnolizable']	COC(=O)C(C)(C)NS(C)(=O)=O	195.24	12
+['Amide_Tertiary', 'Alkyne_Terminal']	C#CCN(C)C(C)=O	111.14	8
+['Amine_Primary', 'Guanidine']	NCCN=C(N)N	102.14	7
+['Weinreb_Amide', 'Alkyl_Halide_Secondary_Cl']	CON(C)C(=O)C(Cl)C(C)C	179.65	11
+['SulfonylChloride', 'Nitro']	O=[N+]([O-])c1cccc(S(=O)(=O)Cl)c1	221.62	13
+['Amine_Secondary', 'Vinyl_Chloride']	ClC1=CCNC1	103.55	6
+['Acetal_Alkyl', 'Borate']	F[B-](F)(F)CCOC1CCCCO1	196.98	13
+['nH_Heterocycle r6', 'Boronic Acid_sp2']	O=c1cc[nH]cc1B(O)O	138.92	10
+['Enol_Ether_Alkyl', 'Amide_Primary']	NC(=O)C1=CCCCO1	127.14	9
+['Amine_Secondary', 'Oxime']	O/N=C1\CCNC1	100.12	7
+['Amine_Secondary', 'Enol_Ether_Alkyl']	C=C(CNC)OCC	115.18	8
+['Anhydride', 'Alkene_Terminal']	C=C1CC(=O)OC1=O	112.08	8
+['Enol_Ether_Alkyl', 'Anhydride']	COC1=CC(=O)OC1=O	128.08	9
+['Azide', 'Amide_Tertiary']	CN(C)C(=O)CN=[N+]=[N-]	128.13	9
+['Amine_Primary', 'SulfonylChloride']	Nc1cccc(S(=O)(=O)Cl)c1	191.64	11
+['Enamine', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H']	O=C1C=CNCC1	97.12	7
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyl_Halide_Prim_ACT_Cl']	COC(=O)CC(=O)CCl	150.56	9
+['Nitrile _Enolizable', 'Alkyl_Halide_Secondary_Cl']	CC(Cl)C#N	89.53	5
+['Alcohol', 'ThioAmide']	NC(=S)CO	91.13	5
+['ThioEster', 'Acyl_Halide']	CC(=O)SCC(C)C(=O)Cl	180.66	10
+['Alkyl_Halide_Tertiary_Br', 'Amide_Secondary']	CNC(=O)C(C)(C)Br	180.04	8
+['Ketone_Enolizable', 'Allene']	C=C=CC(C)=O	82.1	6
+['Amine_Secondary', 'HydroxylamineN']	ONC1CCNC1	102.14	7
+['Isothiocyanate', 'DieneAcyclicTerminal']	C=CC(=C)N=C=S	111.17	7
+['Aldimine', 'Alkyne_Internal']	CC(C)(C)C#C/C=N\C(C)(C)C	165.28	12
+['Michael_Acceptor_Alkyne_S', 'Sulfinamide_NH']	CC#CS(=O)Nc1ccccc1	179.24	12
+['Michael_Acceptor_Alkyne_Aldehyde', 'Silane_sp2_sp_allyl']	C[Si](C)(C)C#CC=O	126.23	8
+['Thiourea', 'SemiUreas']	CCOC(=O)NC(=S)NC	162.21	10
+['Azide', 'Ester_Enolizable']	COC(=O)CN=[N+]=[N-]	115.09	8
+['Alcohol_Propargyl', 'Aryl_Bromide']	C#CC(O)c1ccccc1Br	211.06	11
+['Amide_Primary', 'DieneAcyclicInternal']	C/C=C/C=C\C(N)=O	111.14	8
+['DienoneCyclic', 'Ester_NonEnolizable']	COC(=O)C12C=CC(=O)C=C1CCCC2	206.24	15
+['Alcohol_Propargyl', 'Amine_Secondary']	CNCC#CCO	99.13	7
+['Hydrazine_NH1', 'Ester_NonEnolizable']	CCOC(=O)C(=O)NNC(C)=O	174.16	12
+['Dicarbonyl_Cmpd_NoCarbonyl', 'Nitrile']	COP(=O)(CC#N)OC	149.09	9
+['Amine_Secondary', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C/CNC(C)(C)C	171.24	12
+['Michael_Acceptor_Alkene_diEWG', 'DieneAcyclicInternal']	C/C=C/C=C(C(=O)OC)C(=O)OC	184.19	13
+['Aryl_F-Cl_Activated', 'Ketone_NonEnolizable']	CC(C)(C)C(=O)c1ccccc1Cl	196.68	13
+['Amide_Tertiary', 'Ester_NonEnolizable']	CCOC(=O)C(=O)N(C)C	145.16	10
+['Aryl_Bromide', 'SilylStannylChloride']	Cl[Si](Cl)(Cl)c1ccccc1Br	290.45	11
+['Alkyl_Halide_Prim_Br', 'SilylStannylChloride']	Cl[Si](Cl)(Cl)CCBr	242.4	7
+['Internal_Michael_Acceptor_Aldehyde', 'Acetal_Alkyl']	COC(/C=C\C=O)OC	130.14	9
+['Aldimine', 'Aryl_Iodide']	Ic1ccccc1/C=N/c1ccccc1	307.13	15
+['Boronic Ester_sp2', 'Alkene_Terminal']	C=CB1OC(C)(C)C(C)(C)O1	154.02	11
+['Terminal_Michael_Acceptor_Alkene_Ester', 'ThioEster']	C=C(C)C(=O)SCc1ccccc1	192.28	13
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Silane_sp2_sp_allyl']	CC(C)(C)OC(=O)/C=C/C[Si](C)(C)C	214.38	14
+['Alcohol_Allyl', 'Stannane_sp2_sp_allyl']	CC[Sn](/C=C\CO)(CC)CC	262.97	11
+['Allene', 'Stannane_sp2_sp_allyl']	CC=C=C[Sn](CCC)(CCC)CCC	301.06	14
+['Ester_Enolizable', 'Silane_sp2_sp_allyl']	CCOC(=O)C[Si](C)(C)c1ccccc1	222.36	15
+['Amine_Secondary', 'SilylStannylChloride']	Cl[Sn]1(c2ccccc2)OCCNCCO1	334.39	15
+['Amine_Primary', 'SilylStannylChloride']	C[Sn](C)(Cl)SCCN	260.38	8
+['Sulfoxide_Enolizable', 'Aryl_Bromide']	CS(=O)c1cccc(Br)c1	219.1	10
+['Phenol', 'Enamine']	CN1C=CCc2cccc(O)c21	161.2	12
+['Amide_Secondary', 'DieneCyclic']	O=C1NCCC2C=CC=CC12	149.19	11
+['Alkyl_Halide_Secondary_Br', 'Amide_Tertiary']	CN1CCC(Br)C1=O	178.03	8
+['Amine_Secondary', 'Alkyl_Halide_Prim_I']	CNCCI	185.01	5
+['Aldehyde_sp3_NonEnolizable', 'Alcohol']	CC(C)(O)C=O	88.11	6
+['Internal_Michael_Acceptor_Aldehyde', 'Nitro_Enolizable']	O=CC1=CCCC([N+](=O)[O-])C1	155.15	11
+['Internal_Michael_Acceptor_Aldehyde', 'Vinyl_Bromide_Iodide']	O=C/C(=C/Br)c1ccccc1	211.06	11
+['Amide_Tertiary', 'Acyl_Halide']	CN1CC(C(=O)Cl)CC1=O	161.59	10
+['Internal_Michael_Acceptor_Aldehyde', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H']	CCC(=O)/C=C/C=O	112.13	8
+['Alcohol_Allyl', 'Internal_Michael_Acceptor_Aldehyde']	CCC(O)/C=C\C=O	114.14	8
+['Carboxylic acid', 'Anhydride']	O=C(O)CC1CC(=O)OC1=O	158.11	11
+['Amide_Secondary', 'Boronic Acid_sp2']	O=C1NCc2cccc(B(O)O)c21	176.97	13
+['Aldehyde_Aryl', 'Aryl_Iodide']	O=Cc1ccccc1I	232.02	9
+['Alkyne_Terminal', 'Ester_NonEnolizable']	C#CC(C)(C)C(=O)OC	126.15	9
+['Alkyl_Halide_Secondary_Br', 'ThioKetone']	S=C1c2ccccc2CCC1Br	241.15	12
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Weinreb_Amide']	COC(=O)CC(=O)N(C)OC	161.16	11
+['ThioKetone', 'Alkene_Internal']	S=C1C=CCC1	98.17	6
+['Alkyl_Halide_Secondary_Cl', 'ThioKetone']	S=C1CCCC1Cl	134.63	7
+['ThioKetone', 'Aryl_Bromide']	S=C(c1ccccc1)c1ccccc1Br	277.19	15
+['Alcohol_Allyl', 'Michael_Acceptor_Alkene_diEWG']	CC1(C)CC(=O)C(=CCO)C(=O)C1	182.22	13
+['Weinreb_Amide', 'Ketone_NonEnolizable']	CON(C)C(=O)C(=O)C(C)(C)C	173.21	12
+['Acetal_Alkyl', 'ThioAmide']	COC(CCC(N)=S)OC	163.24	10
+['ThioAmide', 'Phosphonate_Enolizable']	CCOP(=O)(CC(N)=S)OCC	211.22	12
+['ThioKetone', 'Aryl_Iodide']	CC(=S)c1ccccc1I	262.11	10
+['Acetal_Alkyl', 'Amidine']	COC(OC)C(=N)N	118.14	8
+['Aryl_Iodide', 'Acyl_Halide']	O=C(Cl)c1ccccc1I	266.46	10
+['Aryl_Iodide', 'Amidine']	N=C(N)c1ccccc1I	246.05	10
+['Aryl_F-Cl_Activated', 'Amidine']	N=C(N)c1ccccc1Cl	154.6	10
+['Weinreb_Amide', 'Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub']	CON(C)C(=O)C1=CC(=O)CC1	169.18	12
+['Nitrile _Enolizable', 'HemiaminalNH0']	N#CCCN1CCCCC1O	154.21	11
+['Alkyl_Halide_Prim_ACT_Br', 'Nitro']	O=[N+]([O-])c1ccccc1CBr	216.03	11
+['Alkyl_Halide_Prim_Cl', 'HemiaminalNH0']	OC1CCCCN1CCCl	163.65	10
+['Aldehyde_Enolizable', 'Acetal_Alkyl']	COC(C=O)OC	104.11	7
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Alkyl_Halide_Secondary_Cl']	O=C1CCC(=O)C1Cl	132.55	8
+['Carboxylic acid', 'Weinreb_Amide']	CON(C)C(=O)C(=O)O	133.1	9
+['Nitrile _Enolizable', 'Hydrazone']	CC(=O)N/N=C/C(C)(C)CCC#N	181.24	13
+['Aryl_Bromide', 'Amidine']	N=C(N)c1ccccc1Br	199.05	10
+['Michael_Acceptor_Alkyne_Aldehyde', 'Acetal_Alkyl']	COC(CC#CC=O)OC	142.15	10
+['Weinreb_Amide', 'Alkyl_Halide_Prim_ACT_I']	CON(C)C(=O)CI	229.02	8
+['Alcohol', 'Thiirane']	OCC1CS1	90.15	5
+['Alcohol_Allyl', 'Enol_Ether_EWG']	O=C1CC=C(CO)O1	114.1	8
+['Sulfonamide_NH', 'Alkene_Internal']	CC(C)=CS(N)(=O)=O	135.19	8
+['Carboxylic acid', 'Carbonate']	CCOC(=O)OCC(=O)O	148.11	10
+['Phenol', 'Hydrazine_NH2']	Cc1ccc(NN)c(O)c1	138.17	10
+['Hydrazine_NH2', 'Alkyl_Halide_Secondary_Cl']	CC(Cl)C(=O)NN	122.56	7
+['Hydrazine_NH2', 'Thioacetal_CH']	NNC(=O)C1SCCCS1	178.28	10
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyl_Halide_Secondary_Cl']	CC(=O)C(Cl)C(C)=O	134.56	8
+['Alkyl_Halide_Prim_ACT_Br', 'Alkene_Terminal']	C=CCBr	120.98	4
+['Alkyl_Halide_Prim_I', 'Vinyl_Bromide_Iodide']	C=C(I)C(C)CI	321.93	7
+['Hydrazine_NH2', 'Alkyl_Halide_Secondary_Br']	CC(Br)C(=O)NN	167.01	7
+['Hydrazine_NH2', 'Phosphonate_Enolizable']	COP(=O)(CC(C)NN)OC	182.16	11
+['Alkyl_Halide_Prim_ACT_Br', 'Ketone_Enolizable']	CC(=O)CBr	136.98	5
+['Weinreb_Amide', 'Aryl_Bromide']	CON(C)C(=O)c1ccccc1Br	244.09	13
+['Aldehyde_sp3_NonEnolizable', 'Acetal_Alkyl']	COC(C)(C=O)OC	118.13	8
+['Aldehyde_Aryl', 'Amide_Secondary']	O=Cc1cccc2c1C(=O)NC2	161.16	12
+['Alkyl_Halide_Prim_ACT_Cl', 'Guanidine']	NC(N)=NC(=O)CCl	135.55	8
+['Alcohol_Allyl', 'Anhydride']	CC1=C(CO)C(=O)OC1=O	142.11	10
+['Thiol ', 'ThioKetone']	CC(=S)C(C)S	120.24	6
+['Sulfonamide_Sulfone_Enolizable', 'Aryl_Bromide']	CS(=O)(=O)Oc1ccccc1Br	251.1	12
+['Amine_Primary', 'Alkyl_Halide_Secondary_Br']	CC(Br)CCN	152.03	6
+['Carboxylic acid', 'Thiirane']	O=C(O)C1CS1	104.13	6
+['Enol_Ether_Alkyl', 'ThioKetone']	CCOC1=CC(=S)CCC1	156.25	10
+['nH_Heterocycle r6', 'Acyl_Halide']	O=C(Cl)c1cc(=O)cc[nH]1	157.56	10
+['Phenol', 'Acyl_Halide']	O=C(Cl)c1ccccc1O	156.57	10
+['Alcohol_Allyl', 'Aryl_Bromide']	OC/C=C/c1ccccc1Br	213.07	11
+['Acyl_Halide', 'Alkyne_Internal']	CC#CC(=O)Cl	102.52	6
+['Ketone_Enolizable', 'Nitroso']	CC(=O)CC(C)(C)N(C)N=O	158.2	11
+['Acetal_Alkyl', 'Ester_NonEnolizable']	COC(=O)C(C)(OC)OC	148.16	10
+['Nitrile _Enolizable', 'Phosphonate_Enolizable']	COP(=O)(CCC#N)OC	163.11	10
+['Weinreb_Amide', 'Ketone_Enolizable']	CON(C)C(=O)C(C)=O	131.13	9
+['Hydrazine_NH2', 'Ester_NonEnolizable']	COC(=O)C(=O)NN	118.09	8
+['Amine_Primary', 'Acyl_Halide']	NCCC(=O)Cl	107.54	6
+['Alcohol_Allyl', 'Amine_Secondary']	OC1C=CCNC1	99.13	7
+['Ester_Enolizable', 'Acyl_Halide']	CC(=O)OCC(=O)Cl	136.53	8
+['Alkyl_Halide_Prim_ACT_Br', 'Terminal_Michael_Acceptor_Ketone']	C=CC(=O)CBr	148.99	6
+['Alkyl_Halide_Secondary_Br', 'Acyl_Halide']	CC(Br)C(=O)Cl	171.42	6
+['Alkyl_Halide_Tertiary_Cl', 'Ketone_Enolizable']	CC(=O)C(C)(C)Cl	120.58	7
+['Ketimine_EWG', 'DienoneCyclic']	CC(=O)N=C1C=CC(=O)C=C1	149.15	11
+['Hydrazine_NH1', 'Nitrile _Enolizable']	CN(C)NCCC#N	113.16	8
+['Nitrile _Enolizable', 'Alkene_Terminal']	C=CCC#N	67.09	5
+['Alcohol_Allyl', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub']	O=C1CCC=C1CO	112.13	8
+['Alkyl_Halide_Prim_ACT_I', 'Alkyne_Terminal']	C#CCI	165.96	4
+['Terminal_Michael_Acceptor_Alkene_C#N', 'Boronic Acid_sp2']	C=C(C#N)c1ccccc1B(O)O	172.98	13
+['Aldehyde_Enolizable', 'Azide']	[N-]=[N+]=NCC=O	85.07	6
+['Hydrazine_NH1', 'Alkyl_Halide_Secondary_Cl']	O=C1CC(Cl)CNN1	134.57	8
+['nH_Heterocycle r5', 'Acyl_Halide']	O=C(Cl)c1ccc[nH]1	129.55	8
+['Amide_Primary', 'Nitrile']	CC(C)(C#N)C(N)=O	112.13	8
+['Alkyl_Halide_Prim_I', 'Amide_Tertiary']	O=C1CCCN1CCI	239.06	9
+['Aldehyde_sp3_NonEnolizable', 'Ketone_NonEnolizable']	CC(C)(C=O)C(=O)c1ccccc1	176.22	13
+['Amine_Secondary', 'Alkyl_Halide_Secondary_I']	IC1CCNC1	197.02	6
+['Ketone_Enolizable', 'Thiourea']	CNC(=S)N/N=C(\C)C(C)=O	173.24	11
+['Hydrazine_NH1', 'Ester_Enolizable']	COC(=O)CCNN(C)C	146.19	10
+['Phenol', 'Ureas']	CCNC(=O)Nc1ccccc1O	180.21	13
+['Thiophenol', 'Thiourea']	CNC(=S)Nc1ccccc1S	198.32	12
+['Hydrazone', 'Aryl_Iodide']	CC(=O)N/N=C/c1ccccc1I	288.09	13
+['Michael_Acceptor_Alkyne_Ester', 'Silane_sp2_sp_allyl']	COC(=O)C#C[Si](C)(C)C	156.26	10
+['Aldehyde_Carbonyl', 'Ketone_Enolizable']	CC(=O)C=O	72.06	5
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'DieneAcyclicInternal']	C/C=C/C=C\C(C)=O	110.16	8
+['Alcohol', 'DieneAcyclicTerminal']	C=C/C=C/CCO	98.14	7
+['Carboxylic acid', 'Terminal_Michael_Acceptor_Ketone']	C=C1C(=O)CCC1C(=O)O	140.14	10
+['Amide_Tertiary', 'Aryl_F-Cl_Activated']	CN(C)C(=O)c1ccccc1Cl	183.64	12
+['Phenol', 'Silane_sp2_sp_allyl']	C[Si](C)(C)c1ccccc1O	166.3	11
+['Alkene_Terminal', 'Stannane_sp2_sp_allyl']	C=CC[Sn](C)(C)C	204.89	7
+['Alkyl_Halide_Secondary_Cl', 'Acyl_Halide']	CC(Cl)C(=O)Cl	126.97	6
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Imide_SulfonimideH']	CCOC(=O)C1CC(=O)NC1=O	171.15	12
+['Alcohol', 'Imide_SulfonimideH']	O=C1CC(O)C(=O)N1	115.09	8
+['Terminal_Michael_Acceptor_Alkene_Ester', 'Alkyne_Terminal']	C#CCC(=C)C(=O)OCC	138.17	10
+['Sulfoxide_Enolizable', 'Alkene_Terminal']	C=CCS(=O)c1ccccc1	166.24	11
+['Alkyl_Halide_Prim_ACT_I', 'Ketone_Enolizable']	CC(=O)CI	183.98	5
+['Alcohol_Propargyl', 'Ester_NonEnolizable']	CC#CC(O)(C(=O)OC)c1ccccc1	204.22	15
+['Sulfonamide_NH', 'Vinyl_Bromide_Iodide']	C=C(Br)CNS(C)(=O)=O	214.08	9
+['Alcohol_Allyl', 'Enamine']	C=CC(O)CN1CC1=C	125.17	9
+['Alcohol_Allyl', 'Alcohol_Propargyl']	C#CC(O)C=C	82.1	6
+['Michael_Acceptor_Alkyne_C#N', 'Acetal_Alkyl']	CCCCOC(C)OC(C)(C)C#CC#N	209.29	15
+['Alcohol_Propargyl', 'Vinyl_Chloride']	C=C(Cl)CC#CC(C)(C)O	158.63	10
+['Alcohol_Propargyl', 'Enol_Ether_Alkyl']	CC(C)(O)C#CCC1CCC=CO1	180.25	13
+['Ester_Enolizable', 'Thiourea']	CCOC(=O)CNC(=S)NN	177.23	11
+['Vinyl_Chloride', 'DieneAcyclicTerminal']	C=CC(=C)Cl	88.54	5
+['Alkene_Internal', 'Ureas']	O=C1NCC=CCN1	112.13	8
+['Ketone_Enolizable', 'Ketone_NonEnolizable']	O=C1Cc2ccccc2C1=O	146.14	11
+['Imide_SulfonimideH', 'Ketone_NonEnolizable']	O=C1N=C(O)C(=O)C(=O)N1	142.07	10
+['Amide_Secondary', 'Guanidine']	N=C(N)N1CCNC(=O)C1	142.16	10
+['Sulfonamide_Sulfone_Enolizable', 'Alkene_Terminal']	C=CCOS(C)(=O)=O	136.17	8
+['Carboxylic acid', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_Sub']	CC(=O)/C(C)=C\C(=O)O	128.13	9
+['Carboxylic acid', 'Alkyl_Halide_Secondary_Br']	CC(Br)C(=O)O	152.97	6
+['Alkyl_Halide_Prim_Cl', 'Ketone_Enolizable']	CC(=O)CCCl	106.55	6
+['Nitrile _Enolizable', 'Aryl_Bromide']	N#CCc1ccccc1Br	196.05	10
+['Alkyl_Halide_Prim_Cl', 'Alkyl_Halide_Secondary_Br']	CC(Br)CCl	157.44	5
+['Alkyl_Halide_Secondary_Cl', 'Acetal_Acyl']	CC(=O)OC1OCCCC1Cl	178.62	11
+['Aldehyde_Enolizable', 'Nitro_Enolizable']	O=CC1CCC([N+](=O)[O-])C1	143.14	10
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_Sub', 'Alkene_Internal']	CC(=O)/C(C)=C\C1C(C)=CCCC1(C)C	206.33	15
+['Enol_Ether_EWG', 'DieneAcyclicInternal']	CCOC(=O)/C=C1\C=CC(=O)O1	168.15	12
+['Alkyl_Halide_Prim_Br', 'Nitro']	CC(C)(CCBr)[N+](=O)[O-]	196.04	9
+['Nitrile _Enolizable', 'Alkyl_Halide_Prim_Cl']	N#CCCCl	89.53	5
+['Aldehyde_Enolizable', 'Amide_Primary']	NC(=O)CC=O	87.08	6
+['HydroxylamineN', 'Alkene_Internal']	C1=CCONC1	85.11	6
+['Thiocyanate', 'nH_Heterocycle r5']	Cc1ccc(SC#N)[nH]1	138.2	9
+['Amine_Primary', 'Alkyl_Halide_Secondary_Cl']	CC(Cl)CN	93.56	5
+['Ketone_Enolizable', 'Aryl_F-Cl_Activated']	O=C1Cc2cccc(Cl)c21	152.58	10
+['Thiocyanate', 'Amide_Tertiary']	CCN(CC)C(=O)CSC#N	172.25	11
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Internal_Michael_Acceptor_Alkene_P']	CCOC(=O)/C=C/P(=O)(OCC)OCC	236.2	15
+['Aldehyde_sp3_NonEnolizable', 'Amide_Secondary']	CC(C)(C=O)C(=O)Nc1ccccc1	191.23	14
+['Enol_Ether_Alkyl', 'DieneAcyclicTerminal']	C=CC(=C)OC	84.12	6
+['Nitrile _Enolizable', 'Enamine']	CN(CCC#N)C1=CCCC1	150.22	11
+['Alkyl_Halide_Tertiary_Cl', 'Alkyl_Halide_Tertiary_Br']	CC(C)(Cl)Br	157.44	5
+['Aldehyde_Enolizable', 'Alkene_Internal']	CC/C=C/CC=O	98.14	7
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'Alkene_Terminal']	C=C1CCCC(C)(C)C1/C=C/C(C)=O	192.3	14
+['Ester_Enolizable', 'Allene']	C=C=CC(C)C(=O)OCC	140.18	10
+['Alkyl_Halide_Prim_Br', 'Alkyl_Halide_Prim_I']	BrCCI	234.86	4
+['Thioacetal_CH', 'Ester_Enolizable']	COC(=O)C1SCCCS1	178.28	10
+['Cyanamide', 'Amidine']	CN/C(C)=N\C#N	97.12	7
+['Alcohol_Propargyl', 'Alkyl_Halide_Prim_Cl']	CC#CC(C)(O)CCl	132.59	8
+['Vinyl_Bromide_Iodide', 'Vinyl_Chloride']	C/C=C(/Cl)Br	155.42	5
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub', 'Vinyl_Chloride']	CN1CCC/C(=C\Cl)C1=O	159.62	10
+['Isothiocyanate', 'Ester_Enolizable']	COC(=O)CN=C=S	131.16	8
+['DiEWG_Cmpd_Carbonyl_NO2', 'Oxime']	O=C1c2ccccc2/C(=N/O)C1[N+](=O)[O-]	206.16	15
+['Amine_Primary', 'Nitroso']	Nc1c(N=O)ccc2ccccc12	172.19	13
+['Diazo', 'Ketone_NonEnolizable']	[N-]=[N+]=C1Cc2ccccc2C1=O	158.16	12
+['Ketone_Enolizable', 'Guanidine']	CC(=O)/C(=N\NC(=N)N)c1ccccc1	204.23	15
+['Thiol ', 'nH_Heterocycle r5']	SCc1nc2ccccc2[nH]1	164.23	11
+['Amide_Secondary', 'Phosphonate_Enolizable']	CCOP(=O)(CCCNC(C)=O)OCC	237.24	15
+['Ketimine', 'Amide_Primary']	NC(=O)CC1=NCCc2ccccc21	188.23	14
+['DienoneAcyclic', 'DieneCyclic']	C/C=C\C(=O)C1=C(C)C=CCC1(C)C	190.29	14
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Acetal_Acyl']	CCOC1C=CC(=O)O1	128.13	9
+['Oxime', 'SemiUreas']	CC(C)(/C=N\O)SC(=S)NN	193.3	11
+['Allene', 'Alkene_Terminal']	C=C=C(OC=C)C(C)C	124.18	9
+['Amine_Secondary', 'ThioAmide']	NC(=S)C1CCNCC1	144.24	9
+['Alkyl_Halide_Secondary_Cl', 'SemiUreas']	CSC(=O)NC1CCCCC1Cl	207.73	12
+['Enol_Ether_Alkyl', 'Alkyl_Halide_Prim_Cl']	C=COCCCl	106.55	6
+['Alcohol', 'DiEWG_Cmpd_Carbonyl_SP']	COP(=O)(CC(=O)CCO)OC	196.14	12
+['ThioEster', 'Phosphonate_Enolizable']	CCOP(=O)(CCCSC(C)=O)OCC	254.29	15
+['Vinyl_Bromide_Iodide', 'Nitrile']	C/C(C#N)=C(/Br)c1ccccc1	222.09	12
+['Aldehyde_Enolizable', 'Amine_Primary']	CC(N)C=O	73.09	5
+['Alcohol_Allyl', 'Alkyl_Halide_Prim_Br']	C=CC(O)CBr	151	6
+['ThioEster', 'Guanidine']	NC(N)=N/N=C1\C(=O)Sc2ccccc21	220.26	15
+['nH_Heterocycle r5', 'SemiUreas']	CN(C)C(=O)Sc1nc2ccccc2[nH]1	221.29	15
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Thiourea']	O=C1CC(=O)NC(=S)N1	144.16	9
+['Oxime', 'Alkene_Terminal']	C=C(C)/C=N/O	85.11	6
+['Nitrile _Enolizable', 'Acetal_Alkyl']	COCOCC#N	101.11	7
+['Nitrile _Enolizable', 'Thiocyanate']	N#CCSC#N	98.13	6
+['Amide_Tertiary', 'Thiourea']	CNC(=S)N1CCN(C(C)=O)CC1	201.29	13
+['Oxime', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C/C(=N\O)C(=O)OC	187.15	13
+['Isothiocyanate', 'Ketone_Enolizable']	CC(C)(C)C(=O)CN=C=S	157.24	10
+['Thiophenol', 'Ureas']	CCNC(=O)Nc1ccccc1S	196.28	13
+['Hydrazine_NH2', 'nH_Heterocycle r5']	NNc1ncc[nH]1	98.11	7
+['Azide', 'Nitro']	[N-]=[N+]=Nc1ccccc1[N+](=O)[O-]	164.12	12
+['Hydrazine_NH1', 'Ketone_NonEnolizable']	CN(C)NC(C)(C)C(=O)c1ccccc1	206.29	15
+['Amide_Tertiary', 'ImidoylChloride']	CN1CC(Cl)=Nc2ccccc2C1=O	208.65	14
+['Carboxylic acid', 'DiEWG_Cmpd_DiCarbonyl_Acyclic']	CC(=O)CC(=O)C(=O)O	130.1	9
+['Alkyl_Halide_Secondary_Br', 'Sulfonamide_Sulfone_Enolizable']	O=S1(=O)CC(Br)CO1	201.04	8
+['Enamine_EWG', 'DieneAcyclicTerminal']	C=C(NC(C)=O)C1=CC(=O)OC(C)C1	195.22	14
+['Enol_Ether_Alkyl', 'Amidine']	CCO/C=C/C(=N)N	114.15	8
+['Amine_Primary', 'Weinreb_Amide']	NC1CCONC1=O	116.12	8
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'DieneAcyclicTerminal']	C=C/C=C\C(=O)OC	112.13	8
+['Phosphonate_Enolizable', 'Ureas']	NCP1(=O)CNC(=O)NC1	163.12	10
+['Disulfide', 'Alkene_Terminal']	C=CCSSC	120.24	6
+['Alkyl_Halide_Prim_Cl', 'Acyl_Halide']	O=C(Cl)CCCl	126.97	6
+['Carboxylic acid', 'Imide_SulfonimideH']	O=C1CC(C(=O)O)C(=O)N1	143.1	10
+['Alkyl_Halide_Prim_ACT_Br', 'Acyl_Halide']	O=C(Cl)CBr	157.39	5
+['Enamine', 'Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub']	COC(=O)/C=C(\N)C(=O)N(C)C	172.18	12
+['Aryl_Bromide', 'SemiUreas']	CSC(=S)Nc1ccccc1Br	262.2	12
+['Weinreb_Amide', 'Alkyl_Halide_Prim_Br']	CON(C)C(=O)CCBr	196.04	9
+['Nitrile _Enolizable', 'Enol_Ether_EWG']	CC(=O)O/C=C/CC#N	125.13	9
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H']	O=C1C=COCC1	98.1	7
+['Aminal_Alkyl', 'Aryl_Bromide']	CN1CCOC1c1ccccc1Br	242.12	13
+['Alkyl_Halide_Prim_Cl', 'Amidine']	N=C(N)CCCl	106.56	6
+['Enol_Ether_Alkyl', 'Ketone_Enolizable']	O=C1CC=COC1	98.1	7
+['Alkyl_Halide_Secondary_Br', 'Alkyl_Halide_Tertiary_Br']	CC(Br)C(C)(C)Br	229.94	7
+['Diazo', 'Amide_Secondary']	[N-]=[N+]=C1CCCNC1=O	125.13	9
+['Alkyl_Halide_Secondary_Br', 'Alkene_Terminal']	C=CC(C)Br	135	5
+['Enamine', 'Imide_SulfonimideH']	NC1=CC(=O)NC(=O)C1	126.11	9
+['ThioAmide', 'nH_Heterocycle r5']	NC(=S)c1cc[nH]c1	126.18	8
+['Isocyanate', 'Aryl_Bromide']	O=C=Nc1cccc(Br)c1	198.02	10
+['Alkyl_Halide_Secondary_Br', 'Alkene_Internal']	BrC1CC=CCC1	161.04	7
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_H', 'Amide_Primary']	NC(=O)CN1CC=CC1=O	140.14	10
+['Alkyl_Halide_Prim_ACT_Cl', 'SemiUreas']	NC(=O)SCCl	125.58	6
+['DiEWG_Cmpd_Carbonyl_SP', 'Alkyl_Halide_Prim_ACT_Cl']	COP(=O)(CC(=O)CCl)OC	200.56	11
+['Alcohol_Allyl', 'DieneCyclic']	OCC1=CC=CC1	96.13	7
+['PhosphorylChloride_PX4', 'Nitro']	CC1([N+](=O)[O-])COP(=O)(Cl)OC1	215.53	12
+['Anhydride', 'Ketone_NonEnolizable']	O=C1OC(=O)c2ccccc2C1=O	176.13	13
+['Oxirane_Internal', 'Anhydride']	O=C1OC(=O)C2OC12	114.06	8
+['Phenol', 'Ketimine']	CCC/N=C(\C)c1ccccc1O	177.25	13
+['Phenol', 'Nitrile _Enolizable']	N#CCc1ccccc1O	133.15	10
+['Aldehyde_Aryl', 'Boronic Acid_sp2']	O=Cc1ccccc1B(O)O	149.94	11
+['Alcohol', 'Boronic Acid_sp2']	OCc1ccccc1B(O)O	151.96	11
+['Alkyl_Halide_Prim_Cl', 'SilylStannylChloride']	C[Si](C)(Cl)CCCCl	171.14	8
+['Isocyanate', 'SilylStannylChloride']	C[Si](C)(Cl)CCCN=C=O	177.71	10
+['Terminal_Michael_Acceptor_Alkene_Ester', 'Silane_sp2_sp_allyl']	C=C(C(=O)OC)[Si](C)(C)C	158.27	10
+['Vinyl_Chloride', 'Silane_sp2_sp_allyl']	C=C(Cl)[Si](C)(C)C	134.68	7
+['Oxime', 'Alkyl_Halide_Prim_ACT_Br']	CCOC(=O)/C(CBr)=N/O	210.03	10
+['nH_Heterocycle r5', 'ImidoylChloride']	C/C(Cl)=N\c1cc(C)n[nH]1	157.6	10
+['Alkyl_Halide_Prim_Cl', 'Carbonate']	O=C1OCC(CCl)O1	136.53	8
+['Azide', 'Amide_Secondary']	CNC(=O)CN=[N+]=[N-]	114.11	8
+['Aryl_Iodide', 'SulfonylChloride']	O=S(=O)(Cl)c1cccc(I)c1	302.52	11
+['Oxime', 'Aryl_Bromide']	O/N=C\c1ccccc1Br	200.03	10
+['Aldehyde_sp3_NonEnolizable', 'Alkyl_Halide_Tertiary_Br']	CC(C)(Br)C=O	151	6
+['Hydrazine_NH2', 'DiEWG_Cmpd_Carbonyl_NO2']	NNC(=O)C[N+](=O)[O-]	119.08	8
+['Hydrazine_NH1', 'ThioAmide']	CNC(=S)CNN(C)C	147.25	9
+['Oxirane_Terminal', 'Phosphonate_Enolizable']	COP(=O)(CC1CO1)OC	166.11	10
+['Isothiocyanate', 'Azo']	CC(C)(N=C=S)/N=N/c1ccccc1	205.29	14
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyl_Halide_Prim_Br']	CCOC(=O)C(CCBr)C(=O)OCC	267.12	14
+['Oxirane_Terminal', 'Ketone_NonEnolizable']	O=C1c2ccccc2CCC12CO2	174.2	13
+['Hydrazine_NH2', 'Michael_Acceptor_Alkyne_Amide']	CCCCCC#CC(=O)N(C)N	168.24	12
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyl_Halide_Prim_ACT_I']	CCOC(=O)CC(=O)CI	256.04	10
+['Alkyl_Halide_Prim_ACT_Br', 'Terminal_Michael_Acceptor_Alkene_P']	C=C(CBr)P(=O)(OC)OC	229.01	10
+['Alkyl_Halide_Prim_Cl', 'Phosphonate_Enolizable']	CCOP(C)(=O)CCCl	170.58	9
+['Hydrazine_NH2', 'Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub']	CC1=CC(=O)N(N)C1=O	126.12	9
+['Alkyl_Halide_Prim_ACT_Br', 'Vinyl_Chloride']	C=C(Cl)CBr	155.42	5
+['Terminal_Michael_Acceptor_Aldehyde', 'Nitro']	C=C(C=O)c1ccccc1[N+](=O)[O-]	177.16	13
+['Amine_Secondary', 'Alkyl_Halide_Tertiary_Br']	BrC12CCCCC1CNCC2	218.14	11
+['Phenol', 'Ketone_NonEnolizable']	Cc1ccc(O)c(C(=O)C(C)(C)C)c1	192.26	14
+['Oxime', 'Vinyl_Chloride']	O/N=C/C(Cl)=C/c1ccccc1	181.62	12
+['Alkyl_Halide_Prim_Br', 'Carbonate']	O=C1OCC(CBr)O1	180.98	8
+['SulfonylChloride', 'Alkyne_Internal']	CC#CCS(=O)(=O)Cl	152.6	8
+['Enol_Ether_Alkyl', 'Phosphonate_Enolizable']	C=COCCP(=O)(OCC)OCC	208.19	13
+['Acetal_Alkyl', 'SulfonylChloride']	O=S(=O)(Cl)CC1COCOC1	200.64	11
+['Diazo', 'Aryl_Bromide']	COC(=O)C(=[N+]=[N-])c1ccccc1Br	255.07	14
+['Oxirane_Terminal', 'SulfonylChloride']	O=S(=O)(Cl)CCC1CO1	170.62	9
+['Oxirane_Terminal', 'Nitrile']	CC(C)(C#N)CC1CO1	125.17	9
+['nH_Heterocycle r5', 'Anhydride']	Cc1c[nH]c2c1C(=O)OC(=O)C2	165.15	12
+['Amide_Primary', 'Vinyl_Chloride']	NC(=O)/C=C\Cl	105.52	6
+['Oxirane_Internal', 'Aryl_Bromide']	Brc1ccccc1C12CCCCC1O2	253.14	14
+['Oxime', 'Alkyl_Halide_Prim_ACT_Cl']	CCOC(=O)C(CCl)=NO	165.58	10
+['Alcohol', 'Vinyl_Bromide_Iodide']	OCC/C=C\Br	151	6
+['Enamine_EWG', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	COC(=O)C1=CN(C)C(=O)CC1	169.18	12
+['Hydrazine_NH2', 'Acetal_Alkyl']	CCOC(CNN)OCC	148.21	10
+['Terminal_Michael_Acceptor_Alkene_Ester', 'Phosphonate_Enolizable']	C=CC(=O)OCP(=O)(OC)OC	194.12	12
+['Enol_Ether_Alkyl', 'Ester_NonEnolizable']	COC(=O)C1(C)CCC=CO1	156.18	11
+['Thiol ', 'Phosphonate_Enolizable']	CCOP(=O)(CCCS)OCC	212.25	12
+['Alkyl_Halide_Secondary_Br', 'Vinyl_Bromide_Iodide']	BrC1=CCCCC1Br	239.94	8
+['Amine_Secondary', 'Boronic Ester_sp2']	c1ccc(B2OCCNCCO2)cc1	191.04	14
+['Ketone_Enolizable', 'Alkyne_Terminal']	C#CCCC(C)=O	96.13	7
+['Acyl_Halide', 'Alkyne_Terminal']	C#CCCC(=O)Cl	116.55	7
+['Amine_Primary', 'Michael_Acceptor_Alkyne_Ester']	COC(=O)C#CCN	113.12	8
+['ThioEster', 'Ester_Enolizable']	COC(=O)C(C)C(C)SC(C)=O	190.26	12
+['Amine_Primary', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C/CN	115.13	8
+['Boronic Acid_sp2', 'Alkene_Terminal']	C=CB(O)O	71.87	5
+['Alkyl_Halide_Prim_Br', 'Alkyne_Internal']	CC#CCCBr	147.01	6
+['Alkyl_Halide_Prim_ACT_Br', 'Internal_Michael_Acceptor_Alkene_C#N']	N#C/C=C\CBr	145.99	6
+['Alkyl_Halide_Prim_ACT_Br', 'Internal_Michael_Acceptor_Alkene_Amide_Alpha_H']	CN(C)C(=O)/C=C/CBr	192.06	9
+['Amide_Secondary', 'Nitro_Enolizable']	CC1(C)NC(=O)CCC1[N+](=O)[O-]	172.18	12
+['Alkyl_Halide_Prim_Br', 'DieneAcyclicTerminal']	C=C/C=C\CCBr	161.04	7
+['Amine_Secondary', 'Internal_Michael_Acceptor_Alkene_C#N']	N#CC1=CCNCC1	108.14	8
+['Isocyanate', 'Nitrile']	CC(C)(C#N)N=C=O	110.12	8
+['Enol_Ether_Alkyl', 'Alkyl_Halide_Prim_I']	COC(=O)C1=C(C)OC(CI)C1	282.08	12
+['Alkene_Terminal', 'Alkyne_Terminal']	C#CC=C	52.08	4
+['Nitrile _Enolizable', 'SulfonylChloride']	N#CCS(=O)(=O)Cl	139.56	7
+['Alkyl_Halide_Prim_Br', 'Amide_Primary']	NC(=O)CCBr	151.99	6
+['Alcohol_Propargyl', 'Amine_Primary']	NCC#CCO	85.11	6
+['HydroxylamineN', 'Vinyl_Chloride']	NOC/C=C\Cl	107.54	6
+['Ketone_Enolizable', 'Azirine']	O=C1CCC2(CC1)N=N2	124.14	9
+['Amine_Secondary', 'Azirine']	C1CC2(CCN1)N=N2	111.15	8
+['Terminal_Michael_Acceptor_Alkene_C#N', 'Carbonate']	C=C(C#N)COC(=O)OC	141.13	10
+['ThioEster', 'Amide_Tertiary']	CC(=O)SCCC1CCCCN1C(C)=O	229.34	15
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyl_Halide_Tertiary_Br']	COC(=O)C(C(=O)OC)C(C)(C)Br	253.09	13
+['Hydrazine_NH2', 'Aryl_Bromide']	NNc1ccccc1Br	187.04	9
+['Amine_Secondary', 'Acetal_Alkyl']	C1COCOCCN1	117.15	8
+['Carboxylic acid', 'Alkyne_Terminal']	C#CC(=O)O	70.05	5
+['Alkyl_Halide_Prim_Br', 'Ester_NonEnolizable']	COC(=O)C(C)(C)CBr	195.06	9
+['Nitrile _Enolizable', 'Alkyl_Halide_Secondary_Br']	CC(Br)C#N	133.98	5
+['Sulfonamide_NH', 'Aryl_F-Cl_Activated']	NS(=O)(=O)c1ccccc1Cl	191.64	11
+['Internal_Michael_Acceptor_Aldehyde', 'Aryl_Bromide']	O=C/C=C\c1ccccc1Br	211.06	11
+['Alcohol', 'Azirine']	CC1(CO)N=N1	86.09	6
+['Amine_Primary', 'Alkyl_Halide_Prim_Cl']	NCCCl	79.53	4
+['Aldehyde_Carbonyl', 'Ketone_NonEnolizable']	CC(C)(C)C(=O)C=O	114.14	8
+['Alkyl_Halide_Prim_ACT_I', 'Nitrile']	N#Cc1ccccc1CI	243.05	10
+['Alkyl_Halide_Prim_ACT_I', 'Alkyne_Internal']	CC#CCI	179.99	5
+['Alkyl_Halide_Prim_ACT_I', 'Vinyl_Chloride']	C=C(Cl)CI	202.42	5
+['Phenol', 'Acetal_Alkyl']	COCOc1ccccc1O	154.16	11
+['Amine_Secondary', 'Disulfide']	C1CSSCCN1	135.26	7
+['Acetal_Alkyl', 'Sulfoxide_Enolizable']	CCOC(CS(C)=O)OCC	180.27	11
+['Alkyl_Halide_Prim_ACT_Br', 'Boronic Ester_sp2']	BrCc1ccccc1B1OCCCO1	254.92	14
+['HydroxylamineN', 'Ester_NonEnolizable']	COC(=O)C(C)(C)ON	133.15	9
+['Alkyne_Terminal', 'Silane_sp2_sp_allyl']	C#C[Si](C)(C)C	98.22	6
+['ThioAmide', 'Amide_Tertiary']	CN(C)C(=O)CC(N)=S	146.22	9
+['Alkyl_Halide_Prim_ACT_Cl', 'Internal_Michael_Acceptor_Alkene_Amide_Alpha_H']	CN(C)C(=O)/C=C/CCl	147.6	9
+['nH_Heterocycle r6', 'Amidine']	N=C(N)c1cccc(=O)[nH]1	137.14	10
+['Vinyl_Chloride', 'SulfonylChloride']	O=S(=O)(Cl)C/C=C\Cl	175.04	8
+['Hydrazone', 'Ketone_Enolizable']	CC(=O)/C=N/NC(C)(C)C	142.2	10
+['Internal_Michael_Acceptor_Alkene_C#N', 'Ketone_Enolizable']	N#CC1=CCC(=O)CC1	121.14	9
+['Alkyl_Halide_Prim_Cl', 'Nitrile']	CC(C)(C#N)CCl	117.58	7
+['Amine_Primary', 'Ketone_NonEnolizable']	CC(C)(C)C(=O)C(C)(C)N	143.23	10
+['Aryl_Iodide', 'Alkyne_Terminal']	C#Cc1ccccc1I	228.03	9
+['Weinreb_Amide', 'Amide_Tertiary']	CON(C)C(=O)CN1CCCC1=O	186.21	13
+['Acyl_Halide', 'SulfonylChloride']	O=C(Cl)CS(=O)(=O)Cl	177.01	8
+['Isothiocyanate', 'Alkyne_Terminal']	C#CCN=C=S	97.14	6
+['Vinyl_Bromide_Iodide', 'SulfonylChloride']	C=C(Br)CS(=O)(=O)Cl	219.49	8
+['Enol_Ether_Alkyl', 'Enol_Ether_EWG']	CC(=O)OC1=C(C)OC(C)C1=O	170.16	12
+['Ketone_Enolizable', 'Phosphonate_Enolizable']	CCOP(C)(=O)CCC(C)=O	178.17	11
+['Alkyl_Halide_Prim_Br', 'Sulfonamide_NH']	NS(=O)(=O)CCCBr	202.07	8
+['Carboxylic acid', 'Michael_Acceptor_Alkyne_Amide']	CN(C)C(=O)C#CC(=O)O	141.13	10
+['Sulfonamide_NH', 'SulfonylChloride']	CCS(=O)(=O)NCCS(=O)(=O)Cl	235.71	12
+['Amine_Primary', 'Anhydride']	NC1CC(=O)OC1=O	115.09	8
+['SulfonylChloride', 'Alkyne_Terminal']	C#CCS(=O)(=O)Cl	138.57	7
+['Oxirane_Terminal', 'Ester_NonEnolizable']	COC(=O)C1(C)CO1	116.12	8
+['Isocyanate', 'Ester_NonEnolizable']	COC(=O)C(C)(C)N=C=O	143.14	10
+['Amine_Primary', 'Alkyl_Halide_Prim_I']	NCCI	170.98	4
+['Alkyl_Halide_Secondary_Br', 'Aryl_Bromide']	CC(Br)c1ccccc1Br	263.96	10
+['Isocyanate', 'Acetal_Alkyl']	COC(CN=C=O)OC	131.13	9
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Amide_Secondary']	COC(=O)C1=CC(=O)NCCC1	169.18	12
+['Isocyanate', 'Ester_Enolizable']	COC(=O)CN=C=O	115.09	8
+['Alkyl_Halide_Prim_ACT_Cl', 'Alkyne_Internal']	CCC#CCCl	102.56	6
+['Borate', 'Alkene_Terminal']	C=C[B-](F)(F)F	94.85	6
+['Sulfonamide_Sulfone_Enolizable', 'Nitrile']	CC(C)(C#N)OS(C)(=O)=O	163.2	10
+['SulfonylChloride', 'Azirine']	CC1(CCS(=O)(=O)Cl)N=N1	182.63	10
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Weinreb_Amide']	CON1CCC(=O)CC1=O	143.14	10
+['SulfonylChloride', 'DieneAcyclicTerminal']	C=C/C=C\S(=O)(=O)Cl	152.6	8
+['Enol_Ether_Alkyl', 'Alkyl_Halide_Prim_Br']	C=COCCBr	151	6
+['Alkyl_Halide_Tertiary_Br', 'Ester_Enolizable']	COC(=O)CC(C)(C)Br	195.06	9
+['Isothiocyanate', 'Alkene_Terminal']	C=CCN=C=S	99.16	6
+['Amine_Primary', 'SemiUreas']	NCCN1C(=O)CSC1=S	176.27	10
+['Oxirane_Terminal', 'Alkyl_Halide_Prim_Br']	BrCC1CO1	136.98	5
+['Michael_Acceptor_Alkene_diEWG', 'Vinyl_Chloride']	COC(=O)C(=CCl)C(=O)OC	178.57	11
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyne_Terminal']	C#CCC(C(C)=O)C(=O)OC	154.16	11
+['Isothiocyanate', 'Amide_Secondary']	CNC(=O)CCN=C=S	144.2	9
+['Isothiocyanate', 'Amide_Tertiary']	CN(C)C(=O)CN=C=S	144.2	9
+['Sulfoxide_Enolizable', 'Nitrile']	CS(=O)C(C)(C)C#N	131.2	8
+['Acetal_Alkyl', 'Thiirane']	CCOC(OCC)C1CS1	162.25	10
+['Imide_SulfonimideH', 'Aryl_Bromide']	O=C1NC(=O)c2c(Br)cccc21	226.03	12
+['Alkyl_Halide_Prim_ACT_Cl', 'Sulfonamide_NH']	NS(=O)(=O)c1ccccc1CCl	205.67	12
+['Aldehyde_Enolizable', 'Oxirane_Internal']	CC1(C)OC1C=O	100.12	7
+['Oxirane_Terminal', 'Alkyl_Halide_Prim_Cl']	ClCC1CO1	92.53	5
+['Alcohol_Propargyl', 'Alkyl_Halide_Prim_ACT_Br']	OCC#CCBr	148.99	6
+['Alkyl_Halide_Prim_I', 'Ester_Enolizable']	COC(=O)CCI	214	7
+['Amine_Primary', 'Thioacetal_CH']	NCC1SCCS1	135.26	7
+['Ketimine_EWG', 'Alkyl_Halide_Prim_ACT_Br']	O=S1(=O)N=C(CBr)c2ccccc21	260.11	13
+['Alkyl_Halide_Prim_Br', 'Nitro_Enolizable']	O=[N+]([O-])CCBr	153.96	6
+['Alkyl_Halide_Prim_Br', 'Thioacetal_CH']	BrCCC1SCCS1	213.16	8
+['Aldehyde_sp3_NonEnolizable', 'Alkyl_Halide_Prim_Cl']	CC(C)(C=O)CCl	120.58	7
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H', 'Acetal_Acyl']	CC(=O)OC1C=CC(=O)CO1	156.14	11
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'DieneCyclic']	CCOC(=O)C1=CC=CCC1	152.19	11
+['Dicarbonyl_Cmpd_NoCarbonyl', 'Sulfoxide_Enolizable']	CCOP(=O)(CS(C)=O)OCC	214.22	12
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_Sub', 'Vinyl_Bromide_Iodide']	CCC(=O)/C(C)=C/Br	177.04	8
+['Sulfonamide_NH', 'Aryl_Iodide']	NS(=O)(=O)c1cccc(I)c1	283.09	11
+['Alkyl_Halide_Prim_ACT_Br', 'Terminal_Michael_Acceptor_Alkene_C#N']	C=C(C#N)CBr	145.99	6
+['Alkyl_Halide_Tertiary_Br', 'Nitrile']	CC(C)(Br)C#N	148	6
+['Alkyl_Halide_Secondary_Br', 'Nitro']	CC(Br)c1ccccc1[N+](=O)[O-]	230.06	12
+['Hydrazine_NH2', 'Alkyne_Terminal']	C#CCNN	70.09	5
+['Aldehyde_Aryl', 'Amide_Primary']	NC(=O)c1ccccc1C=O	149.15	11
+['Weinreb_Amide', 'nH_Heterocycle r5']	CON(C)C(=O)c1ccc[nH]1	154.17	11
+['Thioacetal_CH', 'Phosphonate_Enolizable']	COP(=O)(OC)C1SCCS1	214.25	11
+['Azide', 'Aryl_Bromide']	[N-]=[N+]=Nc1ccccc1Br	198.02	10
+['Alkyne_Terminal', 'Carbonate']	C#CCOC(=O)OC	114.1	8
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'Vinyl_Chloride']	CCC(=O)/C=C/Cl	118.56	7
+['Amine_Primary', 'DieneAcyclicInternal']	C/C=C/C=C/CN	97.16	7
+['Amine_Secondary', 'Isocyanate']	CCNc1ccccc1N=C=O	162.19	12
+['Aldimine_EWG', 'Michael_Acceptor_Alkene_diEWG']	CCOC(=O)C1=CN(C)S(=O)(=O)N=C1	218.23	14
+['Alcohol_Propargyl', 'Amide_Tertiary']	C#CC1(O)CCN(C)C1=O	139.15	10
+['Alkyl_Halide_Tertiary_I', 'Nitrile']	CC(C)(I)C#N	195	6
+['Enamine', 'Internal_Michael_Acceptor_Alkene_Nitro']	CN(C)/C=C\[N+](=O)[O-]	116.12	8
+['Ketone_Enolizable', 'Vinyl_Bromide_Iodide']	O=C1C=C(Br)CCC1	175.02	8
+['Aldehyde_Enolizable', 'Phosphonate_Enolizable']	CCOP(=O)(CC=O)OCC	180.14	11
+['Amine_Secondary', 'Phosphonate_Enolizable']	O=P1(c2ccccc2)CCNCC1	195.2	13
+['Alkyl_Halide_Prim_ACT_Cl', 'Nitro']	O=[N+]([O-])c1ccccc1CCl	171.58	11
+['Amide_Primary', 'SulfonylChloride']	NC(=O)c1cccc(S(=O)(=O)Cl)c1	219.65	13
+['Enol_Ether_EWG', 'Acetal_Alkyl']	C=COC(=O)C1(C)COC(C)(C)OC1	200.23	14
+['Hydrazine_NH2', 'Sulfonamide_NH']	NNCCS(N)(=O)=O	139.18	8
+['Alkyl_Halide_Tertiary_Cl', 'Acyl_Halide']	CC(C)(Cl)C(=O)Cl	141	7
+['Carboxylic acid', 'Alkyl_Halide_Tertiary_Cl']	CC(C)(Cl)C(=O)O	122.55	7
+['Alkyne_Terminal', 'Nitrile']	C#Cc1ccccc1C#N	127.15	10
+['Amine_Primary', 'Azirine']	CC1(CN)N=N1	85.11	6
+['Alkyl_Halide_Prim_ACT_Cl', 'SulfonylChloride']	O=S(=O)(Cl)OCCl	165	7
+['Alkyl_Halide_Prim_Cl', 'SulfonylChloride']	O=S(=O)(Cl)CCCl	163.03	7
+['Isothiocyanate', 'Amide_Primary']	NC(=O)CN=C=S	116.14	7
+['Alkyl_Halide_Secondary_Cl', 'SulfonylChloride']	CC(Cl)CCS(=O)(=O)Cl	191.08	9
+['Hydrazine_NH2', 'Amide_Primary']	NNCC(N)=O	89.1	6
+['SulfonylChloride', 'Ester_NonEnolizable']	COC(=O)C(C)(C)S(=O)(=O)Cl	200.64	11
+['Carboxylic acid', 'Internal_Michael_Acceptor_Aldehyde']	O=CC1=CCCC1C(=O)O	140.14	10
+['Alkyl_Halide_Prim_ACT_Cl', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	CCOC(=O)/C=C/CCl	148.59	9
+['Amine_Primary', 'Thiocyanate']	N#CSCCCN	116.19	7
+['Alkyl_Halide_Prim_Cl', 'Cyanamide']	CCN(C#N)CCCl	132.59	8
+['Amide_Secondary', 'SulfonylChloride']	CC(=O)Nc1cccc(S(=O)(=O)Cl)c1	233.68	14
+['Enol_Ether_EWG', 'Alkyl_Halide_Secondary_Br']	O=C1OC=CC1Br	162.97	7
+['Vinyl_Bromide_Iodide', 'Anhydride']	O=C1C=C(Br)C(=O)O1	176.95	8
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Vinyl_Chloride']	CCOC(=O)/C=C\Cl	134.56	8
+['Alkyl_Halide_Secondary_I', 'Amide_Primary']	CC(I)C(N)=O	198.99	6
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'ThioEster']	O=C1C=CCS1	100.14	6
+['Alkyl_Halide_Prim_ACT_Cl', 'Michael_Acceptor_Alkyne_Ester']	COC(=O)C#CCCl	132.55	8
+['Oxirane_Internal', 'Alkyl_Halide_Prim_Cl']	CC1(C)OC1CCl	120.58	7
+['Hydrazine_NH1', 'DiEWG_Cmpd_DiCarbonyl_Cyclic']	O=C1CC(=O)NN1	100.08	7
+['Acetal_Alkyl', 'Azide']	COC(CN=[N+]=[N-])OC	131.14	9
+['Enamine', 'Alkyl_Halide_Prim_Cl']	CC1(C)CC(=O)C=C(NCCCl)C1	201.7	13
+['nH_Heterocycle r5', 'Ketone_NonEnolizable']	O=C(c1ccccc1)c1ccc[nH]1	171.2	13
+['Ester_Enolizable', 'Cyanamide']	CCOC(=O)CN(C)C#N	142.16	10
+['Internal_Michael_Acceptor_Aldehyde', 'Nitro']	O=C/C=C\c1ccccc1[N+](=O)[O-]	177.16	13
+['Alcohol_Allyl', 'Amide_Tertiary']	CC(=O)N1C(C)(C)C=C(CO)C1(C)C	197.28	14
+['Aldehyde_sp3_NonEnolizable', 'Disulfide']	CSSC(C)(C)C=O	150.27	8
+['Amide_Primary', 'Nitro']	NC(=O)c1ccccc1[N+](=O)[O-]	166.14	12
+['Alkyl_Halide_Secondary_Cl', 'Alkyl_Halide_Tertiary_Cl']	CC(Cl)C(C)(C)Cl	141.04	7
+['Aldehyde_Enolizable', 'Oxirane_Terminal']	O=CC1CO1	72.06	5
+['Aldehyde_Enolizable', 'Alkyl_Halide_Prim_Cl']	O=CCCCl	92.53	5
+['Alkyl_Halide_Prim_ACT_Cl', 'Terminal_Michael_Acceptor_Alkene_C#N']	C=C(C#N)CCl	101.54	6
+['Alkyl_Halide_Prim_Br', 'Acyl_Halide']	O=C(Cl)CCBr	171.42	6
+['DieneAcyclicTerminal', 'Alkene_Internal']	C=C/C(C)=C\CC=C(C)C	136.24	10
+['Aldehyde_Enolizable', 'Alkene_Terminal']	C=CCC=O	70.09	5
+['Carboxylic acid', 'Sulfonamide_Sulfone_Enolizable']	CS(=O)(=O)OCC(=O)O	154.14	9
+['Alkyl_Halide_Tertiary_Br', 'Nitro']	CC(C)(Br)[N+](=O)[O-]	167.99	7
+['Alkyl_Halide_Prim_Cl', 'ThionoEster']	CC(=S)OCCCCl	152.65	8
+['Hydrazine_NH1', 'Alkyl_Halide_Prim_ACT_Br']	CC(=O)NNC(=O)CBr	195.02	9
+['Amine_Secondary', 'ThioEster']	CSC(=O)c1cccc2c1NCC2	193.27	13
+['Azide', 'Sulfonamide_NH']	[N-]=[N+]=NCCCS(N)(=O)=O	164.19	10
+['Alcohol_Allyl', 'Terminal_Michael_Acceptor_Aldehyde']	C=C(C=O)C1CC(O)C(C)=C1C=O	180.2	13
+['Disulfide', 'Amide_Primary']	CC1(C(N)=O)CSSC1	163.27	9
+['Alcohol_Allyl', 'DienoneCyclic']	CC1CCC=C2C(=O)C=CC(O)C21C	192.26	14
+['Amide_Secondary', 'Anhydride']	CC(=O)NC1CC(=O)OC1=O	157.12	11
+['Hydrazine_NH1', 'Imide_SulfonimideH']	O=C1CC(NNc2ccccc2)C(=O)N1	205.22	15
+['Nitro', 'Ureas']	NC(=O)Nc1ccccc1[N+](=O)[O-]	181.15	13
+['DiazoCH', 'Ketone_Enolizable']	[N-]=[N+]=CC(=O)Cc1ccccc1	160.18	12
+['Phenol', 'Phosphonate_Enolizable']	CCP(=O)(CC)c1ccccc1O	198.2	13
+['Phenol', 'HemiaminalNH']	CC(C)(C)NC(O)c1cccc(O)c1	195.26	14
+['ThioAmide', 'Nitro']	NC(=S)c1cccc([N+](=O)[O-])c1	182.2	12
+['Ketone_Enolizable', 'Carbonate']	COC(=O)OC(C)(C)C(C)=O	160.17	11
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub', 'Nitrile']	CN1C(=O)/C(=C\C#N)c2ccccc21	184.2	14
+['Nitro_Enolizable', 'Nitrile']	CC(C)(C#N)C[N+](=O)[O-]	128.13	9
+['Aryl_Bromide', 'Carbonate']	CC(C)COC(=O)Oc1ccccc1Br	273.13	15
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Alkyne_Internal']	CCCCC#C/C=C(\C)C(=O)OC	180.25	13
+['Ketone_Enolizable', 'Alkyne_Internal']	CCCCCC#CCCC(C)=O	166.26	12
+['Thioacetal_CH', 'Nitro']	O=[N+]([O-])c1ccccc1C1SCCCS1	241.34	15
+['Vinyl_Chloride', 'Ketone_NonEnolizable']	O=C1C=C(Cl)c2cccc3cccc1c23	214.65	15
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'nH_Heterocycle r5']	CC(=O)/C=C/c1ccc[nH]1	135.17	10
+['Vinyl_Chloride', 'Ester_NonEnolizable']	C=C(Cl)C(C)(C)C(=O)OC	162.62	10
+['Aryl_Iodide', 'Alkene_Internal']	N=C1NC(=O)/C(=C\c2ccccc2I)S1	330.15	15
+['Enol_Ether_Alkyl', 'Thiourea']	C=COCCNC(=S)Nc1ccccc1	222.31	15
+['Alkyl_Halide_Tertiary_Cl', 'Alkyne_Terminal']	C#CC(C)(C)Cl	102.56	6
+['Alcohol_Allyl', 'Ester_NonEnolizable']	C=CC(C)(O)C(=O)OCC(C)C	172.22	12
+['ThionoEster', 'Ester_Enolizable']	CCOC(=O)CC(=S)OCC	176.24	11
+['Ketone_Enolizable', 'Imide_SulfonimideH']	CC(=O)C(C)(C)C1CCC(=O)NC1=O	197.23	14
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Amide_Secondary']	CCCCNC(=O)/C=C/C(=O)OC	185.22	13
+['Sulfonamide_Sulfone_Enolizable', 'Nitro']	CC(C)(COS(C)(=O)=O)[N+](=O)[O-]	197.21	12
+['Acetal_Acyl', 'Ester_Enolizable']	CC(=O)OC1CCCOC1OC(C)=O	202.21	14
+['Ketimine', 'Alkyl_Halide_Prim_ACT_Cl']	ClCC1=NCCc2ccccc21	179.65	12
+['Alkyl_Halide_Prim_Cl', 'Thiocyanate']	N#CSCCCl	121.59	6
+['Alkyl_Halide_Tertiary_Cl', 'Amide_Primary']	CC(C)(Cl)C(N)=O	121.57	7
+['Alkene_Terminal', 'Nitrile']	C=CCC(C)(C)C#N	109.17	8
+['Isothiocyanate', 'Acetal_Alkyl']	COC(CN=C=S)OC	147.2	9
+['Ketone_Enolizable', 'HemiaminalNH']	CC(=O)NC(O)C(=O)c1ccccc1	193.2	14
+['Amide_Secondary', 'Borate']	CC(=O)NCCC[B-](F)(F)F	167.95	11
+['Nitrile _Enolizable', 'Borate']	N#CC[B-](F)(F)F	107.85	7
+['Acetal_Alkyl', 'Thiourea']	COC(CN1C(=O)CNC1=S)OC	204.25	13
+['HemiaminalNH0', 'Ureas']	CC(C)C1NC(=O)N(C)C(O)C1(C)C	200.28	14
+['ThioAmide', 'Alkene_Internal']	CC1=CC(=S)NC(C)(C)C1	155.27	10
+['HydroxylamineN', 'Ketone_NonEnolizable']	CC(C)(NO)C(=O)c1ccccc1	179.22	13
+['Ketone_Enolizable', 'Thiocyanate']	CC(=O)CSC#N	115.16	7
+['Alcohol_Propargyl', 'Alcohol']	C#CC(C)(O)C(O)CC	128.17	9
+['ThioAmide', 'Aryl_F-Cl_Activated']	NC(=S)c1ccccc1Cl	171.65	10
+['Thiocyanate', 'Ester_NonEnolizable']	CCOC(=O)C(=O)SC#N	159.17	10
+['Phenol', 'Michael_Acceptor_Alkene_diEWG']	CC1=NOC(=O)/C1=C/c1ccccc1O	203.2	15
+['Hydrazine_NH1', 'Aryl_Bromide']	O=C1CCN(c2ccccc2Br)N1	241.09	13
+['Amide_Tertiary', 'nH_Heterocycle r5']	CN(C)C(=O)c1ccc[nH]1	138.17	10
+['Phosphonate_Enolizable', 'Borate']	CCOP(=O)(CCC[B-](F)(F)F)OCC	246.98	15
+['Alcohol_Allyl', 'Oxirane_Internal']	C/C=C\C(O)C1OC1C	128.17	9
+['Aldimine', 'Enamine']	C1=CNc2ccccc2N=C1	144.18	11
+['DienoneCyclic', 'Alkene_Internal']	CC1=CC(=O)C=CCC=CC1	148.2	11
+['Isothiocyanate', 'Boronic Acid_sp2']	OB(O)c1cccc(N=C=S)c1	179.01	12
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Silane_sp2_sp_allyl']	C/C=C(\C(=O)OC(C)(C)C)[Si](C)(C)C	214.38	14
+['Oxime', 'Sulfoxide_Enolizable']	O=S1CC/C(=N\O)c2ccccc21	195.24	13
+['Oxirane_Internal', 'Amide_Secondary']	CC1(C)CC2(C)OC2C(=O)N1	155.2	11
+['Alkyl_Halide_Prim_Cl', 'Alkene_Terminal']	C=CCCCl	90.55	5
+['nH_Heterocycle r6', 'Aryl_F-Cl_Activated']	O=c1cccc(Cl)[nH]1	129.55	8
+['Alkyl_Halide_Prim_ACT_I', 'Aryl_Iodide']	Cc1cc(I)c(CI)cc1C	371.99	11
+['DieneAcyclicTerminal', 'DieneCyclic']	C=CC1=CC=CC1	92.14	7
+['HydroxylamineN', 'Alkyl_Halide_Prim_Br']	BrCCN1CCCCO1	194.07	9
+['Alkyl_Halide_Prim_I', 'Allene']	C=C=CCCI	194.01	6
+['Internal_Michael_Acceptor_Alkene_Nitro', 'DieneAcyclicInternal']	C/C(=C\C=C\c1ccccc1)[N+](=O)[O-]	189.21	14
+['Alkyl_Halide_Secondary_Cl', 'Acetal_Alkyl']	COC(OC)C(C)Cl	138.59	8
+['Amide_Secondary', 'Alkyne_Internal']	CCC(=O)NCC#Cc1ccccc1	187.24	14
+['Aryl_Bromide', 'Nitroso']	CSC(N=O)c1ccccc1Br	246.13	12
+['Phenol', 'ThionoEster']	CCOC(=S)c1ccccc1O	182.24	12
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Alkene_P']	CCOP(=O)(/C=C/OC)OCC	194.17	12
+['Carboxylic acid', 'Aryl_F-Cl_Activated']	O=C(O)c1c(Cl)cc(=O)n2c1CCC2	213.62	14
+['Aryl_Bromide', 'Guanidine']	NC(N)=Nc1ccccc1Br	214.07	11
+['Imide_SulfonimideH', 'DieneCyclic']	O=C1NC(=O)C23C=CC=CC12CCCC3	203.24	15
+['Alkyl_Halide_Secondary_I', 'Hemiacetal']	OC1CC2CCCC(I)C2O1	268.09	11
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H', 'DieneAcyclicInternal']	O=C1/C=C\C=C/CCCC1	136.19	10
+['Alkyl_Halide_Prim_ACT_Br', 'Michael_Acceptor_Alkene_diEWG']	COC(=O)C(=CCBr)C(=O)OC	237.05	12
+['Thiophenol', 'Ketone_Enolizable']	CC(=O)c1ccccc1S	152.22	10
+['Alcohol_Allyl', 'Terminal_Michael_Acceptor_Alkene_S']	C=C(C(C)O)S(=O)c1ccccc1	196.27	13
+['Acetal_Alkyl', 'DieneCyclic']	C1=CC23CCCOC2(C=C1)OCCC3	192.26	14
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Nitrile']	COC(=O)/C=C/c1ccccc1C#N	187.2	14
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub', 'Ketone_Enolizable']	CC1CC=C2C(=O)OCC2CC(=O)C1	194.23	14
+['Oxirane_Terminal', 'Carbonate']	CC(C)(C)OC(=O)OCC1CO1	174.2	12
+['Oxirane_Terminal', 'DienoneCyclic']	O=C1C=CC2(C=C1)CO2	122.12	9
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Oxirane_Terminal']	CCOC(=O)C(CC1CO1)C(=O)OCC	216.23	15
+['Hemiacetal', 'Alkene_Terminal']	C=CC1(C)CCC(O)O1	128.17	9
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H', 'Ketone_NonEnolizable']	CC1(C)CCC=CC1=O	124.18	9
+['Enamine', 'Amide_Tertiary']	C/C(N)=C/C(=O)N1CCCCC1	168.24	12
+['DienoneCyclic', 'Acetal_Alkyl']	COC1(OC)C=CC(=O)C=C1C(C)(C)C	210.27	15
+['Enol_Ether_EWG', 'Amide_Primary']	NC(=O)/C=C1/OC(=O)c2ccccc21	189.17	14
+['Nitrile', 'Nitroso']	CN(N=O)c1ccccc1C#N	161.16	12
+['Alkyl_Halide_Tertiary_Cl', 'Nitroso']	O=NC1(Cl)CCCCC1	147.6	9
+['Acetal_Alkyl', 'Aryl_Iodide']	COC(OC)c1ccccc1I	278.09	12
+['Nitro', 'Carbonate']	COC(=O)Oc1c(C)cccc1[N+](=O)[O-]	211.17	15
+['Aminal_Alkyl', 'Alkene_Internal']	CCCN1C(=O)C(C)=C(C)C1OC	183.25	13
+['Oxirane_Terminal', 'Aryl_Bromide']	Brc1ccccc1C1CO1	199.05	10
+['Thiophenol', 'Ester_NonEnolizable']	COC(=O)c1ccccc1S	168.22	11
+['HemiaminalNH0', 'Alkene_Internal']	CCCN1C(=O)C(C)=C(C)C1O	169.22	12
+['Aminal_Alkyl', 'Ester_Enolizable']	CC(=O)OCCCN1CCOC1C(C)C	215.29	15
+['Carboxylic acid', 'Ketimine_EWG']	CC(=O)/N=C(/Cc1ccccc1)C(=O)O	205.21	15
+['DiEWG_Cmpd_Carbonyl_SP', 'Amide_Primary']	CCOP(=O)(CC(N)=O)OCC	195.15	12
+['Thiophenol', 'Aryl_Iodide']	Sc1ccccc1I	236.08	8
+['Oxime', 'Enol_Ether_Alkyl']	CC1(C)C/C(=N\O)C=CO1	141.17	10
+['Michael_Acceptor_Alkene_diEWG', 'Amide_Secondary']	O=C1CNC(=O)/C1=C\c1ccccc1	187.2	14
+['Alcohol_Allyl', 'Terminal_Michael_Acceptor_Ketone']	C=C(C(C)=O)C(O)c1ccccc1	176.21	13
+['nH_Heterocycle r5', 'Phosphonate_Enolizable']	CCCP(=O)(CCC)Cc1nnn[nH]1	216.22	14
+['Amide_Primary', 'Alkene_Terminal']	C=CC(N)=O	71.08	5
+['ThioEster', 'Thiourea']	NC(=S)N/N=C1\C(=O)Sc2ccccc21	237.31	15
+['Aryl_Iodide', 'SemiUreas']	O=C1CSC(=S)N1c1ccccc1I	335.19	14
+['Enamine', 'Thiourea']	CN(C)/C=C1/NC(=S)NC1=O	171.22	11
+['Enol_Ether_EWG', 'Anhydride']	CC(=O)OC1=CC(=O)OC(=O)C1	170.12	12
+['Alkyl_Halide_Prim_ACT_Br', 'Alkyne_Internal']	CC#CCBr	132.99	5
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'nH_Heterocycle r5']	CC(=O)CC(=O)c1[nH]cc(C)c1C	179.22	13
+['Amine_Secondary', 'Nitro_Enolizable']	CC1(C)CC([N+](=O)[O-])CC(C)(C)N1	186.25	13
+['Nitrile _Enolizable', 'Ketimine']	N#CCC1=NCCc2ccccc21	170.22	13
+['Ketone_Enolizable', 'Vinyl_Chloride']	O=C1C=C(Cl)CC1	116.55	7
+['Enamine', 'Thiocyanate']	CCOC(=O)/C(N)=C(\C)SC#N	186.24	12
+['Weinreb_Amide', 'Ester_Enolizable']	CON(C)C(=O)CCC(=O)OC(C)(C)C	217.26	15
+['Boronic Acid_sp2', 'Vinyl_Bromide_Iodide']	OB(O)C1=C(Br)CCC1	190.83	9
+['Alkyl_Halide_Prim_ACT_Br', 'nH_Heterocycle r5']	BrCc1ncc[nH]1	161	7
+['Carboxylic acid', 'Internal_Michael_Acceptor_Alkene_Amide_Alpha_H']	CN(C)C(=O)/C=C/C(=O)O	143.14	10
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C\C(C)=O	128.13	9
+['Carboxylic acid', 'SulfonylChloride']	O=C(O)c1ccccc1S(=O)(=O)Cl	220.63	13
+['Alkyl_Halide_Prim_ACT_Cl', 'Azide']	[N-]=[N+]=Nc1ccccc1CCl	167.6	11
+['Alcohol', 'SulfonylChloride']	O=S(=O)(Cl)CCO	144.58	7
+['Alkyl_Halide_Prim_ACT_Cl', 'Aryl_Bromide']	ClCc1ccccc1Br	205.48	9
+['nH_Heterocycle r6', 'Alkyne_Terminal']	C#Cc1cccc(=O)[nH]1	119.12	9
+['Alkyl_Halide_Prim_ACT_Br', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	COC(=O)/C=C\CBr	179.01	8
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Enamine']	COC(=O)C1C(=O)C=C(N)CC1(C)C	197.23	14
+['Amine_Primary', 'Alkyl_Halide_Tertiary_Br']	CC(C)(Br)CN	152.03	6
+['HemiaminalNH0', 'SemiUreas']	CC(C)(C)OC(=O)N1CCCC1O	187.24	13
+['nH_Heterocycle r6', 'Ester_NonEnolizable']	COC(=O)c1cccc(=O)[nH]1	153.14	11
+['Aldehyde_Aryl', 'nH_Heterocycle r6']	O=Cc1cc(=O)cc[nH]1	123.11	9
+['Internal_Michael_Acceptor_Alkene_Nitro', 'Aryl_Bromide']	O=[N+]([O-])/C=C\c1ccccc1Br	228.04	12
+['Phenol', 'DiEWG_Cmpd_DiCarbonyl_Acyclic']	CC(=O)CC(=O)c1ccccc1O	178.19	13
+['Phenol', 'Internal_Michael_Acceptor_Alkene_Nitro']	O=[N+]([O-])/C=C\c1ccccc1O	165.15	12
+['Thiol ', 'Alkyl_Halide_Prim_Br']	SCCCBr	155.06	5
+['Nitrile _Enolizable', 'Enamine_EWG']	CC(=O)N1C=Cc2ccccc2C1C#N	198.22	15
+['Imide_SulfonimideH', 'Aryl_F-Cl_Activated']	O=C1NC(=O)c2c(Cl)cccc21	181.58	12
+['Alkyl_Halide_Prim_ACT_Cl', 'Michael_Acceptor_Alkene_diEWG']	O=C1ON=C(CCl)/C1=C/c1ccccc1	221.64	15
+['Boronic Acid_sp2', 'Nitro']	O=[N+]([O-])c1ccccc1B(O)O	166.93	12
+['Amine_Secondary', 'Boronic Acid_sp2']	CNc1ccccc1B(O)O	150.97	11
+['Amine_Secondary', 'Thiocyanate']	N#CSCCNCc1ccccc1	192.29	13
+['Enamine', 'Aryl_Bromide']	O=C1C=C(Nc2ccccc2Br)CCC1	266.14	15
+['Isothiocyanate', 'Nitrile']	CC(C)(C#N)N=C=S	126.18	8
+['Alkyl_Halide_Prim_Cl', 'ThioAmide']	NC(=S)CCCl	123.61	6
+['Alkyl_Halide_Secondary_Cl', 'ThioAmide']	CC(Cl)C(N)=S	123.61	6
+['Alkyl_Halide_Prim_Br', 'ThioAmide']	NC(=S)CCCBr	182.09	7
+['Terminal_Michael_Acceptor_Alkene_Amide', 'Amide_Secondary']	C=CC(=O)N1CCCNC(=O)C1C	182.22	13
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'SemiUreas']	COC(=O)CC(=O)N1CCCSC1=S	233.31	14
+['Alkyl_Halide_Prim_ACT_Cl', 'ThioAmide']	NC(=S)CCl	109.58	5
+['Oxirane_Internal', 'Ester_NonEnolizable']	COC(=O)C1(C)OC1(C)C	144.17	10
+['Carboxylic acid', 'Isocyanate']	CCC(N=C=O)C(=O)O	129.11	9
+['Hydrazine_NH2', 'Alkyl_Halide_Prim_ACT_Cl']	NNC(=O)CCl	108.53	6
+['Phosphonate_Enolizable', 'Ester_NonEnolizable']	COC(=O)c1ccccc1P(C)(C)=O	212.18	14
+['DiEWG_Cmpd_Carbonyl_SP', 'Phosphonate_Enolizable']	CCOC(=O)CP(=O)(CC)OCC	208.19	13
+['Enamine', 'Amidine']	NC1=NCCNC(c2ccccc2)=C1	187.25	14
+['Carboxylic acid', 'Isothiocyanate']	CCC(N=C=S)C(=O)O	145.18	9
+['Vinyl_Bromide_Iodide', 'Alkene_Terminal']	C=CC/C=C(/Br)CCC	189.1	9
+['Sulfonamide_NH', 'Amidine']	CC(C)(NS(C)(=O)=O)C(=N)N	179.25	11
+['Ketone_Enolizable', 'Cyanamide']	N#CN1CCC(=O)CC1	124.14	9
+['Alcohol', 'Cyanamide']	CN(C#N)CCO	100.12	7
+['Amide_Tertiary', 'Cyanamide']	CC(=O)N1CCN(C#N)CC1	153.19	11
+['Amide_Primary', 'Cyanamide']	N#CN1CCCC(C(N)=O)C1	153.19	11
+['Hydrazine_NH2', 'Terminal_Michael_Acceptor_Alkene_Amide']	C=C(C)C(=O)N(C)N	114.15	8
+['Vinyl_Chloride', 'Nitrile']	N#CC1=C(Cl)CCCC1	141.6	9
+['Thiol ', 'Aryl_Bromide']	SCc1ccccc1Br	203.1	9
+['Vinyl_Bromide_Iodide', 'Nitro']	O=[N+]([O-])c1ccccc1/C=C/Br	228.04	12
+['Enol_Ether_EWG', 'Alkyl_Halide_Tertiary_Cl']	C=C1OC(=O)OC1(C)Cl	148.54	9
+['Imide_SulfonimideH', 'Nitro']	O=C1NC(=O)c2c1cccc2[N+](=O)[O-]	192.13	14
+['SilylStannylChloride', 'DieneCyclic']	CC1=C(C)C([Si](C)(C)Cl)C(C)=C1C	214.81	13
+['Allene', 'Silane_sp2_sp_allyl']	C=C=C(C)[Si](C)(C)C	126.27	8
+['Borate', 'Aryl_Bromide']	F[B-](F)(F)c1ccccc1Br	223.81	11
+['Borate', 'Alkyne_Internal']	CC#C[B-](F)(F)F	106.86	7
+['Carboxylic acid', 'Boronic Acid_sp2']	O=C(O)c1ccccc1B(O)O	165.94	12
+['Alkyne_Internal', 'Stannane_sp2_sp_allyl']	C[Sn](C)(C)C#Cc1ccccc1	264.94	12
+['Phenol', 'Borate']	Oc1cccc([B-](F)(F)F)c1	160.91	11
+['Sulfoxide_Enolizable', 'Boronic Acid_sp2']	CS(=O)c1cccc(B(O)O)c1	184.03	12
+['Amine_Primary', 'Borate']	Nc1cccc([B-](F)(F)F)c1	159.93	11
+['Amine_Primary', 'Boronic Acid_sp2']	Nc1ccccc1B(O)O	136.95	10
+['nH_Heterocycle r5', 'Borate']	F[B-](F)(F)c1ccn[nH]1	134.88	9
+['Amide_Primary', 'Boronic Ester_sp2']	NC(=O)c1ccccc1B1OCCCO1	205.02	15
+['Enol_Ether_Alkyl', 'Boronic Ester_sp2']	CC1(C)OB(C2=COCC2)OC1(C)C	196.05	14
+['Boronic Acid_sp2', 'Ester_NonEnolizable']	COC(=O)c1ccccc1B(O)O	179.97	13
+['Enol_Ether_Alkyl', 'Boronic Acid_sp2']	OB(O)C1=CCCO1	113.91	8
+['Terminal_Michael_Acceptor_Aldehyde', 'Silane_sp2_sp_allyl']	C=C(C=O)[Si](C)(C)C	128.25	8
+['Sulfonamide_NH', 'Boronic Acid_sp2']	NS(=O)(=O)c1ccccc1B(O)O	201.01	13
+['Aryl_Bromide', 'Silane_sp2_sp_allyl']	C[Si](C)(C)c1cccc(Br)c1	229.19	11
+['Boronic Acid_sp2', 'Acyl_Halide']	O=C(Cl)c1cccc(B(O)O)c1	184.39	12
+['Nitro_Enolizable', 'Boronic Acid_sp2']	O=[N+]([O-])CCc1cccc(B(O)O)c1	194.98	14
+['Amide_Tertiary', 'Borate']	CN(C)C(=O)CC[B-](F)(F)F	167.95	11
+['Amine_Primary', 'Boronic Ester_sp2']	CC1(C)COB(c2cccc(N)c2)OC1	205.07	15
+['Thiophenol', 'Boronic Acid_sp2']	OB(O)c1cccc(S)c1	154	10
+['Borate', 'Alkyne_Terminal']	C#C[B-](F)(F)F	92.84	6
+['Boronic Acid_sp2', 'Aryl_Iodide']	OB(O)c1ccccc1I	247.83	10
+['Boronic Ester_sp2', 'Nitrile']	N#Cc1ccccc1B1OCCO1	172.98	13
+['Borate', 'Nitrile']	N#Cc1ccccc1[B-](F)(F)F	169.92	12
+['Boronic Acid_sp2', 'Silane_sp2_sp_allyl']	C[Si](C)(C)c1cccc(B(O)O)c1	194.11	13
+['Borate', 'SemiUreas']	CC(C)(C)OC(=O)NC[B-](F)(F)F	197.97	13
+['Alcohol', 'Borate']	OCc1ccccc1[B-](F)(F)F	174.94	12
+['Azide', 'Borate']	[N-]=[N+]=NCc1ccccc1[B-](F)(F)F	199.95	14
+['Borate', 'Ester_NonEnolizable']	CCOC(=O)c1ccccc1[B-](F)(F)F	216.97	15
+['Amide_Primary', 'Borate']	NC(=O)c1ccccc1[B-](F)(F)F	187.94	13
+['Borate', 'Aryl_Iodide']	F[B-](F)(F)c1cccc(I)c1	270.81	11
+['Borate', 'Nitro']	O=[N+]([O-])c1cccc([B-](F)(F)F)c1	189.91	13
+['Amide_Tertiary', 'Boronic Acid_sp2']	CN(C)C(=O)c1ccccc1B(O)O	193.01	14
+['Boronic Acid_sp2', 'DieneCyclic']	CC1(C)C=CC(B(O)O)=CC1	152	11
+['Amide_Primary', 'Boronic Acid_sp2']	NC(=O)c1ccccc1B(O)O	164.96	12
+['ThioAmide', 'Boronic Acid_sp2']	NC(=S)c1cccc(B(O)O)c1	181.02	12
+['Alkyl_Halide_Prim_ACT_Br', 'Boronic Acid_sp2']	OB(O)c1ccccc1CBr	214.85	11
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'Acyl_Halide']	CC(=O)/C=C\C(=O)Cl	132.55	8
+['Ketimine', 'Amide_Tertiary']	CN1CCCN=C(c2ccccc2)C1=O	202.26	15
+['Alkyl_Halide_Prim_I', 'Sulfonamide_NH']	CS(=O)(=O)NCCI	249.07	8
+['Phenol', 'Anhydride']	O=C1OC(=O)c2cc(O)ccc21	164.12	12
+['Oxime', 'Acetal_Alkyl']	COC(OC)/C(C)=N/O	133.15	9
+['Alkyl_Halide_Prim_ACT_Br', 'Aryl_Iodide']	BrCc1ccccc1I	296.93	9
+['Alkyl_Halide_Prim_ACT_Cl', 'Vinyl_Bromide_Iodide']	ClC/C=C/Br	155.42	5
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Alkyl_Halide_Secondary_Br']	O=C1CCC(=O)C1Br	177	8
+['Alkyl_Halide_Prim_ACT_Cl', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	COC(=O)/C(C)=C\CCl	148.59	9
+['Nitrile', 'SemiUreas']	Cc1cccc(C#N)c1OC(=S)N(C)C	220.3	15
+['Acetal_Alkyl', 'Vinyl_Chloride']	C=C(Cl)C(OCC)OCC	164.63	10
+['Aryl_Bromide', 'Anhydride']	O=C1OC(=O)c2cc(Br)ccc21	227.01	12
+['Alkyl_Halide_Prim_Cl', 'Alkyl_Halide_Prim_I']	ClCCI	190.41	4
+['Aryl_F-Cl_Activated', 'Anhydride']	O=C1OC(=O)c2c(Cl)cccc21	182.56	12
+['Isonitrile', 'Amide_Tertiary']	[C-]#[N+]CC(=O)N(C)C	112.13	8
+['Alkyl_Halide_Prim_Cl', 'Thioacetal_CH']	ClCC1SCCCCS1	182.74	9
+['Isocyanate', 'Alkene_Terminal']	C=CN=C=O	69.06	5
+['ThioEster', 'Azide']	CC(=O)SCCCN=[N+]=[N-]	159.21	10
+['Nitrile _Enolizable', 'Enol_Ether_Alkyl']	N#CCC1CC2=C(CCCC2=O)O1	177.2	13
+['Aryl_Bromide', 'Alkene_Terminal']	C=Cc1ccccc1Br	183.05	9
+['Alkyl_Halide_Prim_ACT_Br', 'Amide_Primary']	NC(=O)CBr	137.96	5
+['Alkyl_Halide_Tertiary_Br', 'Alkene_Internal']	BrC1(c2ccccc2)CC=CC1	223.11	12
+['Thiol ', 'Amide_Tertiary']	CN(C)C(=O)CS	119.19	7
+['Alkyl_Halide_Prim_I', 'Alkene_Terminal']	C=CCCI	182	5
+['Enamine_EWG', 'Internal_Michael_Acceptor_Alkene_Nitro']	CC(=O)N/C=C\[N+](=O)[O-]	130.1	9
+['Hydrazone', 'Ester_Enolizable']	CCOC(=O)C1CC=NN1	142.16	10
+['nH_Heterocycle r5', 'Alkyne_Terminal']	C#Cc1ccn[nH]1	92.1	7
+['HydroxylamineN', 'Enol_Ether_Alkyl']	C=COCCON	103.12	7
+['Ketone_Enolizable', 'Azide']	CC(=O)CCN=[N+]=[N-]	113.12	8
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Nitrile _Enolizable']	CC(=O)C(CCC#N)C(C)=O	153.18	11
+['Thioacetal_CH', 'Aryl_Bromide']	Brc1ccccc1C1SCCCS1	275.24	13
+['Carboxylic acid', 'HemiaminalNH']	O=C(NC(O)C(=O)O)c1ccccc1	195.17	14
+['Acetal_Acyl', 'Vinyl_Bromide_Iodide']	CCOC1OC(=O)C=C1Br	207.02	10
+['ThioEster', 'Vinyl_Chloride']	C=C(Cl)CSC(C)=O	150.63	8
+['Azide', 'Ester_NonEnolizable']	COC(=O)c1ccccc1N=[N+]=[N-]	177.16	13
+['Alkyl_Halide_Prim_ACT_I', 'Alkene_Terminal']	C=CCI	167.98	4
+['Alkyl_Halide_Prim_Br', 'Alkene_Terminal']	C=CCCBr	135	5
+['Sulfonamide_NH', 'Alkyne_Internal']	CC#CCS(N)(=O)=O	133.17	8
+['Sulfoxide_Enolizable', 'Aryl_Iodide']	CS(=O)c1ccccc1I	266.1	10
+['Alkyl_Halide_Tertiary_Br', 'Alkyne_Terminal']	C#CC(C)(C)Br	147.01	6
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyl_Halide_Secondary_Br']	CC(=O)C(Br)C(C)=O	179.01	8
+['Ester_Enolizable', 'DieneCyclic']	COC(=O)CC1=CC=CCC1(C)C	180.25	13
+['Aryl_Iodide', 'Ester_NonEnolizable']	COC(=O)c1ccccc1I	262.05	11
+['Isocyanate', 'Amide_Tertiary']	CN1C(=O)C(N=C=O)c2ccccc21	188.19	14
+['Isocyanate', 'Alkyne_Terminal']	C#CCN=C=O	81.07	6
+['Thiophenol', 'Acyl_Halide']	O=C(Cl)c1ccccc1S	172.64	10
+['ThioEster', 'Anhydride']	CC(=O)SC1CC(=O)OC1=O	174.18	11
+['HydroxylamineN', 'Amide_Secondary']	CNC(=O)CON	104.11	7
+['Carboxylic acid', 'Isonitrile']	[C-]#[N+]CC(=O)O	85.06	6
+['Azide', 'nH_Heterocycle r6']	Cc1c[nH]c(CN=[N+]=[N-])c(C)c1=O	178.2	13
+['Alkyl_Halide_Prim_ACT_Cl', 'Vinyl_Chloride']	Cl/C=C\CCl	110.97	5
+['Alkyl_Halide_Prim_ACT_Cl', 'nH_Heterocycle r6']	Cc1c[nH]c(CCl)c(C)c1=O	171.63	11
+['Alkyl_Halide_Prim_Br', 'Alkyne_Terminal']	C#CCCBr	132.99	5
+['Alkyl_Halide_Secondary_Br', 'Alkyne_Terminal']	C#CC(C)Br	132.99	5
+['Alkyl_Halide_Prim_Cl', 'Alkene_Internal']	ClCC/C=C/c1ccccc1	166.65	11
+['Oxirane_Terminal', 'Alkene_Terminal']	C=CC1CO1	70.09	5
+['Azide', 'Sulfonamide_Sulfone_Enolizable']	CS(=O)(=O)OCCN=[N+]=[N-]	165.17	10
+['ThioAmide', 'nH_Heterocycle r6']	Cc1ccc(C(N)=S)c(=O)[nH]1	168.22	11
+['Alkyl_Halide_Prim_ACT_Cl', 'Terminal_Michael_Acceptor_Alkene_Ester']	C=C(CCl)C(=O)OC	134.56	8
+['Amine_Secondary', 'Alkyl_Halide_Secondary_Br']	BrC1CCNC1	150.02	6
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'nH_Heterocycle r5']	COC(=O)/C=C/c1ccc[nH]1	151.16	11
+['Enol_Ether_Alkyl', 'Terminal_Michael_Acceptor_Alkene_Ester']	C=C(OC)C(=O)OC	116.12	8
+['Hydrazine_NH2', 'DiEWG_Cmpd_DiCarbonyl_Cyclic']	NNC(=O)C1CCCC1=O	142.16	10
+['Thiocyanate', 'Alkyne_Terminal']	C#CCSC#N	97.14	6
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Alkene_C#N']	CO/C=C\C#N	83.09	6
+['Amine_Secondary', 'Hemiacetal']	OC1CNCCO1	103.12	7
+['Amine_Secondary', 'Aminal_Alkyl']	CN(C1CCNCC1)C1CCCO1	184.28	13
+['Amine_Primary', 'Nitro_Enolizable']	CC(Cc1ccc(N)cc1)[N+](=O)[O-]	180.21	13
+['Oxirane_Internal', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H']	CC(=O)/C=C/C1C(C)(C)CCC2OC12C	208.3	15
+['Thiocyanate', 'Aryl_Bromide']	N#CSc1ccccc1Br	214.09	10
+['Acetal_Alkyl', 'Amide_Primary']	COC(OC)C(N)=O	119.12	8
+['Ketimine', 'Aryl_F-Cl_Activated']	Clc1ccccc1C1=NCCC1	179.65	12
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_H', 'Aminal_Alkyl']	O=C1C=CC2COC(c3ccccc3)N12	201.23	15
+['Amide_Primary', 'Vinyl_Bromide_Iodide']	C=C(Br)C(N)=O	149.97	6
+['Sulfonamide_Sulfone_Enolizable', 'Alkyne_Terminal']	C#CCOS(C)(=O)=O	134.16	8
+['Hydrazine_NH1', 'Alkyl_Halide_Prim_Cl']	CN(C)NCCCl	122.6	7
+['Sulfoxide_Enolizable', 'Aryl_F-Cl_Activated']	CS(=O)c1ccccc1Cl	174.65	10
+['ThionoEster', 'Amide_Primary']	CCOC(=S)C(N)=O	133.17	8
+['Weinreb_Amide', 'Alkyl_Halide_Prim_ACT_Cl']	CONC(=O)CCl	123.54	7
+['Enamine_EWG', 'Ketone_NonEnolizable']	O=C1NC2=C(CCCC2)C1=O	151.16	11
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'ThioEster']	CCSC(=O)CC(C)=O	146.21	9
+['Isocyanate', 'Ureas']	O=C=NCN1C(=O)CCNC1=O	169.14	12
+['Thiol ', 'Amide_Primary']	NC(=O)CS	91.13	5
+['Alkene_Terminal', 'Carbonate']	C=CC1COC(=O)O1	114.1	8
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Internal_Michael_Acceptor_Alkene_C#N']	CCOC(=O)/C=C\C#N	125.13	9
+['Hydrazine_NH1', 'Ketone_Enolizable']	O=C1CNNc2ccccc21	148.16	11
+['Alkene_Terminal', 'Nitro']	C=Cc1ccccc1[N+](=O)[O-]	149.15	11
+['Enol_Ether_Alkyl', 'Ketone_NonEnolizable']	O=C(/C=C1/CCCO1)c1ccccc1	188.23	14
+['Ester_Enolizable', 'Aryl_Iodide']	CC(=O)Oc1cccc(I)c1	262.05	11
+['Alkyl_Halide_Prim_ACT_Cl', 'Acyl_Halide']	O=C(Cl)CCl	112.94	5
+['Amine_Primary', 'Cyanamide']	N#CNc1ccccc1N	133.15	10
+['Isothiocyanate', 'Alkyl_Halide_Prim_ACT_Br']	S=C=Nc1ccccc1CBr	228.11	11
+['Isocyanate', 'nH_Heterocycle r5']	O=C=Nc1c[nH]c2ccccc12	158.16	12
+['Aldehyde_Enolizable', 'Nitrile']	CC(C)(C#N)CC=O	111.14	8
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_Sub', 'Ketone_Enolizable']	CC(=O)C1CC=C(C)C(=O)C1	152.19	11
+['Michael_Acceptor_Alkyne_Ester', 'Nitro']	COC(=O)C#Cc1ccccc1[N+](=O)[O-]	205.17	15
+['Nitrile _Enolizable', 'Alkyl_Halide_Prim_ACT_Br']	N#CCBr	119.95	4
+['Anhydride', 'Nitro']	O=C1OC(=O)c2cc([N+](=O)[O-])ccc21	193.11	14
+['Sulfoxide_Enolizable', 'Ester_NonEnolizable']	COC(=O)c1ccccc1S(C)=O	198.24	13
+['Weinreb_Amide', 'Nitro']	CON(C)C(=O)c1ccccc1[N+](=O)[O-]	210.19	15
+['Isocyanate', 'Nitro']	O=C=Nc1ccccc1[N+](=O)[O-]	164.12	12
+['Phenol', 'SemiUreas']	O=C1CSC(=S)N1c1ccccc1O	225.29	14
+['ThioAmide', 'Sulfonamide_NH']	NC(=S)c1cccc(S(N)(=O)=O)c1	216.29	13
+['ThioAmide', 'Aryl_Iodide']	NC(=S)c1ccccc1I	263.1	10
+['Nitro', 'Thiourea']	NC(=S)Nc1ccccc1[N+](=O)[O-]	197.22	13
+['Weinreb_Amide', 'Internal_Michael_Acceptor_Alkene_Amide_Alpha_H']	CC/C=C/C(=O)N(C)OC	143.19	10
+['Carboxylic acid', 'Thioacetal_CH']	O=C(O)C1SCCS1	150.22	8
+['Thiol ', 'Oxime']	C/C(CS)=N\O	105.16	6
+['Thiol ', 'Nitrile _Enolizable']	N#CCCS	87.15	5
+['Oxirane_Terminal', 'Alkyl_Halide_Prim_I']	ICC1CO1	183.98	5
+['Nitrile _Enolizable', 'ThioAmide']	N#CCC(N)=S	100.15	6
+['Aldehyde_Enolizable', 'Enol_Ether_Alkyl']	O=CC1CCC=CO1	112.13	8
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H']	CCOC(=O)C1C(=O)C=CCC1C	182.22	13
+['Enol_Ether_EWG', 'Terminal_Michael_Acceptor_Alkene_C#N']	C=C(C#N)OC(C)=O	111.1	8
+['Alkyl_Halide_Prim_ACT_Cl', 'Thiocyanate']	N#CSCCl	107.57	5
+['Thiol ', 'Alkyl_Halide_Prim_Cl']	SCCCCl	110.61	5
+['Alcohol_Propargyl', 'Carboxylic acid']	O=C(O)C#CCO	100.07	7
+['Acetal_Alkyl', 'Guanidine']	COC(CNC(=N)N)OC	147.18	10
+['Alkyl_Halide_Prim_Cl', 'Thiirane']	ClCC1CS1	108.59	5
+['Alkyl_Halide_Secondary_Cl', 'ThioEster']	Cc1ccc(SC(=O)C(C)Cl)cc1	214.72	13
+['Amine_Secondary', 'DieneAcyclicTerminal']	C=CC(=C)CC(NC)c1ccccc1	187.29	14
+['Amide_Tertiary', 'Nitroso']	CC(=O)N1CCN(N=O)CC1	157.17	11
+['Hydrazone', 'Alkyl_Halide_Prim_ACT_Cl']	CC(C)C(=O)N/N=C/CCl	162.62	10
+['Thiophenol', 'Amidine']	Sc1ccccc1C1=NCCN1	178.26	12
+['Amide_Primary', 'Nitroso']	CC(N=O)C(N)=O	102.09	7
+['Amide_Secondary', 'Thioacetal_CH']	CCSC(SCC)C(=O)NC	193.34	11
+['Weinreb_Amide', 'Aryl_F-Cl_Activated']	CON(C)C(=O)c1ccccc1Cl	199.64	13
+['Hydrazine_NH2', 'Aryl_Iodide']	NNc1ccccc1I	234.04	9
+['Aryl_Iodide', 'Alkene_Terminal']	C=Cc1ccccc1I	230.05	9
+['Alkyl_Halide_Prim_Cl', 'Alkyl_Halide_Tertiary_Br']	CC(C)(Br)CCl	171.47	6
+['Aldehyde_Aryl', 'Ketone_Enolizable']	CC(=O)c1ccccc1C=O	148.16	11
+['Aryl_Iodide', 'Ketone_NonEnolizable']	O=C1c2ccccc2-c2cccc(I)c21	306.1	15
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'ThioEster']	CCOC(=O)C1CCCSC1=O	188.25	12
+['Isocyanate', 'Alkyl_Halide_Prim_Br']	O=C=NCCBr	149.97	6
+['Isocyanate', 'Alkyl_Halide_Prim_ACT_Cl']	O=C=NC(=O)CCl	119.51	7
+['Terminal_Michael_Acceptor_Alkene_Ester', 'Vinyl_Bromide_Iodide']	C=C(Br)C(=O)OC	164.99	7
+['Alkyl_Halide_Prim_ACT_Br', 'Terminal_Michael_Acceptor_Alkene_Ester']	C=C(CBr)C(=O)OC	179.01	8
+['Isocyanate', 'Alkyl_Halide_Prim_Cl']	O=C=NCCCl	105.52	6
+['Isothiocyanate', 'Alkyl_Halide_Prim_Br']	S=C=NCCBr	166.04	6
+['Alcohol_Propargyl', 'Nitrile']	N#Cc1ccccc1C#CCO	157.17	12
+['Enol_Ether_EWG', 'Aryl_F-Cl_Activated']	C=COC(=O)c1ccccc1Cl	182.61	12
+['Internal_Michael_Acceptor_Aldehyde', 'nH_Heterocycle r5']	O=C/C=C/c1ccc[nH]1	121.14	9
+['Terminal_Michael_Acceptor_Alkene_Amide', 'Ester_Enolizable']	C=CC(=O)N(C)CC(=O)OC	157.17	11
+['Internal_Michael_Acceptor_Alkene_Ester_Alpha_H', 'Phosphonate_Enolizable']	COC(=O)/C=C/CP(=O)(OC)OC	208.15	13
+['DiEWG_Cmpd_Carbonyl_SP', 'Weinreb_Amide']	CON(C)C(=O)CS(=O)c1ccccc1	227.28	15
+['Nitrile _Enolizable', 'Alkyne_Terminal']	C#CCCC#N	79.1	6
+['Ketimine', 'Oxime']	CC1(C)C(/C=N/O)=Nc2ccccc21	188.23	14
+['Isothiocyanate', 'Alkyl_Halide_Prim_Cl']	S=C=NCCCl	121.59	6
+['Isocyanate', 'Aryl_Iodide']	O=C=Nc1cccc(I)c1	245.02	10
+['Alcohol_Propargyl', 'Alkyl_Halide_Prim_ACT_Cl']	OCC#CCCl	104.54	6
+['Hydrazine_NH2', 'Nitrile']	N#Cc1ccccc1NN	133.15	10
+['Alkyl_Halide_Prim_ACT_Cl', 'Aryl_Iodide']	ClCc1ccccc1I	252.48	9
+['Internal_Michael_Acceptor_Alkene_Nitro', 'Nitro']	O=[N+]([O-])/C=C/c1ccccc1[N+](=O)[O-]	194.15	14
+['Alkyl_Halide_Prim_Cl', 'ThioEster']	CC(=O)SCCCCl	152.65	8
+['Nitrile _Enolizable', 'Alkyl_Halide_Tertiary_Cl']	CC(C)(Cl)CCC#N	131.61	8
+['Alkyl_Halide_Prim_ACT_Br', 'Nitrile']	N#Cc1ccccc1CBr	196.05	10
+['Alkyl_Halide_Prim_Cl', 'Alkyl_Halide_Prim_Br']	ClCCBr	143.41	4
+['Alcohol', 'Carbonate']	O=C1OCC(CO)O1	118.09	8
+['Internal_Michael_Acceptor_Alkene_Nitro', 'Vinyl_Bromide_Iodide']	O=[N+]([O-])/C(Br)=C/c1ccccc1	228.05	12
+['Isothiocyanate', 'Vinyl_Chloride']	C=C(Cl)CN=C=S	133.6	7
+['Terminal_Michael_Acceptor_Aldehyde', 'Vinyl_Bromide_Iodide']	C=C(Br)C=O	134.96	5
+['Alkyl_Halide_Secondary_Cl', 'Alkyne_Terminal']	C#CC(C)Cl	88.54	5
+['Alkyl_Halide_Prim_Cl', 'Alkyne_Terminal']	C#CCCCl	88.54	5
+['Alkyl_Halide_Prim_Cl', 'Alkyl_Halide_Tertiary_Cl']	CC(C)(Cl)CCl	127.01	6
+['Isocyanate', 'Ketone_Enolizable']	CC(=O)c1cccc(N=C=O)c1	161.16	12
+['HydroxylamineN', 'Alkene_Terminal']	C=CCON	73.09	5
+['Alkyl_Halide_Prim_ACT_Cl', 'Alkyne_Terminal']	C#CCCl	74.51	4
+['Amine_Primary', 'ThioEster']	NC1CCSC1=O	117.17	7
+['Alkyl_Halide_Prim_ACT_Br', 'Alkyne_Terminal']	C#CCBr	118.96	4
+['Weinreb_Amide', 'Terminal_Michael_Acceptor_Alkene_Amide']	C=CC(=O)N(C)OC	115.13	8
+['Thiophenol', 'Amide_Primary']	NC(=O)c1ccccc1S	153.21	10
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Aryl_F-Cl_Activated']	CC(=O)CC(=O)c1ccccc1Cl	196.63	13
+['Enamine', 'DienoneAcyclic']	CN(C)/C=C/C(=O)/C=C/c1ccccc1	201.27	15
+['Alkyl_Halide_Secondary_Cl', 'Alkyl_Halide_Secondary_Br']	ClC1CCCCC1Br	197.5	8
+['Alkyl_Halide_Secondary_Cl', 'nH_Heterocycle r5']	CC(Cl)c1nc2ccccc2[nH]1	180.64	12
+['Alcohol', 'Thiophenol']	OCc1ccccc1S	140.21	9
+['Anhydride', 'Alkyne_Terminal']	C#CCC1CC(=O)OC1=O	138.12	10
+['nH_Heterocycle r5', 'Cyanamide']	N#CNc1nc2ccccc2[nH]1	158.16	12
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Hydrazone']	CCOC(=O)C1C=NNC1=O	156.14	11
+['Alcohol', 'Anhydride']	CC1(O)CC(=O)OC(=O)C1	144.13	10
+['Enamine', 'Anhydride']	N/C=C1/C(=O)OC(=O)c2ccccc21	189.17	14
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Nitro']	O=C1CC(=O)c2c1cccc2[N+](=O)[O-]	191.14	14
+['Alcohol_Allyl', 'Ketone_NonEnolizable']	C=CC1(O)Cc2ccccc2C1=O	174.2	13
+['Phenol', 'Isothiocyanate']	Oc1cccc(N=C=S)c1	151.19	10
+['Alkyl_Halide_Prim_ACT_Cl', 'Nitrile']	N#Cc1ccccc1CCl	151.6	10
+['Oxime', 'Thiourea']	O=C1NC(=S)NC(=O)C1=NO	173.15	11
+['Aldehyde_Aryl', 'SulfonylChloride']	O=Cc1ccccc1S(=O)(=O)Cl	204.63	12
+['Alkyl_Halide_Prim_Br', 'SulfonylChloride']	O=S(=O)(Cl)CCBr	207.48	7
+['Amide_Primary', 'Alkyne_Internal']	NC(=O)C#Cc1ccccc1	145.16	11
+['Nitrile _Enolizable', 'Aryl_Iodide']	N#CCc1ccccc1I	243.05	10
+['Enamine', 'Terminal_Michael_Acceptor_Ketone']	C=C1C(=O)C2CCN1CC2	137.18	10
+['Aryl_Iodide', 'Anhydride']	O=C1OC(=O)c2c(I)cccc21	274.01	12
+['Isonitrile', 'Aryl_Iodide']	[C-]#[N+]c1ccccc1I	229.02	9
+['Oxirane_Terminal', 'Amide_Tertiary']	O=C1CCCN1CC1CO1	141.17	10
+['Hydrazine_NH2', 'Internal_Michael_Acceptor_Alkene_Amide_Alpha_H']	C/C=C/C(=O)N(N)CC	128.18	9
+['Aldehyde_Enolizable', 'DiEWG_Cmpd_DiCarbonyl_Acyclic']	CC(=O)C(C=O)C(C)=O	128.13	9
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Nitro']	CC(=O)CC(=O)c1ccccc1[N+](=O)[O-]	207.18	15
+['Aldehyde_Enolizable', 'DiEWG_Cmpd_DiCarbonyl_Cyclic']	CC1(C)CC(=O)C(C=O)C(=O)C1	168.19	12
+['Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub', 'Amide_Secondary']	CC1C(=O)NCCN1C(=O)C1=CCCC1	208.26	15
+['Aldehyde_Aryl', 'Thiophenol']	O=Cc1ccccc1S	138.19	9
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Alkene_Amide_Alpha_Sub']	CC1CCC(C)N1C(=O)C1=CCCCO1	209.29	15
+['Nitrile _Enolizable', 'Cyanamide']	CCc1cccc(N(C#N)CC#N)c1	185.23	14
+['Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H', 'Acetal_Alkyl']	COC(OC)C(=O)/C=C/c1ccccc1	206.24	15
+['Amide_Tertiary', 'Sulfoxide_Enolizable']	CCCC(=O)N1CCS(=O)CC1	189.28	12
+['Phenol', 'Vinyl_Bromide_Iodide']	Oc1ccccc1/C=C/Br	199.05	10
+['nH_Heterocycle r5', 'Vinyl_Bromide_Iodide']	Cc1cnc(/C=C/Br)[nH]1	187.04	9
+['Aldehyde_Enolizable', 'Alkyl_Halide_Prim_ACT_Cl']	O=CCCl	78.5	4
+['Hydrazine_NH1', 'Nitro']	CC(=O)NNc1ccccc1[N+](=O)[O-]	195.18	14
+['Alkyl_Halide_Prim_Cl', 'DienoneCyclic']	CC1(CCl)C=CC(=O)C=C1	156.61	10
+['Internal_Michael_Acceptor_Alkene_C#N', 'Nitro']	N#C/C=C/c1ccccc1[N+](=O)[O-]	174.16	13
+['Phenol', 'Enol_Ether_EWG']	C=COC(=O)c1ccccc1O	164.16	12
+['Ketimine_EWG', 'Ester_Enolizable']	CCOC(=O)CC1=NC(=O)SC1	187.22	12
+['Nitro', 'Silane_sp2_sp_allyl']	C[Si](C)(C)c1cccc([N+](=O)[O-])c1	195.29	13
+['Imide_SulfonimideH', 'Amidine']	CCC(C)C1(CC)C(=O)NC(=O)N=C1N	211.26	15
+['Sulfoxide_Enolizable', 'Nitro']	CS(=O)c1cccc([N+](=O)[O-])c1	185.2	12
+['Isothiocyanate', 'Sulfoxide_Enolizable']	CS(=O)CCCN=C=S	163.27	9
+['Amide_Tertiary', 'Imide_SulfonimideH']	CCCC(=O)N1CC(=O)NC(=O)C1	184.19	13
+['Terminal_Michael_Acceptor_Alkene_Ester', 'Vinyl_Chloride']	C=C(Cl)C(=O)OC	120.53	7
+['HemiaminalNH', 'Ureas']	O=C1NC(O)C(O)N1c1ccccc1	194.19	14
+['Amine_Secondary', 'Weinreb_Amide']	CON(C)C(=O)C1CCCNC1	172.23	12
+['Thioacetal_CH', 'nH_Heterocycle r5']	CCSC(SCC)c1nnn[nH]1	204.32	12
+['Isonitrile', 'Phosphonate_Enolizable']	[C-]#[N+]CP(=O)(OCC)OCC	177.14	11
+['Enamine_EWG', 'ThioAmide']	CC1S/C(=C/C(N)=S)NC1=O	188.28	11
+['Aldehyde_Aryl', 'Acetal_Alkyl']	COCOc1ccccc1C=O	166.18	12
+['Alkyl_Halide_Prim_Br', 'Borate']	F[B-](F)(F)CCCBr	189.79	8
+['Oxime', 'Boronic Acid_sp2']	O/N=C/c1ccccc1B(O)O	164.96	12
+['Amine_Secondary', 'SemiUreas']	CC(C)(C)OC(=O)N1CCNCCO1	202.25	14
+['Alcohol', 'Enol_Ether_EWG']	O=C1CC=C(CCO)O1	128.13	9
+['Ketone_NonEnolizable', 'Chloramines']	O=C1C(=O)N(Cl)c2ccccc21	181.58	12
+['ThioAcid', 'Amine_Primary']	NCC(=O)S	91.13	5
+['Enamine', 'ThioEster']	CCCCN/C(C)=C1/C(=O)CSC1=O	213.3	14
+['Alkyne_Internal', 'SemiUreas']	O=C1OCCN1C#Cc1ccccc1	187.2	14
+['nH_Heterocycle r5', 'DieneCyclic']	C1=CCC(c2nc3ccccc3[nH]2)=C1	182.23	14
+['Enamine', 'Nitroso']	CN1/C(=C\N=O)C(C)(C)c2ccccc21	202.26	15
+['Nitrile _Enolizable', 'DieneCyclic']	N#CCC1=CC=CC1	105.14	8
+['Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H', 'Alkene_Internal']	O=C1C=CCCC=CC1	122.17	9
+['Internal_Michael_Acceptor_Aldehyde', 'DieneCyclic']	O=CC1=CC=CCC1	108.14	8
+['Terminal_Michael_Acceptor_Alkene_C#N', 'Ester_Enolizable']	C=C(C#N)CC(=O)OC	125.13	9
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Aryl_F-Cl_Activated']	O=C1CC(=O)c2c(Cl)cccc21	180.59	12
+['Alkene_Internal', 'Stannane_sp2_sp_allyl']	C[Sn](C)(C)C1=CCCCC1	244.95	10
+['Terminal_Michael_Acceptor_Ketone', 'Silane_sp2_sp_allyl']	C=C(C(C)=O)[Si](C)(C)C	142.27	9
+['Oxime', 'DieneCyclic']	CC1=CC=CC(C)(C)C/C1=N/O	165.24	12
+['Oxirane_Internal', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_Sub']	COC(=O)C1=CCC2OC2C1	154.16	11
+['Alcohol', 'DieneCyclic']	CC1(CO)C=CC=C1	110.16	8
+['ThioKetone', 'Amide_Primary']	CC(=S)CC(N)=O	117.17	7
+['Internal_Michael_Acceptor_Alkene_C#N', 'Aryl_Iodide']	N#C/C=C/c1ccccc1I	255.06	11
+['Alcohol_Propargyl', 'Acetal_Alkyl']	CCOC(C#CCO)OCC	158.2	11
+['Nitrile _Enolizable', 'Internal_Michael_Acceptor_Alkene_C#N']	N#C/C=C/CCC#N	106.13	8
+['Alkene_Terminal', 'Ester_NonEnolizable']	C=CC(C)(C)C(=O)OCC	142.2	10
+['Hemiacetal', 'Amide_Tertiary']	O=C1C(O)OCCN1Cc1ccccc1	207.23	15
+['Acyl_Halide', 'Ketone_NonEnolizable']	O=C(Cl)C(=O)c1ccccc1	168.58	11
+['Imide_SulfonimideH', 'Vinyl_Bromide_Iodide']	O=C1C=C(Br)C(=O)N1	175.97	8
+['Carboxylic acid', 'Internal_Michael_Acceptor_Ketone_Acyclic_Alpha_H']	CC(=O)/C=C/C(=O)O	114.1	8
+['Phenol', 'Alkyne_Terminal']	C#Cc1ccccc1O	118.13	9
+['Terminal_Michael_Acceptor_Alkene_C#N', 'Vinyl_Bromide_Iodide']	C=C(Br)C#N	131.96	5
+['Aryl_Bromide', 'Alkyne_Terminal']	C#Cc1ccccc1Br	181.03	9
+['Enol_Ether_EWG', 'Alkene_Terminal']	C=COC(=O)C=C	98.1	7
+['Nitrile _Enolizable', 'Alkyl_Halide_Prim_I']	N#CCCI	180.98	5
+['Vinyl_Chloride', 'SemiUreas']	C=C(Cl)CSC(=S)N(CC)CC	223.79	12
+['Michael_Acceptor_Alkyne_S', 'Sulfonamide_NH']	NS(=O)(=O)C#Cc1ccccc1	181.22	12
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Alkene_Terminal']	C=CCC1C(=O)CCCC1=O	152.19	11
+['DieneAcyclicTerminal', 'Ketone_NonEnolizable']	C=C1C(C)=C(C)C(C)(C)C(=O)C1(C)C	192.3	14
+['Disulfide', 'nH_Heterocycle r5']	CCC(C)SSc1ncc[nH]1	188.32	11
+['Carboxylic acid', 'Thiophenol']	O=C(O)c1ccccc1S	154.19	10
+['Alcohol_Allyl', 'Internal_Michael_Acceptor_Ketone_Cyclic_Alpha_H']	O=C1C=CC(O)C1	98.1	7
+['Alkyl_Halide_Prim_Br', 'Amidine']	N=C(N)CCBr	151.01	6
+['Carboxylic acid', 'Alkyl_Halide_Prim_I']	O=C(O)CCI	199.98	6
+['Enamine_EWG', 'Terminal_Michael_Acceptor_Alkene_Ester']	C=C(NC(C)=O)C(=O)OC	143.14	10
+['Terminal_Michael_Acceptor_Alkene_C#N', 'Vinyl_Chloride']	C=C(Cl)C#N	87.51	5
+['Hydrazine_NH2', 'DiEWG_Cmpd_DiCarbonyl_Acyclic']	CCOC(=O)CC(=O)NN	146.15	10
+['ThioEster', 'Ketone_NonEnolizable']	O=C1Sc2ccccc2C1=O	164.18	11
+['Amine_Primary', 'Isothiocyanate']	Nc1cccc(N=C=S)c1	150.21	10
+['Acyl_Halide', 'DieneAcyclicInternal']	C/C=C/C=C/C(=O)Cl	130.57	8
+['Enol_Ether_EWG', 'Alkyl_Halide_Prim_ACT_Cl']	C=COC(=O)CCl	120.53	7
+['Thiophenol', 'Enamine']	Sc1ccccc1C1=CCCN1	177.27	12
+['Amide_Primary', 'Thioacetal_CH']	CCSC(SCC)C(N)=O	179.31	10
+['Carboxylic acid', 'Alkyl_Halide_Prim_ACT_Br']	O=C(O)CBr	138.95	5
+['Carboxylic acid', 'Alkyl_Halide_Prim_ACT_Cl']	O=C(O)CCl	94.5	5
+['Alkyl_Halide_Prim_ACT_I', 'Amide_Primary']	NC(=O)CI	184.96	5
+['Carboxylic acid', 'Alkyl_Halide_Prim_ACT_I']	O=C(O)CI	185.95	5
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Alkyl_Halide_Prim_ACT_Br']	CCOC(=O)CC(=O)CBr	209.04	10
+['Aldehyde_Carbonyl', 'Carboxylic acid']	O=CC(=O)O	74.03	5
+['Alkyl_Halide_Prim_ACT_Cl', 'Amide_Primary']	NC(=O)CCl	93.51	5
+['Alcohol_Propargyl', 'Alkyl_Halide_Secondary_Cl']	C#CC1(O)CCCCC1Cl	158.63	10
+['Nitro_Enolizable', 'Amidine']	C/N=C(/C[N+](=O)[O-])NC	131.13	9
+['Alkyl_Halide_Prim_ACT_I', 'Acyl_Halide']	O=C(Cl)CI	204.39	5
+['Alkyl_Halide_Secondary_Cl', 'Ureas']	CN(C)C(=O)NC1CCCCC1Cl	204.7	13
+['Nitrile _Enolizable', 'Sulfoxide_Enolizable']	CS(=O)CCCC#N	131.2	8
+['Nitrile _Enolizable', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	N#CCOC(=O)/C=C\c1ccccc1	187.2	14
+['Alcohol_Allyl', 'Internal_Michael_Acceptor_Alkene_Ester_Alpha_H']	CCOC(=O)/C=C/CO	130.14	9
+['Sulfonamide_NH', 'Ureas']	NC(=O)NCCS(N)(=O)=O	167.19	10
+['Thiol ', 'Alkene_Terminal']	C=CCS	74.15	4
+['Nitrile _Enolizable', 'Alkyl_Halide_Prim_ACT_I']	N#CCI	166.95	4
+['Nitrile _Enolizable', 'Alkyl_Halide_Prim_ACT_Cl']	N#CCCl	75.5	4
+['Nitrile _Enolizable', 'PhosphorylChloride_PX3']	CC(C)N(C(C)C)P(Cl)OCCC#N	236.68	14
+['Alkyl_Halide_Prim_I', 'Alkyne_Terminal']	C#CCCI	179.99	5
+['Azide', 'Phosphonate_Enolizable']	CCOP(=O)(CCN=[N+]=[N-])OCC	207.17	13
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Oxime']	C/C(=N/O)C1C(=O)c2ccccc2C1=O	203.2	15
+['DiEWG_Cmpd_DiCarbonyl_Cyclic', 'Acyl_Halide']	O=C1CC(=O)CC(C(=O)Cl)C1	174.58	11
+['Oxime', 'Hydrazone']	O=C1NN=CC1/C=N/O	127.1	9
+['Oxime', 'Thiocyanate']	C/C(=N\O)c1ccccc1SC#N	192.24	13
+['Amide_Primary', 'Anhydride']	NC(=O)c1ccc2c(c1)C(=O)OC2=O	191.14	14
+['Hydrazine_NH1', 'Alkene_Terminal']	C=CC(=O)NNC(=O)c1ccccc1	190.2	14
+['Oxirane_Terminal', 'Borate']	F[B-](F)(F)CCC1CO1	138.91	9
+['Allene', 'Borate']	C=C=C[B-](F)(F)F	106.86	7
+['Borate', 'Vinyl_Bromide_Iodide']	C/C(Br)=C/[B-](F)(F)F	187.77	8
+['Boronic Acid_sp2', 'Alkyne_Terminal']	C#Cc1ccccc1B(O)O	145.95	11
+['Amide_Secondary', 'Sulfonamide_Sulfone_Enolizable']	CS(=O)(=O)OCC1CCCNC1=O	207.25	13
+['Sulfoxide_Enolizable', 'Phosphonate_Enolizable']	CCOP(=O)(CC(N)S(=O)CC)OCC	257.29	15
+['Alkene_Internal', 'Chloramines']	O=C1C2=C(CCCC2)C(=O)N1Br	230.06	12
+['Enol_Ether_Alkyl', 'Internal_Michael_Acceptor_Alkene_Nitro']	O=[N+]([O-])C1=CCCCO1	129.12	9
+['Internal_Michael_Acceptor_Alkene_Nitro', 'Acetal_Alkyl']	O=[N+]([O-])/C=C/COC1CCCCO1	187.19	13
+['Alkyl_Halide_Secondary_Br', 'ThioAmide']	CC(Br)CC(N)=S	182.09	7
+['Internal_Michael_Acceptor_Aldehyde', 'Borate']	O=C/C=C/[B-](F)(F)F	122.86	8
+['Aldimine_EWG']	O=S1(=O)CCC=N1	119.14	7
+['Michael_Acceptor_Alkene_diEWG']	C=C(C(=O)OC)C(=O)OC	144.13	10
+['Azide']	CC(C)N=[N+]=[N-]	85.07	6
+['Azo']	CCN=NCC	86.14	6
+['Nitro', 'Azo']	CC1N=Nc2cc([N+](=O)[O-])ccc21	177.16	13
+['DieneAcyclicInternal', 'Alkene_Internal']	C/C=C(C)/C=C/C1C(C)=CCCC1(C)C	204.36	15
+['Enamine', 'Vinyl_Bromide_Iodide']	CCCCNC1=C(Br)C(=O)CC(C)(C)C1	274.2	15
+['Enol_Ether_Alkyl', 'Nitrile']	CO/C(=C/C#N)c1c(C)cc(C)cc1C	201.27	15
+['Michael_Acceptor_Alkene_diEWG', 'Amide_Primary']	NC(=O)C(=Cc1ccccc1)C(N)=O	190.2	14
+['Oxime', 'Nitrile']	N#C/C(=N/O)c1ccccc1	146.15	11
+['Enamine_EWG', 'Vinyl_Chloride']	CC(=O)N/C(Cl)=C/c1ccccc1	195.65	13
+['DieneCyclic', 'Nitrile']	CC1=C(C#N)C(C)(C)CC=C1	147.22	11
+['Oxime', 'Imide_SulfonimideH']	O=C1NC(=O)c2ccccc2/C1=N\O	190.16	14
+['DiEWG_Cmpd_DiCarbonyl_Acyclic', 'Thiourea']	CCOC(=O)CC(=O)N1CCNC1=S	216.26	14
+['Enamine', 'Alkene_Terminal']	C=CCN/C(C)=C\C(=O)OCC	169.22	12
+['Enamine_EWG', 'Alkene_Internal']	O=C1C=Cc2ccccc2C=CN1	171.2	13
